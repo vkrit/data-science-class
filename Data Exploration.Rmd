@@ -1,0 +1,25 @@
+---
+title: "Beginning R"
+author: "Veerasak Kritsanapraphan"
+date: "10/1/2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Exploration
+
+A basic data exploration using iris dataset.
+
+- Check the dimensionality
+```{r}
+dim(iris)
+```
+
+- Check column names
+```{r}
+names(iris)
+```
+

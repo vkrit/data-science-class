@@ -1,3 +1,4 @@
+setwd("~/dev/Teaching/SoftwarePark/Fundamental/data-science-class/")
 # Getting Data
 iris <- read.csv("iris.data.csv", header=TRUE)
 

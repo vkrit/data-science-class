@@ -45,7 +45,7 @@ rules<-sort(rules, decreasing=TRUE,by="confidence")
 inspect(rules[1:5])
 
 # whole milk and its antecedent
-rules<-apriori(data=Groceries, parameter=list(supp=0.001,conf = 0.15,minlen=2), 
+rules<-apriori(data=, parameter=list(supp=0.001,conf = 0.15,minlen=2), 
                appearance = list(default="rhs",lhs="whole milk"),
                control = list(verbose=F))
 rules<-sort(rules, decreasing=TRUE,by="confidence")

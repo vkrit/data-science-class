@@ -8,7 +8,7 @@ plot(cluster, hang=-1, label=sampleiris$Species)
 
 ?par
 
-par(mfrow=c(1,2))
+par(mfrow=c(2,2))
 group.3 <- cutree(cluster, k = 3)  # prune the tree by 3 clusters
 table(group.3, sampleiris$Species) # compare with known classes
 
