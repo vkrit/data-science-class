@@ -1,0 +1,2556 @@
+id,stat,choice1,choice2,credit,laceup_only,tuxedo_only,strapless_bev,bevelled_only,parka_bev,blended_only,cuffs_only,pleated_only,wkday_8_11A,wkday_2_5P,wkday_11_8A,wkday_5_11P,wkday_11_2P,wkend_2_11P,wkend_11_2P,wkend_11_A,sundaybest_flag
+132470,long,T1 Faster,T2 Slower,3. +10%,1,1,0,0,2,1,0,2,1,2,0,2,2,1,1,0,0
+127767,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,0,1,0,2,1,1,2,2,2,2,1,0
+184913,loyal,T1 Neutral,T2 Slower,1. None,0,2,1,1,0,0,0,0,2,1,0,0,1,1,0,1,0
+188775,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,1,1,0,1,1,1,1,0
+142912,long,T1 Faster,T2 Faster,1. None,0,1,2,1,1,0,0,1,1,0,2,1,1,0,1,2,0
+144014,long,T1 Faster,T2 Slower,1. None,0,1,1,2,2,0,0,0,0,2,0,2,1,2,0,0,0
+168196,loyal,T1 Faster,T2 Slower,1. None,1,2,2,0,2,0,0,0,2,2,0,2,0,2,0,0,0
+146419,loyal,T1 Faster,T2 Neutral,3. +10%,1,1,1,1,1,2,0,0,1,1,1,2,1,2,1,1,0
+128502,medium,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,0,0,2,1,0,2,1,1,2,1,0
+127129,loyal,T1 Faster,T2 Faster,1. None,1,2,1,2,1,1,1,0,2,1,0,2,2,2,2,1,0
+145303,long,T1 Slower,T2 Slower,2. <10%,1,2,1,1,1,2,2,2,1,1,2,1,2,1,0,1,0
+133614,long,T1 Faster,T2 Neutral,1. None,2,1,0,2,2,0,0,0,0,0,0,2,2,0,2,0,1
+168270,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+125028,long,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,0,2,1,1,0,0,2,0,1,1,0
+169502,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0,1
+122104,medium,T1 Faster,T2 Neutral,1. None,2,0,2,2,0,0,0,0,2,0,0,2,2,0,0,0,0
+114227,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,0,0,2,2,0,0,2,1
+137287,long,T1 Faster,T2 Slower,1. None,1,0,0,0,0,0,0,2,0,2,0,2,1,0,0,0,0
+105348,loyal,T1 Faster,T2 Slower,2. <10%,0,1,0,0,0,0,0,0,1,1,2,0,1,1,1,2,0
+161430,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,1
+187208,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+159936,long,T1 Faster,T2 Faster,1. None,2,0,1,0,0,2,0,0,0,0,0,2,0,2,2,0,0
+164414,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+110425,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,2,2,2,0,0,0,0,2,0,2,1,2,0,0,0
+106935,medium,T1 Faster,T2 Slower,1. None,1,0,0,2,0,2,0,2,1,1,2,2,1,1,1,2,0
+106659,medium,T1 Faster,T2 Slower,1. None,2,0,1,0,1,2,1,0,2,1,0,1,0,2,1,0,0
+101404,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,1,1,1,0,1,1,1,2,2,2,1,1,0
+145336,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+109576,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,0,0,2,2,2,0,0,0
+179078,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+173985,medium,T1 Faster,T2 Neutral,1. None,1,1,0,2,2,0,0,0,1,1,0,2,2,1,2,1,0
+158369,medium,T1 Faster,T2 Faster,1. None,2,0,2,2,2,0,0,0,0,2,0,2,1,2,2,2,0
+117430,short,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+119668,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,2,0,2,2,2,1,2,2,1,2,2,2,2,0
+127067,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+146624,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,2,0,2,0,0,1,2,1,2,1,1,2,0,0
+132978,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,1,2,0,1,1,1,2,1,1,1,2,1,0
+119173,medium,T1 Faster,T2 Slower,1. None,1,2,0,0,1,0,0,0,1,1,0,1,2,2,2,2,0
+176423,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,1,0,2,2,0,0,0,2,0
+121297,long,T1 Faster,T2 Neutral,2. <10%,1,2,2,0,0,0,2,0,0,2,0,1,1,2,2,0,0
+137308,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,1,0,0,0,1,2,2,0,1,1,2,1,0
+176777,loyal,T1 Faster,T2 Faster,1. None,1,1,1,2,1,0,0,0,1,2,1,2,1,2,2,1,0
+135603,medium,T1 Faster,T2 Faster,1. None,1,1,0,0,0,1,0,0,1,1,2,2,0,1,2,2,0
+164373,long,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,1
+182777,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,2,0,0,0,2,1,0,0,2,0,2,0,0
+127896,medium,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,0,2,1,0,2,1,1,2,0,0
+159237,loyal,T1 Faster,T2 Slower,2. <10%,2,2,0,1,0,0,0,0,1,2,1,2,2,2,1,1,0
+130894,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,2,0,0,0,2,1,0,1,1,0,1,2,0
+182837,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,1,0,0,0,2,1,1,1,1,1,2,2,0
+150648,medium,T1 Faster,T2 Slower,1. None,1,2,0,0,0,2,0,0,0,0,0,2,2,2,0,0,0
+129840,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,1,0,2,0,0,2,2,1,0,0,2,1,0,0
+168980,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+121244,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,0,2,0,0,0,0,0,2,1,2,0,2,0
+155831,medium,T1 Faster,T2 Neutral,1. None,2,1,2,0,2,2,0,0,1,2,0,0,1,2,2,0,0
+186500,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+188527,medium,T1 Faster,T2 Neutral,1. None,2,1,0,0,0,0,0,0,1,0,0,0,1,2,2,2,0
+158336,long,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,0,2,1,1,1,1,2,0
+124367,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,1
+185078,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,0,2,2,0,2,0,0
+108633,loyal,T1 Neutral,T2 Slower,1. None,0,1,1,2,2,0,0,2,0,0,0,1,2,2,2,2,0
+99828,long,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,1,0,0,2,1,2,1,2,1,1,0
+175562,long,T1 Faster,T2 Neutral,1. None,2,1,2,1,1,0,0,0,1,2,1,2,1,2,1,0,0
+120458,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+140723,loyal,T1 Faster,T2 Slower,1. None,0,2,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0
+167847,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,2,0,0,1,2,0,1,1,2,1,2,0
+160847,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,2,1,0,2,0,0,1,1,0,2,1,2,1,1,0
+152538,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+121385,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,0,0,2,2,0,0,1,1,0,2,1,2,2,0
+148867,medium,T1 Faster,T2 Faster,1. None,1,2,2,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+162100,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0
+99216,loyal,T1 Slower,T2 Slower,1. None,1,1,1,2,0,1,2,0,0,2,0,2,1,2,2,0,0
+193736,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+143955,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,2,0,2,1,0,1,1,1,0,0,0
+175278,long,T1 Faster,T2 Slower,2. <10%,0,0,0,2,2,0,0,0,1,2,0,1,2,1,1,1,0
+191871,medium,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+113977,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,2,1,1,0,0,1,1,0,2,1,2,2,0,0
+155794,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+167151,loyal,T1 Slower,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+174315,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1
+101791,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+148882,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,2,2,0,0
+132799,loyal,T1 Faster,T2 Faster,1. None,2,0,1,1,2,2,0,0,2,0,2,0,1,0,1,2,0
+186918,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,2,0,0,0,0,2,1,2,1,2,0,0,0
+140829,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
+153401,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+171812,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,1,2,0,0,0,2,1,1,2,1,1,2,1,0
+156509,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+171967,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,1,1,0,0,1,0,1,1,2,1,1,1,0,0
+115244,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,1
+188217,medium,T1 Faster,T2 Slower,2. <10%,0,2,0,0,2,0,0,0,1,1,2,1,0,0,0,2,0
+180865,long,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,1,2,0,2,0,0,2,0,0
+123133,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+114103,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+190581,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+106406,loyal,T1 Faster,T2 Slower,1. None,2,1,2,1,0,0,1,1,1,2,1,1,2,2,2,1,0
+165149,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2,0
+104357,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,2,0,1,1,0,0,1,1,2,0,2,1,2,1,0
+138708,long,T1 Faster,T2 Faster,1. None,1,2,0,2,2,0,0,0,2,0,2,2,1,2,2,0,0
+132869,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,1,0,2,2,0,1,2,0,1,1,1,0,0,0
+115242,long,T1 Neutral,T2 Slower,2. <10%,1,2,0,2,0,2,0,0,0,2,0,2,1,2,2,0,0
+154238,loyal,T1 Faster,T2 Slower,2. <10%,0,0,1,2,2,0,0,0,1,2,0,0,0,2,0,2,0
+136798,long,T1 Faster,T2 Neutral,2. <10%,2,2,0,1,0,2,0,0,2,1,1,2,1,2,1,1,0
+129730,loyal,T1 Faster,T2 Faster,3. +10%,2,0,0,0,0,2,0,0,0,0,0,0,0,2,2,0,1
+162670,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+111984,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,0,0,0,0,1,2,0,0,2,0,2,1,0
+146670,loyal,T1 Slower,T2 Slower,2. <10%,2,2,0,0,0,0,0,0,2,2,1,1,1,1,0,0,0
+156884,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+116978,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,2,0,2,0,0,0,0,0,0
+171262,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+193870,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+163759,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,0,2,2,2,0,0,0
+193697,loyal,T1 Faster,T2 Slower,1. None,1,0,0,2,1,1,0,0,2,1,0,1,2,1,2,1,0
+175267,loyal,T1 Faster,T2 Faster,3. +10%,2,0,2,0,0,2,0,0,0,0,0,2,0,2,0,0,1
+130438,medium,T1 Faster,T2 Slower,1. None,0,0,1,0,0,2,0,0,1,0,0,2,1,2,2,2,0
+179932,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+142201,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+139789,medium,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+125731,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,1,1,1,0,1,1,0,2,2,2,2,0,0
+181641,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,1,2,0,0,2,0,0,0,0
+130219,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,0,2,0,0,0,2,0,2,0,2,0,0,0
+110902,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,0,0
+129048,long,T1 Faster,T2 Faster,1. None,1,0,0,1,2,0,0,2,1,2,0,1,2,2,0,0,0
+191900,loyal,T1 Faster,T2 Faster,2. <10%,1,1,1,2,2,0,2,2,0,1,0,1,2,1,1,0,0
+144808,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,0,1,1,2,0,2,1,0,1,2,2,1,0,0
+143156,short,T1 Faster,T2 Neutral,1. None,0,0,2,0,2,0,0,2,0,0,0,0,2,0,0,0,1
+130025,long,T1 Faster,T2 Faster,1. None,0,2,0,0,2,0,0,0,2,0,2,0,0,0,0,0,0
+173562,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+167729,long,T1 Faster,T2 Faster,1. None,2,0,1,2,2,0,0,0,2,0,0,0,1,0,2,0,0
+142844,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,2,0,0,0,2,0,0,2,0,2,0,2,0,0,0
+133162,loyal,T1 Faster,T2 Faster,1. None,2,1,2,0,2,0,0,0,1,0,2,0,1,1,1,2,0
+146116,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+102993,loyal,T1 Faster,T2 Slower,1. None,1,0,1,2,2,1,2,2,1,2,0,2,2,1,1,0,0
+164979,long,T1 Faster,T2 Faster,1. None,2,0,2,2,2,0,0,0,1,1,0,1,2,2,2,2,0
+127482,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,2,0,1,0,0,2,2,1,1,2,2,0,1,0
+132494,long,T1 Faster,T2 Faster,1. None,1,0,1,1,1,1,0,2,1,1,0,2,2,2,2,2,0
+171487,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,2,1,2,0,0,0,1,0,2,2,1,1,1,0
+189655,loyal,T1 Slower,T2 Slower,1. None,1,0,1,2,1,2,2,2,2,1,1,1,2,1,2,1,0
+139829,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1
+162590,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,1,1,0,0,1,1,2,1,1,1,1,2,0
+161217,loyal,T1 Faster,T2 Slower,1. None,2,1,1,2,1,2,2,0,2,2,0,1,1,2,1,2,0
+191526,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,1,2,0,2,0,1,1,1,1,2,2,0
+136661,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,2,2,0,2,2,2,1,0,1,0,0,0
+127532,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,0,2,2,1,2,0,2,2,2,1,1,0
+147582,medium,T1 Faster,T2 Slower,1. None,1,0,0,2,2,0,0,2,1,1,0,2,1,2,0,2,0
+105464,loyal,T1 Faster,T2 Neutral,1. None,1,2,2,0,2,0,0,0,1,0,0,0,0,2,2,0,0
+107399,loyal,T1 Slower,T2 Slower,1. None,0,2,1,0,1,0,0,0,2,1,2,1,1,0,1,2,0
+158191,long,T1 Faster,T2 Slower,1. None,1,1,0,2,0,2,0,0,1,2,2,1,1,2,1,2,0
+169444,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,2,0,2,0,2,0,0,0
+115344,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,0,0,0,2,2,0,0,0
+112119,loyal,T1 Faster,T2 Slower,1. None,1,2,1,2,0,1,0,0,2,2,0,2,1,2,2,0,0
+173342,medium,T1 Neutral,T2 Slower,3. +10%,0,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0
+105046,long,T1 Faster,T2 Neutral,1. None,2,0,1,1,0,2,0,0,1,2,0,0,1,2,2,2,0
+154613,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+142754,short,T1 Faster,T2 Slower,1. None,2,1,2,0,0,0,0,0,1,0,2,1,0,1,2,2,0
+184481,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,2,0,0,2,2,0,2,0,0,1
+142372,loyal,T1 Faster,T2 Faster,2. <10%,2,0,2,0,0,0,0,0,0,1,0,2,0,2,2,1,0
+140042,medium,T1 Faster,T2 Faster,2. <10%,1,0,1,0,0,2,0,0,1,2,0,2,1,2,1,0,0
+153897,loyal,T1 Faster,T2 Slower,1. None,2,2,0,2,0,0,0,0,1,2,0,1,2,0,0,2,0
+139982,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,2,0,2,2,0,0,1,1,2,1,0
+123039,loyal,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,2,0,0,2,2,2,0,0
+114729,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,1,2,0,0,1,1,2,1,1,0,0,1,0
+192736,long,T1 Faster,T2 Slower,1. None,0,0,1,2,0,2,2,0,0,2,0,2,1,2,0,0,0
+194299,long,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,0,0,2,1,2,1,0,0,1,0,0
+163409,long,T1 Faster,T2 Faster,2. <10%,0,2,2,1,0,0,2,0,1,1,1,1,1,1,2,2,0
+108323,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,1,2,2,0,1,0,1,1,1,1,1,1,1,2,0
+142795,long,T1 Faster,T2 Neutral,1. None,1,1,1,2,0,2,0,0,1,0,2,2,1,2,0,2,0
+169090,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,2,2,0,2,2,1,1,2,1,1,2,2,0
+126752,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+142363,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+125996,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,2,0,2,2,0,0,0,0
+193680,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0
+118734,loyal,T1 Faster,T2 Faster,1. None,1,2,1,2,2,0,0,0,1,2,0,2,1,2,1,1,0
+132851,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+183696,medium,T1 Faster,T2 Faster,3. +10%,0,0,2,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+181260,loyal,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0
+162703,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,1,0,0,1,2,2,1,0
+156653,loyal,T1 Faster,T2 Faster,3. +10%,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,1
+172894,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+154850,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,2,2,0,0,1,2,0,1,1,2,0,0,0
+180950,loyal,T1 Neutral,T2 Slower,1. None,2,1,1,2,1,2,1,0,1,2,1,2,2,2,1,1,0
+102744,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+158037,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,1
+164699,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,0,2,0,1,1,2,1,0,1,1,1,1,1,0
+104441,loyal,T1 Faster,T2 Neutral,1. None,1,1,2,2,0,1,1,0,1,1,2,2,1,1,1,2,0
+165524,medium,T1 Neutral,T2 Slower,1. None,2,2,1,0,0,0,0,0,2,1,1,0,1,2,0,1,0
+149826,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+183905,loyal,T1 Faster,T2 Slower,2. <10%,1,0,0,2,0,2,0,2,1,0,0,2,2,0,0,0,0
+192202,medium,T1 Neutral,T2 Slower,2. <10%,1,2,1,0,1,0,0,0,2,2,1,0,1,1,0,1,0
+124599,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+122198,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+188909,loyal,T1 Faster,T2 Slower,1. None,2,1,0,2,0,1,0,0,1,2,0,1,0,2,2,1,0
+132605,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,1,0,0,0,2,1,0,1,2,1,2,1,0
+175724,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,2,0,0,0,0,2,0,2,0,0,1
+114280,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,1,0,0,0,0,2,1,0,1,2,2,1,1,0
+174680,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+157776,medium,T1 Faster,T2 Faster,2. <10%,2,0,1,1,2,1,0,2,0,1,2,2,1,2,1,1,0
+152264,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,1
+155076,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+99476,medium,T1 Slower,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,0,0,0,1,0,2,0,0
+104320,long,T1 Faster,T2 Faster,1. None,2,0,2,2,0,0,0,0,0,0,0,2,2,2,0,2,0
+138384,loyal,T1 Faster,T2 Faster,2. <10%,2,2,0,0,2,0,0,0,1,0,0,0,0,2,2,2,0
+171827,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,2,0,0,2,2,1,1,1,0,1,1,1,0
+195711,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,2,2,0,0,2,0
+144353,short,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0,1
+143738,loyal,T1 Faster,T2 Faster,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+192487,loyal,T1 Faster,T2 Faster,1. None,1,2,2,0,2,0,2,2,1,2,2,1,1,1,1,2,0
+119266,long,T1 Neutral,T2 Slower,1. None,1,2,0,2,1,2,0,0,1,2,0,1,1,1,2,1,0
+153949,long,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,2,0,0,1,2,1,1,2,1,2,1,0
+159624,loyal,T1 Faster,T2 Faster,1. None,1,0,1,0,0,2,0,0,1,1,0,1,2,1,0,0,0
+186105,long,T1 Faster,T2 Neutral,1. None,1,2,2,1,1,2,1,0,2,1,0,1,1,1,2,2,0
+188041,long,T1 Faster,T2 Faster,1. None,2,0,1,2,1,2,0,0,1,1,0,2,1,2,2,1,0
+120587,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1
+108068,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+184826,long,T1 Faster,T2 Faster,3. +10%,1,2,2,1,1,2,0,0,2,2,0,2,1,1,1,1,0
+167997,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+125398,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+142499,medium,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,0,2,0,1,2,1,2,2,2,2,1,0
+118815,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+131555,loyal,T1 Faster,T2 Faster,1. None,1,1,2,1,2,0,2,1,2,1,1,1,1,1,1,1,0
+190738,loyal,T1 Faster,T2 Slower,1. None,1,0,0,2,0,2,0,0,1,2,0,1,2,2,2,1,0
+168135,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,0,1,0,0,2,1,1,1,1,1,1,2,0
+190787,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+189599,loyal,T1 Faster,T2 Neutral,1. None,0,1,1,2,0,2,0,0,1,2,2,1,1,2,0,0,0
+125591,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+104179,long,T1 Neutral,T2 Slower,1. None,1,2,1,1,0,1,2,0,2,2,1,1,1,2,1,1,0
+171324,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0
+102327,loyal,T1 Faster,T2 Neutral,1. None,1,2,1,1,1,0,1,1,1,1,2,0,1,1,1,2,0
+183456,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1
+120501,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,0,0,1,0,0,2,2,2,2,1,0
+157471,loyal,T1 Faster,T2 Slower,1. None,2,2,1,1,1,1,0,0,1,2,2,1,2,1,1,1,0
+159687,long,T1 Faster,T2 Faster,1. None,2,0,2,2,2,0,0,0,0,2,0,0,2,2,2,0,0
+155538,long,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,0,0,0,2,0,2,1,1,2,2,0
+129871,loyal,T1 Faster,T2 Faster,1. None,0,2,0,0,2,0,0,2,2,0,0,0,2,0,0,2,1
+183954,long,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,0,0,2,0,0,0,2,0,0,0,0
+187673,loyal,T1 Faster,T2 Faster,1. None,2,1,2,1,2,1,0,0,2,2,0,1,1,2,0,0,0
+182760,medium,T1 Faster,T2 Neutral,1. None,2,2,0,0,0,0,0,0,0,1,0,2,2,2,2,0,0
+126845,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,1,0,2,0,0,2,1,2,1,2,2,0,0
+193225,medium,T1 Slower,T2 Slower,2. <10%,0,2,1,1,1,1,0,1,0,2,0,1,1,2,1,0,0
+147462,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,1,0,0,0,2,0,0,2,0
+186183,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,2,2,0,0,0,0,2,0,2,0,0,0
+104400,long,T1 Faster,T2 Slower,2. <10%,1,1,0,2,1,0,0,0,2,0,0,0,0,0,1,2,0
+160643,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+183326,loyal,T1 Slower,T2 Slower,2. <10%,0,2,0,1,1,1,0,2,0,1,2,2,1,2,0,1,0
+109096,long,T1 Faster,T2 Slower,2. <10%,1,0,0,2,0,0,0,0,1,1,2,1,0,2,0,0,0
+128183,medium,T1 Faster,T2 Slower,1. None,0,2,2,2,2,0,0,0,1,1,2,2,2,0,2,0,0
+102485,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+117001,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,2,0,2,0,2,2,0,0
+174294,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,1
+120135,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,1,0,0,0,2,1,0,1,2,1,1,0,0
+146265,loyal,T1 Faster,T2 Slower,1. None,1,2,0,1,0,0,0,0,1,2,1,2,2,2,2,1,0
+118790,long,T1 Slower,T2 Slower,1. None,1,2,1,2,0,2,0,0,2,1,0,2,2,1,2,0,0
+98396,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,0,2,2,0,0,0
+110114,long,T1 Slower,T2 Slower,1. None,1,2,0,0,2,0,0,0,1,1,0,2,2,2,0,0,0
+132650,loyal,T1 Neutral,T2 Slower,1. None,0,0,2,0,0,2,0,0,2,0,0,0,0,2,0,0,0
+178566,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+121650,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,1,1,0,0,0,2,0,2,1,2,0,0,0
+172742,short,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,2,0,0,0,0,0,2,0,1
+148198,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+177608,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+137920,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+128587,medium,T1 Faster,T2 Slower,1. None,0,0,2,0,0,2,0,2,0,2,0,2,2,2,0,0,0
+155933,long,T1 Neutral,T2 Slower,1. None,0,0,0,2,0,2,0,0,2,0,0,2,0,2,0,0,0
+102917,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+153379,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,1,1,2,0,0,2,2,1,0,1,1,1,0,0
+120146,loyal,T1 Faster,T2 Faster,1. None,2,0,1,2,0,2,0,0,1,2,0,1,1,1,2,0,0
+130873,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+154386,loyal,T1 Faster,T2 Neutral,3. +10%,2,0,1,2,0,2,0,0,0,1,0,2,1,2,0,0,0
+149262,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+185439,medium,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,2,2,0,2,0,0,0,0,1
+183641,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,0,1
+133828,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,2,0,0,0,0,0,2,0,2,0,0,0,0,1
+181272,long,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,1,0,2,0,0,0,0,2,0
+134207,loyal,T1 Faster,T2 Faster,1. None,2,0,1,1,2,1,0,0,2,2,2,1,1,1,2,2,0
+187677,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0
+152749,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,0,2,2,0,1,2,0,2,1,2,1,0,0
+158224,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,2,2,0,0,0,0,0,0,0,0
+117496,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+190545,short,T1 Slower,T2 Slower,2. <10%,0,2,2,2,1,1,2,0,0,2,0,2,2,2,1,1,0
+112280,long,T1 Faster,T2 Faster,2. <10%,0,0,2,0,0,2,0,0,1,2,0,2,1,2,0,0,0
+173014,loyal,T1 Faster,T2 Faster,2. <10%,2,1,2,1,1,0,2,0,1,2,1,2,2,2,2,1,0
+102499,loyal,T1 Neutral,T2 Slower,1. None,1,1,0,0,0,0,0,0,1,0,2,0,0,0,0,2,0
+120682,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,0,0,2,0,0,0,0,0,2,1,2,0,0,0
+100293,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+140901,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+126608,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+196669,short,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+101749,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,0,0,2,0,2,1,0,0,1,0,1,2,0
+115791,loyal,T1 Faster,T2 Faster,3. +10%,0,2,0,0,0,0,0,0,0,2,0,0,0,0,2,2,1
+110635,loyal,T1 Slower,T2 Slower,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+104186,short,N/A - No AOG,N/A - No AOG,1. None,2,0,2,0,2,0,0,0,0,2,2,0,2,0,2,0,1
+195662,long,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,0,2,0,0,2,0,0,0,0
+149591,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,2,0,0,0,0,0,2,2,0
+121045,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,2,0,0,2,2,2,0,0
+193009,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0
+177844,long,T1 Faster,T2 Faster,1. None,1,0,0,2,0,0,0,0,2,0,0,2,0,0,0,0,0
+183146,loyal,T1 Faster,T2 Faster,1. None,2,1,1,2,0,0,0,0,0,2,2,0,0,2,2,0,0
+176872,loyal,T1 Slower,T2 Slower,1. None,1,2,1,0,1,0,1,0,2,1,0,1,1,0,1,1,0
+135508,long,T1 Faster,T2 Faster,1. None,1,0,2,1,2,2,2,0,1,1,0,1,2,1,2,0,0
+169587,long,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0
+158723,loyal,T1 Neutral,T2 Slower,3. +10%,1,2,2,2,1,0,2,2,1,2,0,2,2,1,0,2,0
+187341,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,0,2,0,0,2,2,1,1,1,1,1,1,0
+166276,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,2,0,0,0,1,1,0,2,2,0,2,0,0
+112444,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,2,1,0,0,1,1,1,1,2,1,2,0,0
+149042,medium,T1 Faster,T2 Slower,1. None,0,0,2,0,2,0,0,2,0,2,0,2,1,0,2,0,0
+165089,loyal,T1 Faster,T2 Neutral,1. None,0,0,1,2,1,0,0,0,2,1,0,0,1,0,0,1,0
+140455,long,T1 Faster,T2 Faster,3. +10%,2,1,2,1,1,1,2,0,2,0,0,2,1,2,0,2,0
+179052,loyal,T1 Neutral,T2 Slower,1. None,0,0,2,0,0,2,0,0,0,2,0,0,0,2,2,0,0
+106240,short,T1 Faster,T2 Neutral,1. None,2,0,1,2,2,0,0,0,1,2,1,2,1,2,1,2,0
+189579,loyal,T1 Faster,T2 Slower,3. +10%,2,1,2,1,1,0,0,0,2,0,2,1,0,1,2,1,0
+119557,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,1,2,0,0,0,0,2,0,0
+161539,long,T1 Faster,T2 Neutral,1. None,1,2,1,0,2,0,0,2,1,0,2,2,1,2,0,2,0
+129450,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,0,2,0,0,0,0,2,0,2,0,0,0,0
+108157,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,0,0,2,0,2,0,0,0
+190794,long,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,2,0,2,1,1,0,2,2,0
+154303,medium,T1 Faster,T2 Faster,1. None,0,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
+153166,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,0,2,0,1,0,0,2,0
+160060,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,1,1,0,0,2,2,0,1,1,1,1,0,0
+131225,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,2,2,0,0,0,2,1,2,1,1,1,0,0
+178509,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0
+160939,loyal,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,2,0,2,2,0,0,0,1
+100941,medium,T1 Faster,T2 Slower,1. None,1,2,2,0,0,0,0,0,1,0,1,1,2,1,2,2,0
+147128,long,T1 Faster,T2 Faster,2. <10%,1,0,2,2,2,1,0,0,1,2,1,2,2,1,1,1,0
+186377,long,T1 Faster,T2 Faster,2. <10%,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,1
+165443,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,2,2,0,0,1,0,0,0,0
+155351,loyal,T1 Faster,T2 Slower,1. None,1,0,0,2,0,0,0,2,0,2,0,2,0,2,0,0,0
+169657,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+110863,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+182041,loyal,T1 Faster,T2 Slower,1. None,2,0,1,2,0,2,1,0,2,1,1,2,1,1,2,2,0
+187607,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0
+184656,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+158351,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+136156,medium,T1 Faster,T2 Faster,2. <10%,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0
+190656,loyal,T1 Faster,T2 Faster,1. None,1,2,2,0,0,0,0,0,1,0,0,2,0,2,2,2,0
+104576,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,1,0,2,1,1,0,0,2,0,1,0,0
+158982,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0
+130913,loyal,T1 Neutral,T2 Slower,1. None,1,1,0,2,0,0,0,0,2,1,2,0,1,0,2,2,0
+143191,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,1,1,0,0,1,2,0,1,2,2,1,0,0
+138025,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+189054,long,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,2,2,0,2,1,1,0,1,2,0
+122646,long,T1 Faster,T2 Neutral,2. <10%,1,0,1,2,0,0,0,0,2,0,0,0,1,0,1,0,0
+160419,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,2,0,1,0,0,1,0
+186071,loyal,T1 Faster,T2 Slower,1. None,1,0,2,2,2,0,2,2,1,1,2,0,0,0,1,2,0
+131820,medium,T1 Faster,T2 Slower,1. None,2,0,1,1,0,0,2,2,1,2,1,1,1,1,2,2,0
+140508,long,T1 Faster,T2 Faster,2. <10%,2,0,2,0,0,0,2,0,0,1,0,2,1,2,1,2,0
+180057,loyal,T1 Faster,T2 Neutral,2. <10%,0,2,2,1,1,0,0,1,2,1,1,2,1,2,1,0,0
+149208,medium,T1 Faster,T2 Faster,2. <10%,0,0,1,1,1,0,0,0,2,1,0,2,1,2,0,0,0
+161513,long,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,2,0,2,0,0,0,1,1,0,2,0
+114126,long,T1 Faster,T2 Neutral,2. <10%,2,1,2,0,2,0,0,0,1,2,0,0,1,2,2,0,0
+117446,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,2,2,1,0,1,2,2,2,1,1,1,1,0
+172770,medium,T1 Faster,T2 Slower,1. None,0,2,2,0,1,0,2,0,1,0,2,0,0,0,0,0,0
+160023,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0
+153843,long,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+99671,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,1,1,2,2,0,1,0,2,2,2,0,0,0
+181596,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0
+133145,medium,T1 Faster,T2 Slower,1. None,2,1,0,1,1,2,0,2,1,2,1,1,2,2,1,1,0
+148630,long,T1 Faster,T2 Faster,1. None,2,2,2,0,0,0,0,0,0,2,0,0,1,2,0,0,1
+125942,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,2,2,2,0,0,0,0,0,0,0
+121137,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+117711,loyal,T1 Faster,T2 Slower,1. None,2,1,0,2,0,0,0,0,1,2,2,1,2,2,1,1,0
+99404,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+195067,long,T1 Faster,T2 Faster,1. None,2,0,2,0,1,0,2,2,1,2,2,1,1,2,0,2,0
+114999,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,2,0,2,2,0,0,2,2,0,2,0,2,2,0
+110688,loyal,T1 Faster,T2 Faster,2. <10%,2,1,1,0,0,0,0,0,1,2,0,2,2,2,1,0,0
+157535,long,T1 Faster,T2 Slower,1. None,2,1,1,2,0,2,0,0,1,1,2,2,1,1,0,1,0
+160528,long,T1 Faster,T2 Faster,2. <10%,1,1,1,1,1,1,2,1,1,1,1,1,2,1,2,2,0
+184333,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,0,1,1,0,0,1,2,0,1,2,1,1,0,0
+143197,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,2,2,1,0,2,1,2,0,2,2,1,1,1,0
+177691,loyal,T1 Faster,T2 Slower,1. None,1,2,1,1,0,0,0,0,1,2,0,2,2,2,1,1,0
+153975,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,2,0,0,2,0,2,0,2,0,0,0
+120620,long,T1 Faster,T2 Faster,1. None,1,0,2,2,0,0,2,0,0,1,0,2,1,2,2,0,0
+140664,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+168555,medium,T1 Faster,T2 Faster,2. <10%,2,1,0,0,0,1,0,0,1,2,1,2,1,2,1,0,0
+145089,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+114008,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,2,2,1,2,1,0,1,2,1,2,1,0
+113740,loyal,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,2,0,0,2,0,2,0,2,0,0,0
+163062,medium,T1 Neutral,T2 Slower,1. None,0,2,2,0,1,0,0,0,2,1,1,1,2,1,0,2,0
+153646,medium,T1 Faster,T2 Neutral,1. None,0,0,2,0,2,0,2,2,0,0,0,0,0,2,2,0,0
+102132,long,T1 Faster,T2 Neutral,2. <10%,1,0,1,2,1,1,0,0,2,1,0,2,2,2,1,2,0
+107285,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,2,0,2,2,0,1
+149565,medium,T1 Faster,T2 Faster,3. +10%,2,0,2,0,0,0,0,0,0,0,0,2,2,2,0,2,0
+195225,long,T1 Faster,T2 Slower,2. <10%,1,0,2,2,2,2,2,2,0,2,0,1,2,2,1,2,0
+178274,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,2,2,1,0,0,0,1,2,2,0,2,1,0,0
+150429,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1
+114127,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+190049,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,2,2,2,0,1,1,1,0,1,0
+174780,loyal,T1 Faster,T2 Slower,2. <10%,1,0,2,2,1,0,2,1,2,1,0,1,1,2,2,1,0
+172566,long,T1 Faster,T2 Neutral,1. None,1,0,1,0,1,2,1,0,1,2,2,2,1,2,1,2,0
+195401,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+106700,loyal,T1 Slower,T2 Slower,2. <10%,1,2,0,1,1,0,2,2,1,1,1,1,2,2,2,2,0
+195469,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,2,0,0,0,1,2,0,2,1,2,1,0,0
+131602,loyal,T1 Faster,T2 Neutral,1. None,0,0,0,2,2,0,0,2,0,0,2,1,0,2,2,0,0
+131530,loyal,T1 Faster,T2 Slower,1. None,2,0,0,1,0,2,2,2,0,2,0,1,2,2,0,0,0
+186251,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+142413,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,0,2,0,0,1,1,0,0,2,1,2,0,0
+145965,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,2,0,2,0,0,0,0,0,0,0,2,0,2,0
+154917,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,1,0,0,0,1,0,1,2,0,1,1,1,0
+125963,long,T1 Faster,T2 Slower,1. None,0,2,2,0,0,2,0,0,0,0,0,0,2,2,2,0,0
+161905,long,T1 Faster,T2 Neutral,1. None,2,1,1,0,1,1,0,0,1,1,1,2,1,2,2,1,0
+159787,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+153498,long,T1 Faster,T2 Faster,1. None,1,0,2,1,2,2,0,0,0,2,0,1,2,1,1,0,0
+133775,long,T1 Faster,T2 Slower,1. None,1,2,1,0,2,2,2,0,1,1,1,2,1,2,2,0,0
+127695,long,T1 Faster,T2 Neutral,1. None,0,2,1,1,2,0,1,2,1,2,0,2,1,2,1,0,0
+125119,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,2,0,0,2,0,2,0,2,0,0,0
+194811,long,T1 Faster,T2 Faster,1. None,0,0,2,2,0,2,0,0,0,2,0,2,1,2,0,0,0
+144326,long,T1 Faster,T2 Faster,1. None,1,0,2,2,2,1,0,1,2,1,1,1,1,1,1,2,0
+122052,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0
+118086,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+195573,long,T1 Faster,T2 Neutral,2. <10%,1,2,2,2,2,2,2,0,2,1,2,1,1,1,2,2,0
+188579,loyal,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+189758,loyal,T1 Faster,T2 Faster,1. None,2,1,1,1,1,1,0,1,1,2,2,1,2,1,1,2,0
+171314,medium,T1 Faster,T2 Neutral,1. None,2,2,0,0,0,2,0,0,0,2,2,0,2,2,0,2,0
+186236,loyal,T1 Faster,T2 Neutral,1. None,1,2,1,1,1,0,0,0,2,1,0,1,2,0,1,2,0
+99465,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+159375,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+98586,loyal,T1 Faster,T2 Neutral,1. None,0,1,2,1,1,0,0,0,2,1,0,1,1,1,2,2,0
+169266,long,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,0,2,0,0
+179926,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,0,0,0,0,0,0,2,0
+123611,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,2,0,0,1,1,0,1,2,2,1,0,0
+181144,medium,T1 Faster,T2 Slower,1. None,1,1,1,0,0,2,0,0,0,1,1,2,0,2,2,1,0
+167925,loyal,T1 Faster,T2 Slower,1. None,2,0,0,2,0,2,0,0,2,0,0,0,2,2,0,0,0
+154503,long,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+119983,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,1
+123172,loyal,T1 Neutral,T2 Slower,1. None,1,1,1,0,0,0,2,2,0,2,0,1,2,1,2,0,0
+154197,short,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+111716,loyal,T1 Faster,T2 Neutral,1. None,0,2,2,2,0,2,0,0,1,1,0,1,2,2,2,2,0
+114651,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1
+118915,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,1,2,2,0,1,2,0,0
+170630,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+111748,long,T1 Faster,T2 Slower,1. None,1,0,0,2,0,2,0,0,0,2,0,2,1,2,2,0,0
+186033,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,2,1,2,0,1,1,1,1,1,1,2,2,2,1,0
+146524,loyal,T1 Faster,T2 Neutral,1. None,1,1,2,1,2,1,2,2,1,1,2,0,1,1,1,2,0
+194169,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0
+102838,medium,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,2,2,1,0,1,1,2,2,1,2,0,0
+184088,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,2,2,0,0,1,2,0,2,1,1,2,1,0
+144485,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+127677,medium,T1 Faster,T2 Neutral,1. None,1,2,2,0,0,0,0,0,2,0,0,0,0,0,2,0,0
+114064,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+103642,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,1,2,2,0,0,1,2,2,0,2,1,1,0
+100342,medium,T1 Faster,T2 Faster,1. None,1,2,2,2,0,0,0,0,1,0,0,0,2,0,2,0,1
+139609,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,2,0,1,0,2,2,1,1,1,1,1,1,0
+102633,loyal,T1 Faster,T2 Slower,1. None,0,2,1,1,2,0,0,0,2,0,0,1,1,1,2,1,0
+162620,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+167338,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+159854,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,2,1,0,2,1,2,2,1,0
+108276,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+175601,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+169894,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+106542,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,2,0,0,1,0,0,0,0
+106947,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+192293,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,0,2,0,0,0,2,1,0,0,1,1,1,0,0
+128343,short,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,0,2,2,2,0,0,0,0,0
+138460,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,2,0,2,0,2,0,0,0
+108440,medium,T1 Neutral,T2 Slower,1. None,1,2,1,1,0,0,0,0,2,0,0,0,2,2,1,0,0
+168901,long,T1 Faster,T2 Slower,2. <10%,1,2,2,0,1,0,0,0,2,1,2,1,1,0,0,2,0
+129365,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+135060,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+184486,medium,T1 Faster,T2 Faster,1. None,1,0,1,1,1,0,2,2,0,2,0,0,1,1,2,1,0
+166440,long,T1 Faster,T2 Slower,1. None,0,0,2,0,2,0,0,0,2,0,0,0,0,0,2,2,0
+169775,loyal,T1 Faster,T2 Slower,2. <10%,1,2,2,0,0,0,0,0,0,2,0,0,0,2,2,0,0
+166408,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,2,2,0,0,1,1,2,2,0,2,2,1,0
+114186,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,2,2,0,1,2,0,1,1,1,1,1,0
+112709,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,2,0,0,2,0,0,2,0,2,2,0
+117426,loyal,T1 Faster,T2 Slower,1. None,2,2,1,1,2,1,2,0,1,2,1,1,1,2,2,0,0
+135871,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,2,2,0,1,0,0,2,0
+176169,long,T1 Faster,T2 Neutral,2. <10%,2,1,0,2,2,0,0,0,0,1,1,2,1,2,1,0,0
+106273,medium,T1 Faster,T2 Faster,1. None,0,0,1,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+154435,long,T1 Faster,T2 Faster,1. None,0,0,2,2,2,0,0,2,1,1,0,2,2,0,2,2,0
+112743,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+160040,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+131961,long,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,0,0,2,2,0,0,2,0,2,0,0
+113874,long,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,2,0,2,2,0,0,0,0
+137086,loyal,T1 Faster,T2 Slower,2. <10%,1,1,0,2,0,0,0,2,0,2,0,2,2,2,2,0,0
+195355,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+167921,long,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+177015,loyal,T1 Slower,T2 Slower,1. None,1,2,0,0,2,0,0,0,1,1,2,0,1,1,0,2,0
+150780,short,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,2,2,0,0,2,0,0,0,0
+178658,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+104661,loyal,T1 Faster,T2 Neutral,1. None,1,0,1,2,1,0,0,1,2,1,0,2,1,2,1,1,0
+143341,loyal,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+162594,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0
+118480,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+121760,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,0,0,0,2,0,0,0,0,2,0,2,0,0
+148042,long,T1 Faster,T2 Slower,1. None,1,2,1,2,0,2,0,0,1,2,0,2,2,1,0,1,0
+145686,long,T1 Faster,T2 Faster,3. +10%,1,0,1,1,2,1,2,0,1,1,0,2,1,2,1,0,0
+114998,short,T1 Faster,T2 Slower,1. None,0,0,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+104680,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,2,0,2,0,0,1,1,0,2,2,2,0,0,0
+139466,loyal,T1 Faster,T2 Slower,1. None,2,0,1,1,2,1,0,0,1,2,0,2,1,2,2,1,0
+108134,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+130559,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,1,0,0,0,1,1,0,2,1,1,1,1,2,0
+140988,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,1,2,2,0,1,1,0,1,2,1,2,0,0
+188467,long,T1 Faster,T2 Neutral,1. None,1,0,2,0,2,2,0,2,1,2,0,0,2,2,2,0,0
+180274,long,T1 Faster,T2 Neutral,2. <10%,2,1,1,0,1,0,0,0,2,1,2,0,1,1,1,2,0
+121341,long,T1 Faster,T2 Slower,3. +10%,2,0,0,1,0,0,0,0,2,2,1,1,2,1,1,1,0
+153803,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0
+107492,long,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,0,0,2,0,0,2,0,0,0,0
+116622,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,2,0,0
+108355,short,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0
+139561,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,2,0
+164502,loyal,T1 Faster,T2 Slower,1. None,1,0,2,0,1,0,2,1,2,1,0,1,1,1,2,1,0
+126429,long,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,0,0,1,1,2,0,0,1,0,1,1,0
+131965,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,0,2,0,0,0,2,2,0,1,1,2,2,0,0
+152364,loyal,T1 Faster,T2 Neutral,1. None,1,0,1,0,0,1,2,0,1,1,0,2,1,2,1,0,0
+120780,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+193374,medium,T1 Faster,T2 Slower,1. None,2,1,2,0,0,0,0,0,0,2,0,2,2,2,0,0,0
+135946,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,2,1,2,2,0,2,0,1,2,2,2,1,0
+116060,medium,T1 Faster,T2 Slower,1. None,2,0,1,2,0,0,0,2,1,0,0,2,1,1,2,0,0
+101317,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,2,0,1,0,2,0,0,0
+166275,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,1,0,0,0,2,1,1,1,1,1,1,2,0
+189136,medium,T1 Faster,T2 Slower,3. +10%,2,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+171561,loyal,T1 Slower,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+103868,loyal,T1 Neutral,T2 Slower,1. None,0,0,0,2,0,2,2,0,1,1,0,2,2,2,0,0,0
+160451,loyal,T1 Faster,T2 Slower,2. <10%,1,1,1,2,1,1,2,2,1,1,2,0,2,0,0,0,0
+171009,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0
+179902,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+159412,short,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,1
+124212,medium,T1 Faster,T2 Faster,1. None,1,1,2,2,2,0,1,1,1,1,1,2,2,2,2,1,0
+167776,medium,T1 Faster,T2 Slower,1. None,1,2,2,0,0,0,0,0,1,0,0,2,2,0,0,0,0
+139730,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+114912,long,T1 Neutral,T2 Slower,1. None,2,1,1,0,1,0,0,0,1,2,0,2,1,1,1,0,0
+154426,medium,T1 Faster,T2 Faster,1. None,1,0,1,2,2,1,0,0,1,2,1,2,2,1,1,0,0
+100129,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,1,0,0,0,1,2,0,2,2,2,2,1,0
+107483,long,T1 Faster,T2 Slower,3. +10%,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+152579,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,2,0,0,2,2,0,0,0,1
+196121,long,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,0,2,2,0,0,0,0,1
+159586,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0
+158816,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,2,2,0,0,1,0,0,2,0
+165548,loyal,T1 Neutral,T2 Slower,1. None,1,1,2,2,1,0,2,2,0,1,0,2,2,1,1,0,0
+160117,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,0,0,0,0,0,2,2,2,0,2,1,0,0,0
+155742,short,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+192073,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,1,0,0,2,1,2,2,1,2,1,2,2,0
+172711,long,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,0,0,2,0,2,0,0,0
+194735,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1
+122699,long,T1 Faster,T2 Neutral,1. None,2,0,1,0,1,0,0,0,1,1,2,0,2,1,0,1,0
+182796,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+142672,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+141135,loyal,T1 Faster,T2 Faster,2. <10%,2,1,1,1,1,1,0,0,2,2,2,1,1,1,1,2,0
+120716,medium,T1 Faster,T2 Neutral,2. <10%,1,2,0,1,2,1,0,0,2,1,2,1,1,1,1,2,0
+144304,loyal,T1 Faster,T2 Faster,2. <10%,1,0,0,0,2,0,0,0,2,0,0,2,0,2,0,2,0
+131476,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,2,2,0,0,2,2,0,0,0,0
+184158,long,T1 Faster,T2 Neutral,1. None,2,0,1,1,0,1,0,0,1,1,2,1,1,0,0,1,0
+167992,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+156889,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,0,0,0,0,2,2,0,1,2,1,1,2,0
+185789,loyal,T1 Neutral,T2 Slower,2. <10%,2,1,1,0,1,0,1,0,1,1,1,1,2,1,1,0,0
+151291,long,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,0,0,0,0,1,0,2,2,2,2,0,0
+182239,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,2,0,0,0,2,0,0,0,1,2,0,2,0
+110710,medium,T1 Faster,T2 Neutral,1. None,0,2,2,0,0,2,2,0,0,2,0,2,2,0,0,0,0
+189654,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+146808,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,2,0,0,0,0,0,2,2,2,2,0,0
+181168,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,2,2,0,1,2,2,1,0,2,1,2,1,1,0
+145526,loyal,T1 Faster,T2 Slower,2. <10%,2,0,0,2,0,2,0,0,2,1,0,2,1,2,1,0,0
+180049,loyal,T1 Faster,T2 Slower,2. <10%,0,2,0,2,0,0,0,0,0,2,0,2,1,2,2,0,0
+115400,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,1,1,2,0,1,1,1,1,2,1,1,1,2,2,0
+115537,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,0,1,0,0,2,1,2,2,1,2,1,0,1,0
+138153,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,1,0,1,2,0,1,1,0
+143227,loyal,T1 Faster,T2 Slower,1. None,1,2,2,0,2,0,0,0,1,1,0,1,1,1,2,2,0
+139865,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,2,1,0,1,0,2,2,0,0
+138666,long,T1 Faster,T2 Faster,1. None,1,2,0,0,2,2,0,0,0,2,0,1,1,2,2,0,0
+128136,medium,T1 Slower,T2 Slower,1. None,1,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+146440,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,1,2,0,0,1,1,0,1,2,0,0,0,0
+168708,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+166922,loyal,T1 Faster,T2 Slower,1. None,1,1,0,2,1,1,1,2,1,1,0,2,1,2,2,0,0
+186259,loyal,T1 Faster,T2 Slower,1. None,2,0,1,1,0,2,2,0,2,2,0,1,1,1,1,0,0
+188340,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0
+151312,medium,T1 Neutral,T2 Slower,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1
+100353,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,0,0,0,2,0,0,2,0
+134512,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,0,2,0,0,0,0,0,2,1,2,2,2,0
+169211,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,2,0,0,2,0,0,0,0,0
+102130,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+142242,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1
+109318,loyal,T1 Faster,T2 Faster,2. <10%,1,1,1,1,2,1,0,2,2,1,1,1,1,1,1,1,0
+121979,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,2,0,0,0,2,1,1,2,1,2,2,1,0
+120575,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,2,2,0,2,1,1,2,0,2,0,0,0,0
+171193,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+184013,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,2,2,1,0,0,0,0,1,0,2,2,1,1,0,0
+151310,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,1,0,1,1,2,1,1,1,1,2,0
+195035,medium,T1 Faster,T2 Faster,2. <10%,2,0,2,0,2,0,2,0,0,1,1,2,1,2,1,1,0
+155373,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,1,2,0,0,2,2,2,1,1,1,1,0,0
+106635,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,1,2,1,1,2,2,2,0,1,1,1,1,0,0
+151533,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+109982,loyal,T1 Faster,T2 Neutral,1. None,1,2,1,2,1,2,2,2,0,2,0,2,2,2,0,0,0
+131088,medium,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,2,0,0,1
+106814,medium,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+142952,loyal,T1 Faster,T2 Faster,2. <10%,1,0,2,2,1,1,0,1,1,1,2,1,1,1,1,2,0
+147554,medium,T1 Neutral,T2 Slower,1. None,1,0,1,2,2,0,2,2,2,1,1,1,2,1,1,1,0
+110965,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,2,2,2,0,0,0,0,0,2,1
+104700,long,T1 Faster,T2 Faster,1. None,1,0,2,0,0,2,2,0,1,2,0,0,2,1,2,0,0
+128576,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,0,0,0,0,0,1,0,1,1,1,1,2,2,0
+196373,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,1,0,2,2,1
+110072,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,2,1
+122032,long,T1 Faster,T2 Slower,1. None,1,1,2,2,0,2,2,2,2,2,0,0,2,0,0,0,0
+119990,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0
+125809,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,0,2,2,0,0,0,0,0,1
+102670,long,T1 Faster,T2 Slower,1. None,2,0,1,2,1,1,2,2,2,1,1,2,1,2,1,0,0
+132282,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+176271,long,T1 Faster,T2 Slower,1. None,0,0,2,0,0,2,0,0,0,0,0,2,0,0,2,0,0
+144039,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,2,0
+101615,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+155471,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+179206,loyal,T1 Faster,T2 Faster,1. None,1,2,1,1,1,1,0,1,2,0,1,1,1,1,2,1,0
+157921,long,T1 Faster,T2 Faster,2. <10%,1,1,2,2,2,1,0,2,0,2,1,2,2,1,2,0,0
+121571,loyal,T1 Faster,T2 Faster,2. <10%,2,1,1,1,1,0,0,0,2,1,0,1,2,1,2,2,0
+132634,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+147069,long,T1 Slower,T2 Slower,1. None,1,2,0,2,0,0,0,0,0,2,2,2,0,0,0,0,0
+129406,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,0,1,2,0,0,1,2,2,0,2,0,2,0
+180395,medium,T1 Faster,T2 Slower,2. <10%,2,1,1,1,1,0,0,0,2,1,1,1,1,1,1,1,0
+141111,loyal,T1 Faster,T2 Slower,1. None,1,1,0,2,1,2,0,1,1,1,1,2,1,2,1,1,0
+124498,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+164881,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+130802,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,0,0,0,0,2,1,0,1,2,1,0,0,0
+118270,long,T1 Faster,T2 Faster,1. None,0,2,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+117266,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,1,0,1,2,0,0,1,1,0,2,2,2,0,0,0
+167744,loyal,T1 Faster,T2 Faster,3. +10%,1,0,2,2,0,0,0,0,0,0,0,2,0,2,0,0,0
+107633,loyal,T1 Neutral,T2 Slower,2. <10%,2,0,1,2,1,0,2,2,1,0,1,2,1,1,2,1,0
+173993,long,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,0,0,2,0,1,2,2,0,0,0
+170512,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+114189,medium,T1 Faster,T2 Faster,1. None,0,0,1,2,2,2,0,0,0,1,0,2,1,2,2,0,0
+163351,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,1,2,0,2,2,0,0,0,0
+194868,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1
+141682,loyal,T1 Neutral,T2 Slower,3. +10%,0,2,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+191087,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+100957,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,2,0,1,2,0,1,2,1,2,1,0
+138934,long,T1 Faster,T2 Faster,1. None,1,0,0,2,0,2,0,0,1,1,0,2,2,2,0,2,0
+162684,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,1,1,0,1,1,0,2,1,2,1,2,0
+176839,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+167618,medium,T1 Faster,T2 Slower,1. None,2,1,0,2,2,2,0,2,1,1,1,1,2,2,1,0,0
+115904,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+104281,long,T1 Faster,T2 Slower,1. None,2,0,1,1,2,2,0,2,1,2,0,2,2,1,1,1,0
+159716,long,T1 Neutral,T2 Slower,2. <10%,0,1,1,2,0,0,0,0,0,1,2,2,0,1,0,2,0
+181041,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,2,0,2,2,2,2,0,1,1,1,1,0,0
+145700,long,T1 Faster,T2 Neutral,1. None,2,0,2,0,1,0,0,0,1,0,2,1,0,1,1,2,0
+167548,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+165462,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,1,2,2,1,2,0,2,0
+132740,long,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,0,1,1,1,2,1,0,1,1,2,0
+123532,medium,T1 Faster,T2 Faster,1. None,0,1,0,0,0,0,0,0,0,2,0,2,2,2,2,0,0
+153290,loyal,T1 Faster,T2 Slower,1. None,1,2,1,0,1,0,1,2,2,1,1,1,1,1,1,1,0
+171636,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0
+147231,long,T1 Slower,T2 Slower,1. None,1,2,0,1,1,0,0,0,2,2,0,1,1,2,2,1,0
+169641,long,T1 Faster,T2 Faster,1. None,1,0,1,0,2,2,1,2,2,1,1,1,2,1,2,2,0
+162488,medium,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,2,2,0,1,1,1,2,1,2,1,1,0
+147051,long,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,1,1,0,0,1,2,2,0,0
+173559,long,T1 Faster,T2 Neutral,1. None,1,0,0,2,0,2,0,0,0,1,0,2,1,2,0,0,0
+193678,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,1,2,2,0,0,0
+191565,long,T1 Neutral,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+110786,long,T1 Faster,T2 Faster,1. None,2,0,2,1,2,0,2,2,1,1,0,2,2,2,0,2,0
+189553,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+160795,long,T1 Faster,T2 Slower,3. +10%,0,2,1,0,2,0,2,0,2,0,2,0,1,0,0,0,0
+153386,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+146463,short,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+191757,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,2,1,1,1,2,2,2,1,1,1,1,1,2,0
+159770,long,T1 Faster,T2 Faster,2. <10%,2,0,1,2,0,2,0,0,1,1,1,2,1,2,2,1,0
+185595,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+119617,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0
+153151,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,1,2,0,0,1,2,0,0,0
+168109,long,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,1,0,2,0,1,1,2,0
+188295,loyal,T1 Faster,T2 Slower,2. <10%,1,1,2,2,1,1,2,1,2,1,1,2,1,2,2,1,0
+135467,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,2,1,0,2,2,1,1,1,1,1,1,2,0
+125584,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,2,2,0,0,0,1,0,1,2,2,2,0,0
+142132,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+117940,medium,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+109959,loyal,T1 Faster,T2 Slower,2. <10%,1,1,2,0,0,2,0,0,1,2,0,1,2,2,0,0,0
+173581,loyal,T1 Faster,T2 Faster,1. None,1,0,1,0,2,2,0,2,1,0,0,1,2,2,2,0,0
+140241,short,T1 Slower,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,0,0,1,2,0,1,1,0
+172003,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+168702,medium,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0
+172348,medium,T1 Faster,T2 Slower,3. +10%,0,0,0,0,0,2,0,2,0,1,0,2,1,0,0,0,0
+127457,loyal,T1 Faster,T2 Faster,1. None,2,1,1,2,0,0,0,0,1,0,0,2,1,2,0,0,0
+157736,loyal,T1 Faster,T2 Slower,1. None,1,0,0,0,0,0,2,0,0,2,0,0,2,0,2,0,0
+162001,loyal,T1 Faster,T2 Faster,1. None,2,2,0,0,0,0,0,0,2,0,1,1,2,1,2,2,0
+102028,loyal,T1 Slower,T2 Slower,1. None,0,2,2,2,0,0,0,0,0,0,0,2,2,2,0,2,0
+155995,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,1
+124439,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,1,2,2,2,1,0,2,2,0
+172824,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+150996,medium,T1 Faster,T2 Slower,1. None,2,0,2,2,0,0,0,0,0,2,0,0,0,2,0,0,0
+170383,loyal,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+130296,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,0,2,0,0,2,0,0,0,0
+170373,long,T1 Faster,T2 Neutral,1. None,1,1,1,2,2,2,0,0,1,1,1,2,0,1,1,0,0
+166482,medium,T1 Slower,T2 Slower,1. None,1,2,2,0,0,0,0,0,2,2,0,0,0,0,2,1,0
+122912,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,2,2,1,1,1,2,1,1,1,1,1,2,0
+173605,medium,T1 Faster,T2 Slower,1. None,1,2,0,0,1,0,0,0,2,0,0,1,1,1,1,0,0
+127219,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,1
+119863,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0
+118292,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,2,2,0,0,1,1,0,2,0,0
+131920,medium,T1 Neutral,T2 Slower,1. None,2,2,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0
+105051,long,T1 Faster,T2 Slower,1. None,1,1,0,2,0,0,0,0,1,2,0,2,0,2,2,2,0
+168714,loyal,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,0,1,0,1,1,1,1,2,1,2,2,0
+190091,loyal,T1 Faster,T2 Faster,1. None,1,1,2,1,2,0,2,2,1,2,0,2,2,2,2,1,0
+178498,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,0,0,0,0,2,0,2,0,2,2,0,0
+131395,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,1,2,0,2,0,1,2,0,1,2,2,1,0,0
+157979,long,T1 Faster,T2 Slower,1. None,1,2,0,2,1,1,2,2,1,1,2,1,1,2,2,2,0
+165091,medium,T1 Neutral,T2 Slower,1. None,2,1,1,2,1,0,0,0,1,2,0,2,1,2,2,1,0
+132997,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,1,2,0,1,0,1,1,0,2,2,2,1,0,0
+180884,long,T1 Faster,T2 Slower,1. None,2,1,1,1,0,2,2,2,1,1,2,1,1,1,2,2,0
+163026,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+147389,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+118848,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,2,2,0,0,0,1,2,0,2,0
+120627,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,0,1,2,0,0,1,2,2,2,1,2,2,2,0
+134518,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,0,0,0,2,2,0,0,0,0,2,2,0
+139670,medium,T1 Faster,T2 Slower,1. None,1,0,1,0,0,0,0,2,2,0,2,0,2,1,0,0,0
+186039,loyal,T1 Faster,T2 Faster,3. +10%,1,0,2,2,2,0,0,0,1,1,1,1,2,2,2,0,0
+119295,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+110260,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,0,0,2,0,0,1,2,0,1,2,1,1,1,0
+118375,long,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,1,2,1,2,0,0,0,0
+101454,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,0,2,0,2,2,0,0,0,0
+168452,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+114914,medium,T1 Neutral,T2 Slower,1. None,1,1,1,2,0,1,2,0,1,2,0,2,2,2,0,2,0
+196473,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+139023,loyal,T1 Faster,T2 Faster,1. None,2,1,1,0,2,1,0,0,2,1,0,1,2,1,2,2,0
+130268,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,1
+170425,long,T1 Faster,T2 Faster,3. +10%,0,2,0,0,0,0,0,0,1,0,2,1,0,2,0,2,0
+145567,medium,T1 Faster,T2 Slower,1. None,1,0,2,2,0,0,0,0,0,1,2,0,1,2,2,2,0
+125396,loyal,T1 Faster,T2 Faster,1. None,2,1,1,0,1,1,1,0,1,0,2,1,1,1,1,2,0
+124811,loyal,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,0,0,1,1,2,1,0,1,1,2,0
+177633,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,1,1,2,2,1,2,1,1,2,1,1,2,0
+189672,long,T1 Faster,T2 Faster,1. None,1,1,2,2,0,0,0,0,1,2,0,2,0,0,2,0,0
+136639,long,T1 Faster,T2 Faster,2. <10%,1,1,1,1,2,1,0,2,1,1,0,1,2,2,2,0,0
+116586,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,2,2,1,0,0,2,1,2,1,1,1,2,2,0
+175399,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,2,0,2,0,0,1,1,2,2,2,2,0,1,0
+165302,loyal,T1 Faster,T2 Neutral,1. None,0,2,0,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+130321,long,T1 Faster,T2 Slower,1. None,1,1,1,0,0,1,1,0,0,1,1,2,0,2,1,2,0
+179086,loyal,T1 Faster,T2 Faster,1. None,1,1,2,2,1,0,0,0,1,2,0,2,2,2,2,1,0
+159853,long,T1 Faster,T2 Faster,3. +10%,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0
+194303,loyal,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+150101,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+182293,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+163004,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,2,1,0,2,2,0,0,0,0,0,2,0,0
+142168,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+177852,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,2,1,2,1,0,1,0,0
+189773,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+185822,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,0,2,0,1
+165935,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+143286,loyal,T1 Slower,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+136436,loyal,T1 Faster,T2 Slower,3. +10%,2,0,0,0,1,0,0,0,2,1,0,1,1,1,2,1,0
+119063,loyal,T1 Faster,T2 Slower,2. <10%,2,0,0,0,0,2,0,0,0,2,0,2,1,2,2,0,0
+141079,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+173640,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,2,0,0,0,0,2,0,0,0,2,0,0,0,0
+178462,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+139372,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,1
+196162,long,T1 Faster,T2 Slower,1. None,2,0,1,2,1,2,2,0,1,1,2,2,0,2,0,1,0
+129480,long,T1 Faster,T2 Neutral,1. None,2,1,0,2,2,0,0,0,1,0,2,2,1,2,0,0,0
+158254,long,T1 Faster,T2 Faster,1. None,0,0,2,1,0,2,0,0,2,1,0,1,2,1,1,1,0
+189916,long,T1 Faster,T2 Neutral,1. None,0,0,2,2,0,0,0,0,2,0,0,0,1,0,2,2,0
+122524,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+131829,loyal,T1 Faster,T2 Faster,1. None,1,1,0,0,0,0,0,0,2,2,0,1,2,0,0,0,0
+167355,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,1,2,1,0,1,2,1,1,1,2,1,1,2,0
+175381,medium,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,0,0,0,1,1,2,0,1,0,2,2,0
+128538,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,2,2,0,0
+176206,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,0,1,0,1,1,1,1,1,1,2,1,2,1,0
+173421,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,1,1,1,2,2,2,0
+184220,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,1,2,0,0,1,2,1,1,0,2,2,0,0
+163846,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,0,2,0,0,2,0,2,1,2,0,1,0
+143449,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,0,1,1,1,0,1,2,1,2,1,1,1,1,2,0
+119636,long,T1 Faster,T2 Faster,1. None,2,0,1,0,0,2,0,0,1,2,0,2,0,2,0,0,0
+132317,long,T1 Slower,T2 Slower,1. None,1,1,0,2,0,2,2,0,1,2,2,0,1,2,2,0,0
+116675,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+157108,long,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,2,0,0,0,2,2,0,0,0
+178979,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,1,0,2,2,0,1,2,2,0,1,0,1,0
+107569,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0
+109843,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,0,1,0,0,0,2,1,2,1,1,1,1,2,0
+111808,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,2,2,0,0
+116748,long,T1 Faster,T2 Neutral,1. None,2,1,1,0,0,1,0,0,2,1,1,2,1,1,1,2,0
+181829,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,1
+134411,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,0,0,0,2,2,1,0,0,2,0,2,0,0
+114086,long,T1 Faster,T2 Faster,1. None,1,0,1,2,0,2,2,0,0,2,0,2,1,2,2,0,0
+104900,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1
+172265,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+130011,long,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,1
+145838,short,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0
+164811,loyal,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,2,0,0,2,0,2,0,0
+107095,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+166274,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,2,2,0,1,1,0,2,1,2,2,2,0
+99409,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,2,2,0,0,2,0,0,0,0
+130436,long,T1 Neutral,T2 Slower,1. None,1,2,1,0,2,0,0,2,2,1,0,0,0,0,2,2,0
+104051,loyal,T1 Faster,T2 Faster,1. None,2,0,0,1,2,0,0,0,0,1,0,2,1,2,0,0,0
+133366,loyal,T1 Faster,T2 Faster,1. None,0,0,2,1,2,0,2,2,1,1,0,0,2,0,2,1,0
+113021,loyal,T1 Slower,T2 Slower,2. <10%,0,2,0,2,0,0,2,0,2,1,0,1,1,2,2,0,0
+192951,loyal,T1 Faster,T2 Faster,1. None,1,1,1,1,1,0,1,1,2,1,1,1,1,1,1,2,0
+121256,long,T1 Faster,T2 Slower,1. None,2,2,1,1,2,1,2,2,1,2,0,1,2,1,2,1,0
+153789,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,2,1,0,2,2,2,0,2,1,2,1,1,0
+99604,long,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,0,0,0,0,2,1,0,1,2,2,2,0,0
+160496,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,1,0,0,2,2,2,2,0,0
+175078,medium,T1 Faster,T2 Faster,1. None,1,0,1,1,1,2,0,0,2,2,0,2,1,2,1,1,0
+132793,long,T1 Faster,T2 Neutral,1. None,1,0,1,1,1,2,2,0,0,2,0,2,1,2,1,0,0
+129085,loyal,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,1
+175201,medium,T1 Neutral,T2 Slower,1. None,2,0,2,0,0,0,0,0,1,2,0,2,2,1,0,0,0
+182184,loyal,T1 Faster,T2 Slower,1. None,1,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0
+158795,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1
+114206,medium,T1 Faster,T2 Neutral,1. None,0,2,1,2,2,0,2,0,1,2,2,2,2,0,0,0,0
+171532,medium,T1 Faster,T2 Neutral,1. None,1,2,0,0,0,1,0,0,2,2,0,2,1,2,2,1,0
+179801,medium,T1 Faster,T2 Slower,1. None,2,1,0,2,0,0,0,0,2,2,0,0,2,0,0,2,0
+107964,loyal,N/A - No AOG,N/A - No AOG,3. +10%,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+157711,medium,T1 Faster,T2 Neutral,1. None,1,1,2,0,2,0,0,0,0,1,0,2,2,2,2,0,0
+104062,long,T1 Faster,T2 Slower,1. None,2,0,2,1,0,0,1,0,2,0,2,0,1,1,0,2,0
+119084,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,0,2,0,2,1,0,2,0,0
+153490,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+184365,loyal,T1 Faster,T2 Slower,1. None,2,1,0,1,0,0,1,2,2,0,0,0,1,0,0,2,0
+140055,medium,T1 Slower,T2 Slower,1. None,0,2,2,0,1,0,0,0,1,2,0,1,2,2,1,1,0
+107118,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,2,1,1,0,0,1,1,0,2,2,1,1,1,0
+168953,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,2,0,2,0,0,0,1,2,0,2,1,2,0,0,0
+179445,long,T1 Faster,T2 Faster,1. None,0,0,1,2,0,2,0,0,0,2,1,2,1,2,1,0,0
+124187,medium,T1 Slower,T2 Slower,2. <10%,0,0,0,2,1,0,0,0,2,1,0,1,1,1,1,0,0
+193858,medium,T1 Faster,T2 Neutral,1. None,1,0,2,1,1,2,2,0,0,2,1,2,0,1,0,1,0
+176024,long,T1 Faster,T2 Faster,1. None,2,0,1,2,0,0,1,0,0,2,1,2,1,2,1,0,0
+150877,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+112184,loyal,T1 Faster,T2 Slower,1. None,1,2,2,0,0,1,0,0,1,1,1,1,1,1,2,2,0
+162118,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+179162,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,1,1,2,0,0,2,2,1,1,1,1,1,2,2,0
+182551,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,1,0,2,0,0,0,2,2,0
+190514,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,1,1,0,2,1,2,1,1,1,2,2,0
+147216,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,2,0,0,2,1,0,2,0,0
+162616,long,T1 Faster,T2 Faster,1. None,1,2,1,0,1,0,2,0,1,1,2,2,1,2,2,2,0
+124053,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,1
+121007,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+119727,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,1,0,0,0,1,0,2,0,0,1,1,2,0
+136142,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,0,1,0,0,1,2,1,2,1,1,0,0,2,0
+151363,medium,T1 Slower,T2 Slower,2. <10%,1,2,0,2,0,0,0,0,0,2,0,2,1,2,1,1,0
+114418,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,1,1,0,1,1,2,2,2,0
+142926,loyal,T1 Faster,T2 Faster,1. None,0,0,0,2,0,2,0,0,2,0,0,2,2,0,2,0,0
+147106,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+163852,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0
+194087,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,0,2,2,0,0,0
+116387,loyal,T1 Faster,T2 Faster,1. None,1,1,1,0,0,0,0,0,2,0,1,0,2,0,0,2,0
+137934,loyal,T1 Faster,T2 Faster,2. <10%,1,1,1,1,0,2,1,0,2,1,1,1,2,1,2,2,0
+138760,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,1,2,0,0,0,1,2,0,1,2,1,1,2,0
+122181,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,2,0,0,2,0,0,2,2,0,0,1
+172079,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,2,2,0,0,0,0,2,0,0
+162450,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+152966,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,1,1,2,1,1,1,2,1,1,2,1,2,0
+189863,long,T1 Slower,T2 Slower,1. None,1,2,1,0,2,0,2,0,1,1,0,1,2,0,2,0,0
+111655,loyal,T1 Faster,T2 Slower,1. None,1,2,1,0,1,2,0,2,2,1,0,1,1,1,1,2,0
+193743,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,2,0,0,0,1,2,0,0,2,2,2,2,0
+178999,long,T1 Faster,T2 Neutral,1. None,2,1,2,1,0,2,0,0,0,1,1,2,2,2,1,1,0
+99740,medium,T1 Neutral,T2 Slower,1. None,0,2,2,0,2,0,0,0,2,2,0,0,1,2,2,0,0
+145345,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,0,0,1,0,0,0,1,1,2,2,2,1,1,0
+178972,long,T1 Faster,T2 Slower,1. None,0,0,1,0,1,0,2,2,1,2,2,2,1,0,0,0,0
+175229,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,1
+130615,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+131877,medium,T1 Faster,T2 Faster,1. None,1,0,2,1,2,1,2,0,1,1,0,1,2,2,2,1,0
+127157,long,T1 Faster,T2 Slower,1. None,1,1,1,1,1,0,1,1,1,1,0,1,2,1,1,0,0
+196442,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,0,2,2,0,0,2,0,2,1,2,0,2,0
+196393,long,T1 Faster,T2 Faster,1. None,1,1,2,0,2,2,0,1,2,1,1,1,2,1,2,2,0
+158504,short,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+111706,long,T1 Faster,T2 Neutral,2. <10%,1,0,0,2,1,2,0,0,0,2,0,2,1,2,0,1,0
+169354,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,0,0,0,1,0,2,1,2,0,0,0
+141811,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,2,1,0,0,1,1,2,1,2,1,0,1,0
+145457,medium,T1 Faster,T2 Slower,1. None,2,0,2,1,1,1,1,0,0,1,1,2,2,1,0,0,0
+179498,loyal,T1 Faster,T2 Slower,1. None,1,1,1,0,0,2,0,2,1,1,0,2,1,2,1,2,0
+137911,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0
+166102,loyal,T1 Faster,T2 Neutral,1. None,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,0
+178026,loyal,T1 Slower,T2 Slower,2. <10%,0,2,1,1,0,0,0,0,1,2,0,2,1,2,1,0,0
+165166,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+188613,loyal,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,0,1,0,2,1,2,1,1,1,2,1,0
+174246,short,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+151395,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,0,0,0,1,2,0,2,1,2,1,0,0
+191738,loyal,T1 Faster,T2 Faster,1. None,1,1,1,2,2,1,2,2,1,2,0,2,2,2,1,0,0
+103810,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,2,0,1,2,0,0,0,2,0,0,0
+174252,loyal,T1 Faster,T2 Faster,1. None,0,2,0,0,0,2,0,0,0,0,0,0,0,0,2,2,1
+184309,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,1,0,0,1,0,2,0,0
+113383,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0
+135728,loyal,T1 Slower,T2 Slower,1. None,1,2,0,0,0,0,0,0,1,2,2,1,2,1,1,1,0
+148244,long,T1 Faster,T2 Neutral,2. <10%,2,0,2,2,0,0,2,0,1,2,0,2,1,2,0,0,0
+123412,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,2,1,1,1,1,1,2,1,2,1,1,0
+98759,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,2,0,1
+106363,short,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,0,0,0,2,1,0,2,0
+158821,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,1,1,2,2,2,2,1,1,2,1,1,2,0
+156271,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+192133,long,T1 Faster,T2 Neutral,1. None,2,0,1,1,2,0,0,2,2,0,2,0,1,0,2,1,0
+156833,long,T1 Faster,T2 Neutral,1. None,2,0,2,2,2,0,0,0,0,2,1,2,1,2,0,0,0
+109977,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+116274,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,2,0,0,2,0,2,2,0,0,0,0,0
+152419,medium,T1 Faster,T2 Slower,3. +10%,0,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,1
+129181,long,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,0,0,0,0,0,2,2,0,0,0,2,0
+177093,loyal,T1 Faster,T2 Faster,1. None,1,1,2,0,2,1,2,0,1,2,0,2,1,1,0,2,0
+194516,loyal,T1 Neutral,T2 Slower,2. <10%,2,0,1,1,2,0,2,0,2,2,1,1,2,1,1,1,0
+123220,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,2,0,0,1,2,1,2,2,2,1,1,0
+195928,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+182536,loyal,T1 Faster,T2 Slower,1. None,1,2,1,2,0,2,0,0,1,1,1,2,2,2,2,0,0
+100218,loyal,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,2,0,2,1,2,1,0,0
+156185,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+184110,loyal,T1 Faster,T2 Slower,1. None,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,2,1
+145502,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0,1
+140532,medium,T1 Neutral,T2 Slower,1. None,0,2,1,0,1,0,0,0,2,1,1,1,1,1,1,0,0
+194493,medium,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,0,0,1,1,0,1,2,0,2,0,0
+103340,long,T1 Faster,T2 Neutral,1. None,2,0,2,2,1,0,0,0,1,1,2,1,2,1,2,2,0
+176418,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,1,2,0,1,1,1,2,1,2,2,1,0
+169299,loyal,T1 Faster,T2 Faster,1. None,2,0,1,1,1,1,1,1,2,1,2,1,1,1,1,2,0
+145376,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,1,0,0,1,1,2,1,1,1,2,2,0
+157194,loyal,T1 Faster,T2 Slower,3. +10%,2,1,0,0,2,0,0,0,2,0,0,0,1,0,0,0,0
+153168,long,T1 Neutral,T2 Slower,1. None,1,1,2,1,2,0,2,2,1,1,1,2,1,2,2,1,0
+172269,medium,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,0,0,2,0,2,2,0,0,0,0
+141267,loyal,T1 Faster,T2 Slower,1. None,2,0,2,1,2,0,2,0,1,2,0,2,1,0,1,2,0
+135524,loyal,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,2,0,0,2,0,0,0,0,0
+108348,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+98599,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+120041,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+164092,loyal,T1 Faster,T2 Slower,2. <10%,2,2,1,1,0,1,1,0,1,1,2,1,1,2,2,2,0
+166914,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1
+170449,long,T1 Faster,T2 Faster,2. <10%,1,0,1,1,1,2,2,2,1,1,1,2,1,2,2,2,0
+123743,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,2,0,0,2,2,1,0,1,2,0,0,2,0
+162695,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,1,2,0,2,0,2,2,0,0
+177219,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+111728,loyal,T1 Faster,T2 Slower,1. None,2,1,1,0,0,0,2,0,2,1,1,0,1,1,2,2,0
+196540,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+100721,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,0,0,0,0,0,1,0,1,2,0,2,2,0,0
+196039,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,1,2,0,0,2,2,0,0,0
+136401,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,2,1,0,2,0,2,2,2,0
+138163,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,2,0,2,2,1,0,0,2,0,2,2,0,0
+104328,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,2,0,1,2,1,1,2,1,1,1,0
+125386,loyal,T1 Faster,T2 Slower,1. None,1,1,1,0,1,1,1,0,1,2,0,2,2,1,2,1,0
+123239,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,1,2,0,1,1,1,1,2,1,2,1,0
+139671,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,1,2,0,0,0,0,1,1,2,1,2,1,2,0
+109822,long,T1 Faster,T2 Slower,1. None,2,1,1,1,0,0,0,0,2,1,0,0,1,1,2,1,0
+189925,long,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,1,1,2,1,1,1,2,1,2,2,1,0
+186102,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,1,1,0,2,2,1,0,0
+167106,medium,T1 Slower,T2 Slower,1. None,0,0,1,2,0,0,0,0,2,2,0,0,2,0,0,0,0
+155093,medium,T1 Faster,T2 Slower,1. None,1,2,2,1,0,1,0,0,1,2,1,1,1,1,1,2,0
+141068,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,0,2,2,1,1,0,1,2,1,2,1,0
+174503,long,T1 Faster,T2 Faster,1. None,1,2,1,0,0,0,0,0,2,2,0,2,1,1,0,0,0
+158363,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+172788,medium,T1 Faster,T2 Neutral,1. None,2,0,1,1,1,0,0,0,1,0,2,0,1,1,1,2,0
+108744,long,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,0,1,0,2,0,0,0,1,1,0
+185341,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,1,0,0,0,2,0,2,0,1,1,0,2,0
+101922,medium,T1 Faster,T2 Faster,1. None,0,0,1,2,2,0,0,0,0,2,0,2,2,1,0,0,0
+98520,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,2,1,1,1,1,1,2,2,1,1,2,1,0
+107511,loyal,T1 Faster,T2 Faster,1. None,2,1,2,1,2,1,0,0,0,1,1,2,1,2,2,0,0
+166421,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,0,2,0,2,1,1,1,0,0
+99171,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+188426,long,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,2,1,0,2,0,1,2,0,0
+171027,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+119203,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,2,0,2,0,0,0,1
+167802,medium,T1 Faster,T2 Slower,1. None,2,0,1,2,0,0,0,0,1,2,2,1,1,2,1,2,0
+143665,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,1
+143247,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,1,0,0,2,2,0,0,2,1,1,0,0
+114606,long,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,1,2,0,2,1,2,0,0,0
+104109,loyal,T1 Slower,T2 Slower,1. None,1,2,2,1,2,1,2,2,2,0,2,0,1,0,1,2,0
+134655,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,1,1,2,2,2,2,0,2,2,1,1,1,0
+151607,loyal,T1 Faster,T2 Faster,3. +10%,1,0,0,0,0,0,0,0,0,2,0,2,2,2,0,0,0
+113595,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,1,0,2,0,2,1,2,1,1,2,1,2,0
+120717,long,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,1,1,0,2,1,2,2,0,0
+194600,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,1,0,0,0,1,0,2,0,1,0,0,2,0
+166827,loyal,T1 Faster,T2 Slower,2. <10%,2,0,0,2,1,1,0,0,1,2,0,1,0,0,2,0,0
+100993,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+117425,medium,T1 Faster,T2 Slower,1. None,1,0,2,1,0,2,0,0,0,1,2,2,1,2,0,1,0
+136130,medium,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,2,2,0,0,2,2,0,2,0,2,0
+107436,medium,T1 Faster,T2 Faster,1. None,1,1,2,2,2,1,0,2,1,2,1,2,1,2,2,1,0
+196474,medium,T1 Faster,T2 Slower,1. None,1,0,0,0,0,2,0,0,0,2,0,2,0,0,0,0,0
+118251,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+176204,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,2,2,0,1,2,2,0,0,2,0,0,0
+169719,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+131577,loyal,T1 Faster,T2 Slower,1. None,1,2,2,1,1,0,0,0,2,2,1,1,2,1,2,1,0
+136691,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,1
+183548,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+190051,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,2,0,0,2,0,0,0,2,0,0,0,1
+102605,loyal,T1 Faster,T2 Neutral,1. None,1,0,1,1,1,2,0,0,1,1,1,2,2,2,1,1,0
+178399,medium,T1 Faster,T2 Slower,2. <10%,2,2,2,1,1,0,0,0,1,1,0,2,2,2,1,1,0
+194648,long,T1 Faster,T2 Neutral,1. None,1,1,1,2,2,0,0,0,2,1,1,2,2,1,2,1,0
+174061,medium,T1 Faster,T2 Slower,1. None,1,0,0,2,0,0,2,2,0,1,0,2,0,2,0,2,0
+170588,long,T1 Faster,T2 Neutral,1. None,2,0,1,0,2,0,0,0,1,2,0,2,2,0,2,0,0
+183157,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+161081,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,2,0
+119098,loyal,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,2,0,0,2,2,0,0,1
+100343,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,1,1,1,1,1,1,1,0,2,2,2,2,1,0
+194876,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+131165,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1
+120818,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,2,0,0,2,2,0,0,1
+137882,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+135877,loyal,T1 Faster,T2 Faster,2. <10%,2,0,2,1,1,1,1,1,1,2,2,1,1,1,1,2,0
+122640,loyal,T1 Faster,T2 Slower,2. <10%,1,2,2,1,2,0,0,0,2,1,2,1,1,1,1,2,0
+164891,long,T1 Faster,T2 Faster,1. None,1,1,0,0,0,2,0,0,1,2,0,2,0,2,2,1,0
+131196,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0
+111802,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+169117,long,T1 Faster,T2 Neutral,2. <10%,2,1,1,0,2,1,0,0,2,2,1,1,1,1,1,1,0
+149071,long,T1 Faster,T2 Neutral,2. <10%,1,0,2,1,0,1,2,2,2,2,1,1,1,1,2,2,0
+139941,medium,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,1,0,2,1,1,0,1,0
+131335,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+134168,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,1,2,2,2,1,2,1,1,1,1,2,2,0
+163667,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+119481,long,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,2,0,0,2,0,0,1,0,1,0,2,0
+185617,long,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,0,0,0,2,0,0,0,0,2,0
+164245,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,0,0,0,1,0,0,2,2,2,2,2,0
+194198,long,T1 Faster,T2 Faster,3. +10%,2,0,2,0,0,2,0,0,1,2,0,2,2,0,0,0,0
+108869,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,0,2,2,2,2,2,2,0,0,2,1,1,1,0
+168664,medium,T1 Faster,T2 Faster,1. None,1,0,2,1,1,2,0,0,1,2,1,2,2,1,2,2,0
+136984,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,0,0,2,0,0,1,1,0,1,2,0,1,1,0
+144618,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,2,0,0,0,2,2,2,0,0,0,0,0,0
+132407,loyal,T1 Faster,T2 Faster,1. None,1,2,1,1,1,1,2,2,1,2,0,1,1,1,1,2,0
+156278,loyal,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,1,0,0,0,0,2,2,0,0
+195852,long,T1 Neutral,T2 Slower,2. <10%,1,2,2,2,1,0,1,1,2,1,0,1,1,1,1,2,0
+193363,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+104610,loyal,T1 Faster,T2 Faster,1. None,1,0,2,2,0,0,0,0,0,0,0,2,2,2,0,0,0
+101315,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,2,2,0,0,2,0,2,1,2,1,2,1,2,0
+136193,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,2,1,0,2,1,0,0,0
+159053,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,1,2,2,0,2,2,0,0
+146951,long,T1 Faster,T2 Slower,1. None,0,2,1,0,1,0,0,0,2,2,1,1,1,1,1,0,0
+140757,long,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,0,0,0,2,0,2,0,2,0,2,0
+101638,long,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,2,2,0,2,1,0,1,1,2,0
+184328,long,T1 Faster,T2 Slower,1. None,1,2,2,0,1,0,1,2,2,1,1,2,1,1,1,0,0
+152955,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+180234,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,1,2,0,2,0,0,0,0,1
+157769,loyal,T1 Slower,T2 Slower,3. +10%,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+181495,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1
+117237,loyal,T1 Faster,T2 Faster,1. None,0,0,0,2,2,0,0,0,1,2,0,0,2,0,0,1,0
+161097,loyal,T1 Faster,T2 Faster,1. None,2,2,0,0,0,2,2,1,1,1,1,1,2,1,2,2,0
+139698,loyal,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0
+134786,long,T1 Faster,T2 Faster,1. None,2,1,2,1,0,0,0,0,2,1,0,1,1,2,2,1,0
+150510,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,2,0,2,2,0,0
+136327,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,2,1,0,0,1,2,0,2,2,1,2,0,0
+116686,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,1,2,0,2,0,2,0,0,0
+184822,long,T1 Faster,T2 Slower,1. None,1,2,0,0,0,2,0,0,0,2,2,2,2,0,2,0,0
+163061,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0
+109916,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,1,2,1,2,1,1,2,1,0
+129727,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,2,0,0,0,2,2,2,0,2,0,2,0
+189268,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+104955,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,1,2,0,0,0,0,2,1,0,0,2,2,0
+134554,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,2,2,0,0,0,2,2,0,2,1,1,1,0,0
+98790,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0
+100110,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,2,0,0,2,1,0,1,1,2,1,2,0
+195530,long,T1 Faster,T2 Slower,2. <10%,1,2,1,2,1,1,1,0,1,2,0,2,1,1,1,1,0
+108067,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+165399,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,2,0,0,1,2,0,0,2,1,2,2,0
+187519,long,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,2,0,2,0,0,0,0,1,0,0,0
+181458,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,2,2,2,0
+109187,loyal,T1 Faster,T2 Neutral,1. None,2,2,0,2,0,0,0,0,1,2,0,1,1,1,2,0,0
+174428,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,1,0,2,2,2,0,0,2,0
+147321,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,2,0,0,0,2,0,2,0,2,0,2,0
+146301,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,2,0
+110348,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+133857,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,1
+173463,long,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,2,0,0,2,0,0,2,0,1
+187561,medium,T1 Faster,T2 Neutral,3. +10%,2,0,0,1,0,0,0,0,1,2,0,0,1,2,2,1,0
+148413,long,T1 Faster,T2 Slower,2. <10%,2,2,1,1,1,0,2,1,2,2,0,2,1,1,1,2,0
+125777,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,1,2,2,2,2,1,1,0,2,2,2,1,0,0
+169302,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,2,2,2,2,1,2,0,2,2,1,1,0,0
+174898,loyal,T1 Slower,T2 Slower,1. None,1,2,1,2,1,1,2,2,2,1,1,2,1,1,2,2,0
+100610,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,2,0,1,1,2,0,1,0,2,2,0
+151101,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,1,1,0,1,1,2,2,1,1,2,2,1,0
+196404,loyal,T1 Slower,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,2,0,2,0,0,0,0,1
+167525,long,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,2,0,0,0,0,0,2,2,2,0,0,1
+180631,long,T1 Faster,T2 Faster,1. None,2,0,2,1,2,0,0,0,2,0,0,1,1,1,2,2,0
+98849,loyal,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,0,2,0,0,2,2,0,0,1
+128488,loyal,T1 Faster,T2 Neutral,1. None,1,1,2,1,2,2,0,0,0,1,0,1,2,2,0,0,0
+107000,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+189822,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+148190,long,T1 Faster,T2 Faster,2. <10%,1,0,2,1,2,1,0,0,2,2,0,1,1,2,2,1,0
+150967,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1
+119117,medium,T1 Faster,T2 Faster,1. None,2,0,1,0,0,2,0,0,1,2,2,2,1,2,1,0,0
+148166,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,2,0,0,2,0,0,0,0,2,0,2,0,0
+193822,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+126826,long,T1 Neutral,T2 Slower,1. None,2,2,0,2,0,0,0,0,0,0,0,2,0,0,2,0,1
+190617,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2,0
+155231,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,1,2,0,0,2,1,0,0,1,1,2,1,0
+187725,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+100753,medium,T1 Neutral,T2 Slower,1. None,0,2,0,1,0,0,0,0,2,1,2,0,1,0,2,2,0
+166043,long,T1 Faster,T2 Neutral,3. +10%,1,0,2,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+106876,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+101667,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,1
+143771,loyal,T1 Faster,T2 Faster,2. <10%,2,0,0,2,1,0,0,0,0,1,1,2,1,2,0,2,0
+119208,long,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,0,2,1,1,1,2,2,1,2,0
+100550,long,T1 Faster,T2 Neutral,1. None,0,0,2,0,0,2,2,0,0,2,0,0,1,2,0,0,0
+164641,medium,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,2,2,0,0,0,2,0,0,0
+109024,long,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0
+178025,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+168530,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+169712,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+152917,long,T1 Faster,T2 Slower,3. +10%,0,1,1,2,0,0,0,0,2,1,1,0,2,1,2,1,0
+100947,loyal,T1 Slower,T2 Slower,1. None,1,2,1,0,1,0,1,0,1,1,2,2,1,1,1,1,0
+138205,loyal,T1 Faster,T2 Faster,3. +10%,2,0,1,0,2,0,0,0,1,1,2,1,1,2,1,2,0
+156031,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+191862,medium,T1 Faster,T2 Neutral,1. None,1,0,2,1,2,1,1,0,1,1,0,1,2,1,2,1,0
+149767,long,T1 Faster,T2 Slower,1. None,1,1,0,2,1,2,0,1,1,1,1,2,1,2,1,1,0
+154064,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+165175,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+179475,medium,T1 Faster,T2 Faster,1. None,1,0,2,2,0,2,2,0,1,2,1,1,1,2,2,2,0
+106661,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,2,2,2,0,2,0,2,0,0,0
+101886,long,T1 Faster,T2 Faster,1. None,1,2,1,2,1,2,0,0,0,1,2,2,0,2,2,0,0
+156997,long,T1 Neutral,T2 Slower,1. None,1,2,1,1,1,1,1,0,2,1,0,1,1,1,1,2,0
+188593,loyal,T1 Faster,T2 Slower,1. None,1,1,2,2,1,2,2,2,0,2,1,2,1,2,1,1,0
+145566,loyal,T1 Faster,T2 Faster,2. <10%,0,0,2,2,0,0,0,0,2,1,0,0,2,0,0,0,0
+158629,loyal,T1 Faster,T2 Faster,1. None,1,2,1,0,1,0,0,0,1,1,2,0,1,1,0,2,0
+163485,long,T1 Faster,T2 Neutral,2. <10%,2,0,1,2,0,0,0,0,1,1,2,2,0,2,1,1,0
+126901,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0
+107474,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,0,0,0,0,2,2,1,1,1,1,1,0
+132525,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,1,1,0,2,1,2,0,1,2,1,2,0
+160424,medium,T1 Faster,T2 Neutral,1. None,2,2,0,0,1,2,0,0,2,0,2,0,1,1,0,0,0
+146919,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,2,2,0,0,0,2,0,2,2,2,2,0,0
+98608,short,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+113466,loyal,T1 Faster,T2 Slower,1. None,2,1,0,1,2,0,0,2,1,1,2,1,2,1,1,2,0
+149108,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,2,1,1,2,1,1,1,2,2,2,2,1,0
+189153,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+192379,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,1
+144913,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,1,2,0,2,2,0,0,0,0
+112173,long,T1 Faster,T2 Neutral,1. None,2,2,0,2,0,0,0,0,1,0,2,0,2,2,0,2,0
+104561,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,2,0,2,0,0,0,0,1
+119285,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+138448,medium,N/A - No AOG,N/A - No AOG,1. None,1,0,0,2,0,2,0,0,0,0,0,2,0,0,2,0,0
+128533,loyal,T1 Faster,T2 Slower,2. <10%,1,2,0,1,0,0,2,0,1,2,1,1,1,1,2,2,0
+146977,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,2,2,2,0,2,0,2,2,0,1,1,1,1,1,0
+167278,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,0,2,0,2,2,0,0,0,0
+163211,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+118962,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+113791,long,T1 Faster,T2 Neutral,1. None,2,0,1,1,1,2,1,2,2,2,1,1,1,1,1,1,0
+103726,loyal,T1 Slower,T2 Slower,2. <10%,2,1,0,1,0,0,2,2,0,1,1,2,2,1,0,1,0
+163752,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+147965,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,1,1,1,0,0,1,1,1,2,2,2,0,0
+176301,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,2,2,2,1,2,0,1,2,1,2,2,1,2,1,0
+168875,loyal,T1 Faster,T2 Slower,1. None,0,2,2,2,2,0,0,0,0,1,0,2,2,1,0,0,0
+159066,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+161828,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,2,2,2,1,0,0,0,2,2,2,2,0
+165783,long,T1 Faster,T2 Faster,1. None,2,0,2,2,0,2,0,0,0,2,0,2,2,2,0,2,0
+163620,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+127743,medium,T1 Faster,T2 Faster,1. None,1,0,1,0,0,2,0,0,1,0,0,2,2,2,2,0,0
+168990,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+157395,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,1,0,0,2,0,2,2,2,1,2,1,1,0
+179293,loyal,N/A - No AOG,N/A - No AOG,3. +10%,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+133197,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+141235,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+167242,loyal,T1 Slower,T2 Slower,2. <10%,0,2,2,0,0,0,0,0,1,0,2,1,0,0,1,1,0
+174313,medium,T1 Faster,T2 Slower,1. None,2,0,2,1,0,0,2,0,1,2,0,1,1,1,1,2,0
+181255,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1
+106981,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0
+178013,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+153197,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+143443,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0
+136106,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,1,0,2,0,0,0,2,2,1
+153317,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,1
+122820,long,T1 Neutral,T2 Slower,1. None,1,2,0,2,0,0,0,0,2,2,0,0,2,0,0,2,0
+160422,medium,T1 Faster,T2 Faster,2. <10%,1,0,1,2,2,1,0,2,1,1,1,2,1,2,1,1,0
+163117,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,0,2,0,0,0,0,0,2,0,0
+135987,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+172577,long,T1 Neutral,T2 Slower,1. None,0,2,0,2,0,0,0,0,2,0,0,0,2,0,0,0,1
+100736,medium,T1 Faster,T2 Slower,1. None,1,0,0,0,0,2,0,0,0,0,0,2,2,2,2,0,0
+127512,medium,T1 Faster,T2 Neutral,3. +10%,2,2,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0
+132906,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,1,1,2,0,1,1,2,0,1,1,2,2,1,0
+162883,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,1,2,0,0,0,1,2,1,1,2,1,2,1,0
+119201,loyal,T1 Faster,T2 Slower,1. None,1,1,1,0,0,0,0,0,1,1,0,1,2,1,2,0,0
+134110,medium,T1 Faster,T2 Slower,1. None,1,2,1,0,2,0,0,0,2,0,2,0,1,1,1,0,0
+187871,loyal,T1 Faster,T2 Slower,2. <10%,1,1,2,0,2,0,1,0,2,1,0,2,2,1,1,1,0
+167385,medium,T1 Faster,T2 Neutral,1. None,0,0,2,0,2,2,2,0,0,1,0,2,1,2,2,0,0
+191980,loyal,T1 Faster,T2 Slower,1. None,2,1,2,2,2,1,2,0,1,2,1,1,2,1,2,1,0
+101996,long,T1 Faster,T2 Faster,1. None,1,0,1,1,0,2,0,0,1,2,0,2,2,2,2,0,0
+192777,medium,T1 Faster,T2 Faster,1. None,0,2,2,0,2,2,0,0,2,2,0,2,0,2,0,0,0
+157024,long,T1 Neutral,T2 Slower,1. None,0,0,1,2,0,0,0,0,1,2,0,0,1,0,1,0,0
+152679,medium,T1 Faster,T2 Neutral,1. None,0,1,2,2,2,0,0,0,0,1,0,1,2,1,2,1,0
+164213,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+181210,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,0,2,0,2,1,2,0,0,0
+132313,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,0,0,0,1
+117839,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+108569,medium,N/A - No AOG,N/A - No AOG,2. <10%,2,0,1,2,0,2,2,0,1,2,2,2,0,2,0,0,0
+140222,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1
+114314,loyal,T1 Slower,T2 Slower,3. +10%,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0
+106996,loyal,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,1
+155264,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,2,1,1,0,0,0
+165486,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,2,0
+172502,medium,T1 Slower,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0
+144153,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+160252,medium,T1 Slower,T2 Slower,1. None,0,2,1,0,1,0,0,0,1,0,2,0,0,0,1,1,0
+105824,medium,T1 Neutral,T2 Slower,1. None,0,2,1,0,0,0,1,0,2,2,2,0,1,1,1,1,0
+182677,long,T1 Faster,T2 Neutral,2. <10%,2,0,1,1,1,1,2,0,2,1,0,1,1,1,1,2,0
+102293,loyal,T1 Faster,T2 Slower,1. None,1,0,2,2,1,0,0,0,0,1,1,2,2,2,1,1,0
+139026,loyal,T1 Faster,T2 Neutral,1. None,1,2,2,2,2,0,0,0,1,1,2,0,2,0,0,0,0
+195714,loyal,T1 Slower,T2 Slower,1. None,0,2,1,1,1,0,2,2,0,1,1,2,0,2,0,0,0
+187445,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,1,0,0,0,0,2,0,2,2,2,1,2,0
+161281,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0
+173544,medium,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0
+150713,loyal,T1 Faster,T2 Slower,1. None,1,0,2,2,1,1,2,1,2,1,0,1,1,1,0,0,0
+100417,short,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+137232,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+171831,long,T1 Faster,T2 Neutral,1. None,1,2,1,0,1,1,0,0,1,2,0,1,1,2,2,0,0
+174442,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,1,0,1,2,1,0,0,0
+157703,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,2,0
+128735,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,1,2,0,0,2,0,0,0,0
+142415,loyal,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,2,0,0,0,2,0,0,0
+140424,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0
+178699,long,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,2,2,2,0,0,2,0,2,0,0
+153593,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+145790,loyal,T1 Faster,T2 Slower,1. None,1,2,1,0,1,0,1,0,2,2,1,1,1,1,1,1,0
+126003,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,2,0,1,2,0,2,2,0
+148050,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+164269,medium,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,1,2,0,1,1,2,0,0,0
+129678,medium,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+157929,long,T1 Slower,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+147117,loyal,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1
+118977,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,2,0,0,0,0,0,2,0,2,1,2,1,0,0
+177327,loyal,T1 Faster,T2 Slower,2. <10%,2,1,2,1,2,0,1,0,1,2,2,1,1,1,1,2,0
+147327,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,2,0,0,0,1,2,0,2,1,2,1,1,0
+112414,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,0,1,1,0,0,2,1,0,1,1,1,2,2,0
+106518,medium,T1 Slower,T2 Slower,3. +10%,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1
+148495,loyal,T1 Faster,T2 Slower,1. None,2,1,0,2,1,2,0,0,1,2,0,1,2,2,0,0,0
+101199,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+146096,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,2,0,0,2,2,2,1,0,2,2,0
+116446,loyal,T1 Faster,T2 Faster,1. None,1,1,2,2,0,0,0,0,0,2,0,2,2,2,2,0,0
+111067,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+184907,long,T1 Faster,T2 Faster,1. None,1,0,2,2,0,0,2,2,2,2,0,1,1,0,2,2,0
+133170,long,T1 Neutral,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,2,0,2,2,0,2,0,0
+128907,loyal,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,0,1,0,1,2,0,2,2,2,1,1,0
+118865,medium,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+170824,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,0,2,0,2,0,1,2,0,2,2,2,2,1,0
+141588,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,2,0,1,0,0,0,1,2,2,1,2,0,1,0
+123533,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+157992,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0
+116775,medium,T1 Faster,T2 Neutral,1. None,2,1,2,0,2,1,0,2,2,1,0,1,2,0,0,0,0
+145120,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+191776,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,1,0,2,0,1,2,1,2,1,0,1,0,0
+128504,long,T1 Faster,T2 Neutral,1. None,1,1,2,1,1,2,0,0,2,2,0,1,1,1,1,2,0
+122274,medium,T1 Faster,T2 Neutral,1. None,0,2,2,0,0,0,2,0,0,2,0,2,2,0,0,0,1
+106671,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,2,0,0,2,2,1,2,1,2,0,2,0,0
+116605,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+148725,loyal,T1 Faster,T2 Faster,2. <10%,2,1,2,1,0,1,1,0,1,2,0,2,2,2,1,0,0
+132284,short,T1 Faster,T2 Neutral,1. None,2,0,1,2,0,0,2,0,0,2,2,2,2,0,2,2,0
+108674,loyal,T1 Neutral,T2 Slower,1. None,1,0,2,0,2,0,2,2,0,2,0,2,1,2,2,0,0
+108221,loyal,T1 Faster,T2 Slower,1. None,0,1,1,1,0,0,0,0,2,1,1,1,1,1,2,2,0
+137715,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+178470,loyal,T1 Faster,T2 Faster,1. None,2,1,1,1,2,0,0,0,2,1,0,1,2,1,1,1,0
+164228,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,1,2,2,2,0,2,2,2,0,1,1,0,0,2,0
+175982,long,T1 Faster,T2 Slower,1. None,1,1,0,1,0,1,0,0,2,1,1,2,1,1,1,1,0
+184861,loyal,T1 Faster,T2 Slower,2. <10%,0,2,2,1,0,0,0,0,0,2,0,2,1,2,2,0,0
+101647,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,0,2,0,0,1,2,2,1,2,1,0,1,0
+163934,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,0,1,1,0,2,2,1,0,1,2,1,1,0,0
+152964,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,1,0,1,1,2,2,0,0
+108241,medium,T1 Faster,T2 Faster,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0
+191968,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1
+194187,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,2,0,0,0,1,1,0,1,2,1,1,0,0
+154115,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,1,2,0,0,2,2,0,1,1,1,1,0,0
+188960,long,T1 Faster,T2 Slower,1. None,2,1,1,0,1,0,1,2,2,1,2,1,1,1,1,2,0
+146963,long,T1 Faster,T2 Slower,1. None,1,0,1,2,0,0,0,0,2,2,0,2,1,2,1,0,0
+147725,long,T1 Faster,T2 Faster,2. <10%,1,0,1,1,1,2,1,0,1,2,1,1,1,2,1,1,0
+154576,loyal,T1 Faster,T2 Slower,1. None,1,2,0,2,1,0,0,2,1,2,0,2,1,2,0,0,0
+161327,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,2,0,2,1,0,1,1,2,2,2,0
+143250,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+107257,medium,T1 Faster,T2 Slower,1. None,2,1,1,2,1,0,1,0,1,1,1,2,1,2,0,1,0
+116972,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0
+161816,long,T1 Faster,T2 Faster,1. None,1,1,1,0,2,0,2,2,2,1,0,0,1,0,0,1,0
+184517,medium,T1 Neutral,T2 Slower,1. None,1,2,2,1,1,0,2,2,0,1,0,2,2,1,0,0,0
+127301,medium,T1 Faster,T2 Faster,3. +10%,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,1
+128168,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1
+184823,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,0,2,0,0,0,0,0,0,2,0,0,0,2,0
+124625,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,2,1,1,0,1,1,2,2,2,0
+127897,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,1,1,0,1,2,1,1,2,1,1,2,1,0
+172400,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,2,1,2,2,2,0
+159499,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1
+160202,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,2,2,1,2,2,0,0
+131622,loyal,T1 Slower,T2 Slower,1. None,1,2,1,0,1,0,1,0,1,1,2,1,0,1,0,2,0
+170272,loyal,T1 Faster,T2 Slower,3. +10%,2,0,1,0,0,1,0,0,1,2,2,2,1,1,1,1,0
+186092,loyal,T1 Faster,T2 Slower,1. None,2,1,2,1,0,2,2,0,2,2,2,1,1,1,1,2,0
+148688,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0
+104857,medium,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,2,0,0,0,1,2,0,0,2,1,0,2,0
+142707,loyal,T1 Faster,T2 Slower,1. None,0,0,2,0,0,2,0,0,1,2,0,0,0,2,0,0,0
+157808,medium,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+163333,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+107907,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,0,1,0,0,0,2,1,1,0,0,0,2,2,0
+188037,long,T1 Faster,T2 Slower,1. None,2,0,1,2,0,1,2,0,1,2,0,2,1,2,0,0,0
+157733,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,2,1,2,0,0,0,2,1,2,1,1,1,1,1,0
+139790,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,2,0,1,2,2,1,1,1,1,2,0
+172181,loyal,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,2,0,2,0,2,0,0,0
+131668,long,T1 Faster,T2 Faster,2. <10%,2,1,1,1,0,2,2,1,0,2,0,2,2,2,1,0,0
+138141,loyal,T1 Faster,T2 Faster,1. None,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,2,0
+178965,loyal,T1 Faster,T2 Slower,1. None,0,0,1,2,1,1,0,0,2,1,1,1,1,1,2,1,0
+157469,long,T1 Faster,T2 Neutral,1. None,0,1,2,0,2,0,0,2,2,0,2,1,1,2,2,0,0
+106054,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+146398,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+180220,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+132468,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,2,0,2,0,0,2,2,1,0,2,0
+149681,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,0,2,2,0,0,1,0,2,0,0,0,0,0
+127289,long,T1 Faster,T2 Slower,1. None,2,1,1,1,0,2,0,0,1,2,0,2,1,1,0,0,0
+139486,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,2,2,1,2,2,1,2,0,1,1,2,1,1,0
+103648,loyal,T1 Faster,T2 Slower,1. None,2,2,1,0,1,0,0,0,1,1,0,2,2,2,1,2,0
+161601,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,2,1,0,1,1,0,2,1,1,1,1,1,1,2,0
+125575,loyal,T1 Faster,T2 Slower,1. None,1,2,2,1,1,0,2,1,1,1,2,1,2,1,2,2,0
+116028,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+158944,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,2,0,1
+193911,long,T1 Faster,T2 Faster,2. <10%,1,0,2,1,2,0,0,0,2,0,0,0,1,1,0,2,0
+146179,long,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,2,0,0,2,1,0,0,0,0
+190897,long,T1 Faster,T2 Slower,1. None,2,1,2,1,0,2,2,2,0,1,0,2,1,2,1,1,0
+171020,loyal,T1 Neutral,T2 Slower,1. None,0,2,1,0,1,0,0,0,2,0,1,1,0,1,1,2,0
+163259,medium,T1 Faster,T2 Faster,1. None,2,0,2,1,2,0,0,0,1,1,0,2,2,1,1,2,0
+139247,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+196249,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,2,2,0,0,0,1,2,0,1,1,2,2,2,0
+192737,medium,T1 Faster,T2 Neutral,1. None,2,0,1,2,1,2,0,0,2,0,2,1,1,1,1,2,0
+125699,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,1,0,2,0,2,1,1,1,1,1,1,2,0
+138284,loyal,T1 Faster,T2 Faster,1. None,1,2,1,2,0,2,0,0,0,2,0,2,2,1,0,0,0
+101532,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,2,0,2,0,0,1
+179789,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,2,0,0,1,2,2,2,2,1,1,2,0
+150618,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,1
+165295,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+110956,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,1,0,2,0,0,2,2,2,1,1,1,1,1,0
+180246,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+178140,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,1,2,0,0,0,2,2,1,1,1,1,2,2,0
+165758,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+111131,long,T1 Faster,T2 Faster,2. <10%,2,0,2,1,0,2,2,0,0,1,0,2,0,2,1,0,0
+170813,medium,T1 Faster,T2 Faster,1. None,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+174876,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,1,0,2,2,2,2,0,0
+98503,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0
+194183,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,2,0,2,0,0,0,1,2,2,1,2,0,2,0
+187262,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,2,2,0,0,1,0,0,2,1,2,2,2,0
+157342,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+154056,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,1
+136941,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,0,2,0,2,0,2,0,0,0
+193974,long,T1 Neutral,T2 Slower,1. None,1,1,2,2,2,1,2,2,1,2,0,2,2,1,2,2,0
+169838,medium,T1 Faster,T2 Faster,1. None,2,0,1,2,0,0,0,2,0,2,0,2,1,2,2,0,0
+155979,loyal,T1 Faster,T2 Faster,3. +10%,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+138009,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,2,0,0,0,0,0,2,1,2,0,0,0
+193747,long,T1 Faster,T2 Neutral,1. None,1,2,1,2,1,1,1,0,1,2,0,1,2,2,2,2,0
+136277,long,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,0,0,0,2,0,2,0,0,0
+173216,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+136065,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,0,0,2,2,0,0,0,0
+130743,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+196605,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+113375,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,0,2,0,0,0,2,2,0,2,2,0,0
+192342,loyal,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,2,0,2,0,2,0,0,0
+103710,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,0,2,2,1,1,1,1,1,1,1,2,2,0
+196416,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,2,0,0,0,0,2,0,0
+120911,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+195895,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0
+109121,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,2,1,2,0,0,2,2,2,0,0
+134121,long,T1 Faster,T2 Slower,1. None,0,2,2,0,2,0,0,0,2,2,0,0,2,0,0,0,0
+171360,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+184556,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+132254,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,1,2,0,2,2,1,2,2,0
+107447,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+108710,loyal,T1 Faster,T2 Faster,2. <10%,2,0,0,2,0,0,0,0,0,2,0,1,1,2,2,2,0
+155764,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+190156,medium,T1 Faster,T2 Neutral,1. None,2,0,2,2,1,1,2,0,1,2,1,1,2,2,2,0,0
+103856,short,T1 Faster,T2 Slower,1. None,1,2,2,0,2,0,2,2,0,1,2,1,1,0,0,1,0
+139905,long,T1 Faster,T2 Slower,2. <10%,0,0,2,2,0,0,0,0,2,2,0,1,2,0,0,0,0
+99957,long,T1 Faster,T2 Slower,1. None,1,2,2,2,1,0,2,0,1,1,1,2,1,2,2,2,0
+98448,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,2,0,0,0,2,1,0,1,1,1,2,2,0
+129466,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+192289,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+157722,medium,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,1,2,2,1,0,1,1,1,0,0,0
+132950,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,0,0,0,2,2,0,0,0
+185279,loyal,T1 Faster,T2 Faster,2. <10%,0,1,1,1,2,1,0,0,1,2,0,1,2,2,2,1,0
+186643,loyal,T1 Slower,T2 Slower,1. None,2,0,0,0,0,0,2,0,2,0,0,0,2,0,2,0,0
+189609,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0
+126782,loyal,T1 Faster,T2 Faster,1. None,2,0,1,2,2,2,0,1,1,2,1,2,2,1,1,1,0
+185286,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,2,0,0,0,2,0,0,2,0,2,0,0
+154652,long,T1 Faster,T2 Neutral,1. None,0,0,2,2,2,1,0,0,1,1,2,1,1,2,2,1,0
+168982,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+147977,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0
+193509,long,T1 Faster,T2 Slower,1. None,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0
+182923,medium,T1 Faster,T2 Slower,1. None,1,2,2,0,0,0,1,0,1,1,2,0,1,1,1,2,0
+114157,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0
+115056,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0,0
+102855,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,1,0,2,2,0,0,2,0,0
+133198,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,2,1,2,0,1,1,0,2,2,1,1,0,0
+166349,long,T1 Faster,T2 Faster,1. None,1,1,1,1,1,2,0,0,1,1,0,2,2,2,1,1,0
+189647,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,1,0,0,0,1,2,0,2,1,2,0,0,0
+193754,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,1
+149800,medium,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0
+102152,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,2,2,0,0,0,0,1,1,2,0,2,0,1,0
+123651,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,2,2,0,0
+173497,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,1,0,0,1,0,2,2,2,1,1,1,2,2,0
+175065,loyal,T1 Faster,T2 Neutral,1. None,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0
+160610,medium,T1 Faster,T2 Neutral,1. None,2,0,2,1,2,0,0,2,1,2,0,0,2,1,1,0,0
+163611,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,1,0,0,0,0,2,0,2,2,2,1,0,0
+153319,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+98893,short,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+154179,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,0,0,2,1,2,1,1,1,1,2,2,0
+143271,loyal,T1 Faster,T2 Slower,1. None,1,2,1,1,1,1,2,2,1,1,0,1,2,0,1,1,0
+116620,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+170778,long,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,2,0,0,0,1,0,1,1,2,2,2,0
+171519,long,T1 Neutral,T2 Slower,1. None,1,1,1,1,2,0,2,2,1,2,0,2,1,2,2,1,0
+192157,loyal,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,2,2,1,2,0,0,0
+182087,loyal,T1 Faster,T2 Faster,1. None,0,0,2,2,2,0,0,0,0,2,0,2,2,2,1,0,0
+112093,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,1,0,0,2,2,0,0,2,0
+159832,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,0,0,0,0,0,0,1,2,0,0,2,2,2,1,0
+108211,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+195975,loyal,T1 Faster,T2 Faster,1. None,0,2,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+139204,long,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,1,2,0,2,1,2,0,0,0
+121761,loyal,T1 Faster,T2 Faster,1. None,0,2,1,1,0,0,0,0,2,1,2,1,2,1,0,2,0
+153056,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,2,1,0,2,2,2,1,2,1,1,2,1,1,0
+145871,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+179776,loyal,T1 Faster,T2 Slower,2. <10%,2,0,1,2,2,0,0,1,1,1,0,2,1,2,1,1,0
+195154,medium,T1 Faster,T2 Faster,1. None,0,1,2,2,2,0,0,2,2,2,2,0,0,0,1,2,0
+171460,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,2,2,2,2,2,1,1,0,1,1,0,2,0
+101988,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+148954,loyal,T1 Faster,T2 Faster,1. None,2,1,2,2,0,0,0,0,2,2,2,0,0,0,0,2,0
+145324,loyal,T1 Faster,T2 Slower,1. None,2,1,0,0,1,0,0,0,1,1,2,1,1,0,1,1,0
+173039,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,0,0,0,0,0,0,1,0,2,2,2,0,0,0
+133023,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,2,2,2,2,1,2,1,1,0,2,2,1,1,0,0
+147267,medium,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+108425,loyal,T1 Neutral,T2 Slower,2. <10%,2,2,1,2,0,2,0,0,1,1,0,2,1,2,1,0,0
+137092,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,0,1,2,1,0,2,2,0,2,1,1,1,1,0
+109003,loyal,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,0,0,2,2,0,0,0,0
+124381,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,1
+159868,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+187133,long,T1 Faster,T2 Neutral,1. None,2,0,2,1,0,0,0,0,1,2,1,2,1,2,2,1,0
+112188,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+175507,medium,T1 Faster,T2 Slower,1. None,1,0,2,2,0,0,0,0,1,0,0,2,0,0,0,0,0
+113971,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,2,1,2,1,0,1,1,2,0
+148222,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,0,0,1,0,1,2,0,2,1,1,2,1,0
+166979,medium,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,0,2,0,0,2,0,0,1
+145973,loyal,T1 Faster,T2 Slower,1. None,1,2,1,1,1,0,0,0,2,2,1,1,1,1,1,0,0
+134230,medium,T1 Faster,T2 Slower,1. None,1,2,0,0,0,2,2,0,2,1,0,1,2,0,2,2,0
+130972,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+129691,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,2,0,2,0,2,2,2,0,0,0
+179017,medium,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,2,0,0,0,1,0,2,1,2,1,2,0
+186582,loyal,T1 Faster,T2 Slower,1. None,1,0,0,2,0,2,0,0,0,0,0,2,2,2,0,0,0
+107800,long,T1 Faster,T2 Faster,1. None,1,1,2,1,2,0,1,2,1,1,1,2,2,2,1,1,0
+146894,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+188378,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,1,0,0,0,2,2,0,0,0
+182539,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+167237,long,T1 Faster,T2 Neutral,1. None,0,0,1,0,2,0,0,0,1,0,2,1,0,0,0,2,0
+150544,long,T1 Faster,T2 Slower,3. +10%,2,0,0,2,0,2,0,0,1,2,0,2,0,1,2,0,0
+183337,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+111945,medium,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+114136,medium,T1 Faster,T2 Neutral,1. None,0,0,1,2,0,0,0,0,1,2,0,1,1,2,1,0,0
+137762,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+130163,loyal,T1 Faster,T2 Slower,2. <10%,2,1,2,1,2,0,0,2,1,1,0,1,2,1,2,1,0
+145966,medium,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,0,0,0,1,1,0,0,2,2,2,1,0
+116349,loyal,T1 Neutral,T2 Slower,1. None,1,1,1,2,1,2,1,1,1,2,1,2,1,2,1,1,0
+126057,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,0,0,1,0,0,2,2,0,0,2,0
+114935,long,T1 Faster,T2 Neutral,1. None,2,2,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0
+138756,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,2,2,0,1
+177172,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+131050,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+126977,long,T1 Slower,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,2,0,0,0,2,0,0,1
+105661,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,1,2,0,0,0,2,0,2,0,1,0,1,0,1
+192221,short,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,2,2,0,0,0,1
+183465,long,T1 Faster,T2 Neutral,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+104828,medium,T1 Neutral,T2 Slower,1. None,2,1,1,0,1,0,0,0,1,1,2,2,1,2,2,2,0
+129773,loyal,T1 Faster,T2 Faster,2. <10%,0,0,0,2,0,0,0,0,0,0,0,2,1,2,2,2,0
+130932,medium,T1 Faster,T2 Slower,1. None,0,0,2,0,0,0,2,0,0,2,0,0,0,2,0,0,0
+121313,long,T1 Faster,T2 Faster,2. <10%,2,1,1,0,0,0,0,0,2,1,0,0,1,1,1,1,0
+148578,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,0,2,0,2,0,0,0,1,0,2,0,2,2,0,0
+104816,loyal,T1 Faster,T2 Slower,3. +10%,1,1,1,0,1,0,0,2,2,2,0,0,1,1,2,1,0
+181348,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,1,0,0,0,2,0,0,0,1,1,2,2,0
+194518,loyal,T1 Slower,T2 Slower,2. <10%,1,2,2,0,1,0,2,0,2,1,2,1,1,1,1,2,0
+130554,long,T1 Faster,T2 Faster,1. None,1,0,1,0,1,2,0,0,2,1,0,1,2,1,2,2,0
+170109,loyal,T1 Faster,T2 Slower,1. None,1,0,0,0,2,2,0,2,2,1,0,0,0,1,0,0,0
+166442,long,T1 Faster,T2 Neutral,3. +10%,2,0,2,0,0,0,0,0,2,2,0,0,1,2,0,0,0
+133735,long,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,2,1,2,1,1,1,0,0
+158167,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+115058,short,T1 Faster,T2 Neutral,1. None,0,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,1
+140288,loyal,T1 Faster,T2 Slower,1. None,1,1,0,1,1,1,0,2,1,2,1,2,2,1,1,0,0
+183537,long,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,0,0,2,0,1,0,0,2,0
+168899,medium,T1 Faster,T2 Faster,1. None,2,1,1,0,0,0,0,0,1,2,2,1,1,2,2,2,0
+100121,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+133004,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,1,1,0,2,2,2,0,0,0
+148676,loyal,T1 Neutral,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+173863,loyal,T1 Faster,T2 Faster,3. +10%,2,0,2,1,2,0,1,0,2,2,2,1,1,1,1,1,0
+100026,short,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+130404,loyal,T1 Faster,T2 Faster,1. None,0,1,2,0,2,0,0,2,1,2,0,1,2,2,2,0,0
+137885,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,1,1,2,0,2,2,1,1,2,2,2,1,0,0,0
+145753,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,2,0,1,1,0,2,0,0
+126810,long,T1 Faster,T2 Faster,3. +10%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+141163,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+170114,medium,T1 Faster,T2 Slower,1. None,1,2,1,1,2,1,0,2,0,2,0,2,1,2,2,1,0
+160570,medium,T1 Neutral,T2 Slower,1. None,0,0,2,0,0,2,0,0,2,0,0,0,2,0,0,0,0
+109107,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,0,2,2,2,0,2,0,0,0
+141666,long,T1 Faster,T2 Faster,3. +10%,1,1,0,2,0,0,0,0,2,1,0,1,2,1,2,2,0
+191927,long,T1 Faster,T2 Slower,1. None,2,1,1,1,1,0,1,0,2,2,1,1,2,1,2,1,0
+165362,long,T1 Faster,T2 Slower,1. None,1,0,0,2,2,0,0,0,2,2,0,2,2,2,2,1,0
+129885,loyal,T1 Faster,T2 Slower,2. <10%,1,0,0,2,2,0,0,2,0,2,0,0,2,1,0,0,0
+141273,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,0,2,2,1,2,2,1,2,1,2,2,0
+171282,medium,T1 Faster,T2 Neutral,1. None,2,0,1,1,2,0,2,2,1,2,0,1,2,2,1,0,0
+107718,long,T1 Faster,T2 Slower,1. None,1,2,0,0,2,0,0,0,1,2,0,0,2,0,2,2,0
+193694,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,2,0,0,0,2,0,0,2,0,0
+133995,long,T1 Faster,T2 Faster,1. None,2,1,1,2,2,1,0,0,2,1,0,1,1,2,2,1,0
+164983,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,1,2,0,2,2,1,1,0,1,1,2,2,2,0
+172617,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+174555,medium,T1 Faster,T2 Neutral,3. +10%,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+149238,medium,T1 Faster,T2 Neutral,3. +10%,1,0,0,2,0,0,0,0,1,2,0,2,2,0,0,0,0
+188311,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+143998,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,1,0,0,0,2,0,0,0,1,0,1,2,0
+178313,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,0,2,0,0,0,1,2,0,0,2,2,0,0,0
+165522,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,2,0,1,2,2,1,0,1,1,1,1,1,0
+109320,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,0,1,0,0,0,2,0,2,2,2,1,1,0
+138403,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,2,1,2,1,2,0,2,1,0
+156373,loyal,T1 Neutral,T2 Slower,1. None,0,1,2,2,2,0,0,0,1,2,0,0,2,1,0,0,0
+145321,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+126159,loyal,T1 Slower,T2 Slower,3. +10%,0,0,0,2,2,0,0,0,0,0,0,0,2,0,2,0,0
+117023,loyal,T1 Faster,T2 Neutral,1. None,0,0,1,2,0,0,0,0,1,1,0,2,2,2,0,2,0
+160138,medium,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,2,0,0,0,2,0,0,0,0,2,1
+111880,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+161370,medium,T1 Faster,T2 Neutral,1. None,2,0,0,1,2,0,0,0,2,1,2,0,0,0,0,1,0
+165157,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+136692,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+186740,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,1,2,1,1,0,0,2,0
+190552,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,0,0,2,0,2,0,0,0,0,0
+190651,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,2,0,0,1,0,0,2,0
+113676,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+175648,long,T1 Faster,T2 Faster,2. <10%,1,0,2,2,0,1,2,2,0,2,0,2,2,2,1,1,0
+149279,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,2,1,0,1,0,0,0,2,2,1,2,2,1,0
+174522,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,1
+126246,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1
+152080,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+141872,loyal,T1 Slower,T2 Slower,1. None,2,2,1,1,0,0,1,0,1,1,2,2,1,2,1,1,0
+133933,loyal,T1 Faster,T2 Slower,1. None,1,0,1,2,1,1,0,0,1,1,1,2,2,1,0,1,0
+149310,medium,T1 Faster,T2 Slower,1. None,1,1,2,2,2,2,2,2,2,2,0,1,1,1,2,1,0
+151967,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,2,0,0,2,0,2,0,2,0
+125058,short,T1 Faster,T2 Neutral,1. None,0,0,0,0,2,2,0,0,0,2,0,0,2,0,0,0,0
+105312,loyal,T1 Faster,T2 Neutral,1. None,0,0,1,2,2,0,0,0,2,2,1,1,1,0,0,1,0
+192901,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,1,2,1,2,2,2,0,2,0,1,1,2,2,0,0
+156263,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+137609,medium,T1 Faster,T2 Slower,1. None,2,1,0,0,0,0,0,0,2,1,0,1,2,2,1,1,0
+174186,medium,T1 Slower,T2 Slower,2. <10%,1,2,1,1,1,0,0,1,2,1,0,1,1,1,2,1,0
+130156,long,T1 Faster,T2 Neutral,2. <10%,2,1,1,2,1,2,0,0,1,2,1,2,1,2,2,1,0
+142328,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+111437,medium,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,2,0,0,2,1,0,2,1,1,2,0,0
+139323,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,1
+171040,medium,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,0,2,2,0,0,0,0
+124264,loyal,T1 Faster,T2 Neutral,1. None,0,0,0,2,2,0,0,0,0,2,0,2,2,0,0,0,0
+158409,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+117974,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+149323,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+105426,medium,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,1,0,0,2,2,0,0,0
+189788,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+99971,long,T1 Faster,T2 Faster,3. +10%,1,0,2,1,1,2,0,2,0,2,1,2,1,2,0,0,0
+157898,long,T1 Faster,T2 Slower,1. None,1,2,1,0,0,0,0,0,1,2,0,2,0,2,0,0,0
+155050,loyal,T1 Faster,T2 Faster,1. None,1,2,2,1,2,0,2,0,1,2,0,2,2,1,1,0,0
+143901,long,T1 Faster,T2 Slower,2. <10%,1,2,2,0,2,0,1,0,1,1,2,1,1,1,2,2,0
+183616,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0
+172179,loyal,T1 Faster,T2 Faster,1. None,2,1,2,2,0,0,0,0,1,1,0,1,2,2,2,2,0
+171774,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,2,0,2,0,2,1,0,0,0
+191912,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+143447,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+118506,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1
+146723,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,1,0,0,2,0,2,2,0,0
+109696,loyal,T1 Slower,T2 Slower,1. None,1,2,0,0,0,2,0,0,0,1,0,2,0,1,1,0,0
+123494,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,1,0,0,2,0,2,0,0
+101369,medium,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,1,2,0,2,1,1,0
+109784,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0
+187682,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1
+131257,medium,T1 Faster,T2 Faster,1. None,1,0,1,1,1,0,2,0,2,1,1,1,1,1,2,1,0
+128061,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+121619,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+139995,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,1,0,0,0,0,2,1,0,1,1,1,1,0,0
+148977,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+129349,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+147477,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,2,0,0,0,2,1,0,1,1,2,2,0,0
+170563,medium,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+136462,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,0,2,2,1,1,0,1,0,1,2,0
+150887,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,0,0,0,0,0,2,0,1,2,2,0,0,0
+137213,long,T1 Faster,T2 Faster,1. None,1,1,2,0,0,2,2,0,1,1,0,2,1,2,2,1,0
+148089,short,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,2,0,2,0,0
+191561,medium,T1 Faster,T2 Slower,1. None,0,0,0,1,0,2,0,0,0,2,0,2,1,2,0,0,0
+112872,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+185378,loyal,N/A - No AOG,N/A - No AOG,3. +10%,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+167125,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+167379,loyal,T1 Slower,T2 Slower,1. None,1,2,1,2,0,0,0,0,1,2,1,2,1,2,1,1,0
+124643,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,0,2,0,1,1,2,0,0
+174374,medium,T1 Faster,T2 Faster,1. None,2,1,2,0,1,0,0,2,0,2,0,2,2,2,1,0,0
+139925,medium,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+185193,long,T1 Faster,T2 Slower,1. None,2,1,0,2,0,2,0,0,0,0,0,2,1,2,2,0,0
+122655,long,T1 Faster,T2 Faster,3. +10%,0,0,2,0,0,2,0,0,2,0,2,0,0,0,0,2,0
+113821,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,2,0,2,0,0,2,0,2,2,2,0
+122871,loyal,T1 Slower,T2 Slower,2. <10%,1,2,1,1,1,1,2,0,1,1,0,1,2,1,2,1,0
+167765,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,2,1,0,0,0,1,0,2,1,2,0,1,0
+186903,loyal,T1 Faster,T2 Faster,2. <10%,1,0,0,0,1,0,0,0,0,2,1,2,1,2,2,0,0
+196660,long,T1 Faster,T2 Neutral,1. None,1,1,2,0,1,1,1,0,2,2,0,1,1,2,1,1,0
+161040,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,2,0,0,0,0,0,2,0,2,1,0,0,0,0
+101263,loyal,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,2,0,2,0,2,0,0,0
+185212,medium,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,2,0,0,2,2,0,0,0
+142300,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,2,2,0,0,2,0,0,1,1,2,0,2,0
+172927,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,1,2,0,1,2,1,1,1,1,2,1,2,2,0
+157074,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0
+104892,loyal,T1 Faster,T2 Slower,1. None,2,2,0,2,0,0,0,0,1,2,0,0,0,2,0,2,0
+110458,long,T1 Slower,T2 Slower,1. None,1,2,0,1,1,2,1,0,1,2,1,2,1,2,2,1,0
+168195,loyal,T1 Faster,T2 Faster,1. None,2,1,1,1,2,1,0,2,2,1,2,1,1,1,2,2,0
+154553,long,T1 Faster,T2 Neutral,1. None,1,2,0,0,0,0,0,0,0,1,1,2,1,2,0,1,0
+178401,loyal,T1 Faster,T2 Faster,2. <10%,2,0,0,1,1,2,0,2,1,1,1,2,0,0,2,2,0
+185973,long,T1 Faster,T2 Faster,2. <10%,0,0,2,0,2,0,2,0,1,1,0,2,0,2,0,0,0
+121190,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,1
+109706,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+161181,long,T1 Faster,T2 Neutral,1. None,1,0,2,2,1,1,1,0,2,1,0,1,2,1,1,1,0
+176360,loyal,T1 Faster,T2 Slower,1. None,1,2,2,2,2,2,0,0,1,2,2,1,1,2,2,1,0
+122594,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+150555,medium,T1 Faster,T2 Faster,2. <10%,1,0,2,0,2,1,2,0,2,0,0,0,0,1,0,0,0
+187028,short,T1 Faster,T2 Slower,1. None,1,2,1,0,2,0,0,0,1,2,0,1,2,0,0,0,0
+108213,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+192021,loyal,T1 Faster,T2 Neutral,1. None,1,0,0,2,2,2,0,0,2,2,0,1,1,2,0,2,0
+111460,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,0,0,0,0,2,2,0,1,2,0,2,0
+109676,loyal,T1 Faster,T2 Slower,1. None,2,1,2,0,1,1,1,1,0,2,0,2,2,1,1,0,0
+100059,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+178092,long,T1 Faster,T2 Faster,1. None,2,1,2,0,0,2,0,0,0,1,2,2,0,0,0,2,0
+111364,long,T1 Faster,T2 Neutral,1. None,1,1,2,0,2,1,1,1,2,1,0,1,1,1,2,1,0
+152817,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,2,0,2,2,0,0,0,1
+125467,long,T1 Faster,T2 Faster,2. <10%,2,0,2,1,0,0,0,0,1,2,0,1,2,2,1,1,0
+118718,medium,T1 Slower,T2 Slower,1. None,1,2,1,1,0,0,0,0,2,1,2,2,1,1,1,2,0
+172552,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+99454,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+124386,long,T1 Faster,T2 Neutral,2. <10%,1,2,2,0,1,0,0,0,1,2,1,1,2,2,1,0,0
+121395,medium,T1 Faster,T2 Slower,2. <10%,1,1,0,1,1,2,2,2,2,1,0,0,1,2,2,2,0
+113926,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,2,2,0,2,0,0,2,2,0,0,0
+188769,loyal,T1 Faster,T2 Faster,1. None,1,0,1,0,0,0,0,0,2,0,0,1,2,2,2,1,0
+187529,loyal,T1 Faster,T2 Faster,1. None,0,0,2,2,2,0,0,0,2,0,0,0,0,0,0,0,1
+113861,long,T1 Faster,T2 Slower,1. None,2,2,1,1,2,1,0,0,2,1,1,0,1,1,1,2,0
+163585,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1
+156193,medium,T1 Faster,T2 Neutral,1. None,2,1,2,1,0,0,0,0,0,1,0,2,2,0,0,0,0
+133275,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,1
+180972,medium,T1 Faster,T2 Faster,1. None,2,0,2,1,1,1,2,0,2,1,2,0,1,1,2,1,0
+192966,long,T1 Faster,T2 Slower,1. None,1,2,2,1,2,0,0,0,2,1,0,0,1,1,2,1,0
+138658,long,T1 Faster,T2 Neutral,1. None,2,0,0,1,0,0,0,0,2,2,0,2,1,1,1,0,0
+150327,medium,T1 Faster,T2 Slower,1. None,2,1,0,0,1,2,0,0,0,2,0,2,2,0,1,0,0
+105955,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,1,0,0,0,2,0,2,2,0
+119570,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+114637,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+172136,loyal,T1 Faster,T2 Faster,1. None,0,0,1,0,0,1,1,0,0,2,0,1,2,1,0,0,0
+172119,loyal,T1 Slower,T2 Slower,1. None,1,2,0,2,1,0,0,0,1,2,0,2,1,2,0,0,0
+169150,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,2,2,0,0,0,0,1,1,2,2,2,0,0,0
+138778,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,0,0,2,0,0,0,0,0
+102463,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,2,2,1,0,0,2,0,1,1,0
+130995,loyal,T1 Faster,T2 Slower,2. <10%,1,1,1,1,1,1,1,0,2,1,0,1,1,1,1,1,0
+184582,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+156164,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,0,0,0,1,1,2,1,1,1,1,2,0
+130505,short,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+152342,medium,T1 Faster,T2 Faster,1. None,0,0,1,0,2,2,0,2,0,0,1,1,2,0,2,1,0
+102600,loyal,T1 Faster,T2 Slower,1. None,1,2,0,1,1,0,0,0,2,2,1,1,2,2,1,1,0
+196125,loyal,T1 Neutral,T2 Slower,1. None,0,2,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0
+137981,loyal,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+109972,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,2,0,0,2,2,1,0,1,2,1,1,2,0
+153691,loyal,T1 Faster,T2 Faster,1. None,1,1,1,2,1,0,2,2,1,2,0,2,2,1,1,1,0
+123299,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+116425,long,T1 Faster,T2 Faster,2. <10%,1,0,2,1,0,2,0,0,2,1,0,2,1,1,2,1,0
+168880,loyal,T1 Faster,T2 Slower,1. None,2,1,2,1,1,0,1,2,2,2,1,2,1,2,1,2,0
+153726,long,T1 Slower,T2 Slower,1. None,1,2,1,1,0,0,0,0,2,1,1,1,1,1,1,0,0
+138597,loyal,T1 Faster,T2 Slower,1. None,1,2,1,2,1,0,1,0,0,2,1,2,1,2,1,0,0
+122983,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+186874,long,T1 Faster,T2 Slower,2. <10%,2,0,0,0,0,2,0,0,1,2,0,2,0,2,0,0,0
+160242,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,1,0,1,2,2,2,2,0
+121441,long,T1 Faster,T2 Neutral,1. None,2,1,1,0,2,2,0,0,2,1,2,1,2,1,2,2,0
+120873,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,2,1
+98983,medium,T1 Neutral,T2 Slower,2. <10%,1,2,2,0,0,0,2,0,2,2,0,1,0,2,0,0,0
+137008,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,2,1
+104360,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,1,0,2,1,1,1,1,2,0
+139971,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,1,0,0,0,0,2,0,0,2,1,2,0,0
+110764,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+103758,long,T1 Faster,T2 Neutral,1. None,2,1,2,0,2,2,2,0,2,0,1,1,1,1,2,0,0
+185376,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+177875,loyal,T1 Faster,T2 Slower,2. <10%,1,0,2,2,2,0,2,2,2,2,2,1,1,1,1,1,0
+114856,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+132523,long,T1 Faster,T2 Neutral,2. <10%,1,2,2,2,2,0,0,2,2,1,2,0,1,1,1,1,0
+163790,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+175318,medium,T1 Faster,T2 Faster,1. None,1,0,0,2,0,2,0,0,0,0,2,2,0,0,0,0,0
+161899,loyal,T1 Faster,T2 Neutral,1. None,1,0,0,2,0,2,0,0,1,2,0,0,2,1,1,2,0
+125250,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+182376,loyal,T1 Faster,T2 Slower,1. None,0,2,1,0,0,0,0,0,2,0,2,0,1,0,0,2,0
+180314,loyal,T1 Faster,T2 Faster,1. None,1,1,2,0,1,2,2,2,2,1,1,2,0,0,1,0,0
+115746,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+177933,medium,T1 Faster,T2 Faster,1. None,0,0,1,2,2,0,0,0,1,1,1,2,1,1,2,2,0
+143690,long,T1 Slower,T2 Slower,1. None,1,2,2,0,0,0,2,0,1,2,0,0,0,0,2,2,0
+179551,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+112729,loyal,T1 Faster,T2 Faster,2. <10%,1,2,1,1,2,1,0,1,2,1,0,1,1,2,2,2,0
+153553,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0
+140148,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+178006,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,1,1,1,0,1,2,0,1,2,2,2,1,0
+160402,short,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,0,1,2,2,2,0,0,0,0
+122652,loyal,T1 Slower,T2 Slower,2. <10%,0,2,0,1,1,0,0,0,2,2,1,0,2,1,1,1,0
+146928,medium,T1 Faster,T2 Slower,3. +10%,1,0,2,2,2,0,2,0,1,2,0,1,2,2,2,0,0
+135536,loyal,T1 Faster,T2 Slower,1. None,2,0,1,2,1,2,2,0,0,0,0,2,1,2,2,0,0
+173631,long,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,2,0,1,0,2,1,2,0,0,0
+130120,long,T1 Faster,T2 Faster,1. None,1,2,2,1,2,1,0,1,1,2,0,1,2,2,1,2,0
+165959,loyal,T1 Faster,T2 Faster,2. <10%,2,0,2,1,1,0,2,0,0,2,0,1,2,2,2,0,0
+178375,loyal,T1 Faster,T2 Faster,1. None,2,0,1,1,1,1,0,0,0,1,0,2,2,2,1,0,0
+167081,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,0,0,0,1,2,0,0,1,2,2,2,0
+144894,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,1,2,0,0,1,2,0,1,1,2,1,1,0
+171701,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,0,0,1,2,0,2,0
+135194,long,T1 Faster,T2 Faster,3. +10%,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+111001,loyal,T1 Neutral,T2 Slower,1. None,1,0,2,2,2,2,2,2,1,1,2,2,1,2,2,2,0
+148512,medium,T1 Slower,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+141269,medium,T1 Faster,T2 Neutral,1. None,1,0,1,0,0,0,0,0,1,2,0,0,2,1,2,1,0
+179765,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,1,0,0,2,1,2,2,2,0
+171114,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+124518,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+171965,medium,T1 Faster,T2 Faster,2. <10%,2,1,2,0,1,0,0,0,1,2,0,0,2,1,0,2,0
+177577,medium,T1 Faster,T2 Slower,3. +10%,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1
+173474,loyal,T1 Faster,T2 Slower,2. <10%,2,0,1,1,1,0,0,0,1,1,0,1,2,2,2,0,0
+113034,loyal,T1 Faster,T2 Neutral,3. +10%,0,0,2,0,2,0,0,0,2,0,0,2,2,0,0,0,0
+101055,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,1,0,2,2,1,1,1,2,1,1,0,0
+157061,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,0,2,2,0,2,2,0,1,2,1,2,0,0
+142203,loyal,T1 Faster,T2 Slower,1. None,0,0,0,2,2,2,0,0,0,2,2,0,2,0,0,0,0
+160231,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,2,0,0,2,2,0,0,0
+183950,medium,T1 Faster,T2 Slower,2. <10%,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,2,0
+186802,medium,T1 Faster,T2 Slower,1. None,1,0,2,2,0,2,2,0,0,2,0,2,0,0,0,0,0
+155776,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,0,0,0,2,0,2,2,0
+101941,long,T1 Faster,T2 Faster,1. None,2,0,1,0,2,0,0,0,2,0,1,0,1,1,0,2,1
+138429,medium,T1 Faster,T2 Faster,1. None,2,0,1,2,2,0,0,0,0,2,2,2,2,1,0,0,0
+173789,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+181004,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,0,0,0,0,1,0,0,2,2,2,0,0,0
+150915,long,T1 Faster,T2 Neutral,1. None,0,0,1,1,2,2,1,1,2,1,1,2,1,2,2,2,0
+179272,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,0,0,0,2,2,0,0,0,0
+142240,medium,T1 Faster,T2 Faster,1. None,0,2,2,2,0,0,0,0,1,2,0,2,1,1,2,0,1
+146300,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,1,0,2,2,1,1,0,2,2,1,1,0,0
+155941,long,T1 Faster,T2 Faster,1. None,0,2,2,1,2,2,0,0,1,2,1,1,2,0,0,2,0
+158100,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,1,0,0,1,2,1,2,1,2,0,1,0
+158721,loyal,T1 Faster,T2 Slower,1. None,1,0,2,2,0,0,2,0,2,2,0,0,0,2,0,0,0
+141250,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,2,0,0,0,1,1,2,2,2,2,1,0
+113300,long,T1 Faster,T2 Neutral,1. None,0,0,1,2,0,2,0,0,1,2,1,2,2,2,2,1,0
+164444,loyal,T1 Faster,T2 Slower,1. None,2,1,1,0,0,0,1,1,1,1,1,2,1,2,1,1,0
+120514,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,1
+152106,loyal,T1 Faster,T2 Faster,1. None,1,1,0,0,0,0,0,0,1,2,0,2,2,0,2,0,0
+164384,long,T1 Faster,T2 Faster,1. None,1,1,2,0,1,0,1,1,2,1,2,0,1,1,1,2,0
+179504,long,T1 Faster,T2 Faster,1. None,1,1,2,0,0,0,0,0,2,0,0,1,2,0,2,2,0
+149246,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0
+107545,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,2,0,0,0,1,1,0,1,2,2,2,0,0
+110540,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+151987,long,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,0,2,0,2,0,0,2,2,0,0
+189521,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,1,2,0,0,1,2,0,1,2,2,2,2,0
+180212,loyal,T1 Neutral,T2 Slower,1. None,0,1,1,2,0,2,2,0,1,2,0,1,2,1,2,2,0
+170311,loyal,T1 Neutral,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0
+172109,loyal,T1 Faster,T2 Slower,1. None,0,2,1,1,2,0,0,0,2,0,2,0,0,1,0,2,0
+189307,loyal,T1 Faster,T2 Slower,1. None,1,0,1,0,0,2,0,0,1,2,0,2,1,2,2,1,0
+118075,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0
+179103,loyal,T1 Faster,T2 Slower,1. None,1,2,1,0,0,0,0,0,1,2,2,1,1,2,2,0,0
+112250,medium,T1 Faster,T2 Slower,1. None,2,0,1,2,0,2,0,0,1,2,2,2,0,2,1,2,0
+156167,long,T1 Faster,T2 Faster,2. <10%,1,0,0,0,0,2,0,0,0,1,0,2,0,2,0,0,0
+98567,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,1,2,0,2,0,2,0,0,0
+109869,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,2,0,2,1,0,2,2,0
+158970,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1
+132932,long,T1 Faster,T2 Faster,1. None,1,0,2,2,2,2,0,0,2,0,0,1,0,2,0,0,0
+157141,long,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,2,0,0,2,2,0,2,1,2,1,2,0
+129540,medium,T1 Faster,T2 Slower,3. +10%,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+126377,loyal,T1 Faster,T2 Slower,2. <10%,1,2,0,1,1,2,0,2,1,2,0,1,2,0,0,0,0
+190494,long,T1 Faster,T2 Slower,1. None,1,0,2,0,0,2,2,2,1,2,0,0,2,0,0,0,0
+104349,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,0,0,0,0,0,2,0,2,1,2,0,0,0
+171924,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,2,0,2,0,0,0,1,0,0,0,0
+131648,loyal,T1 Slower,T2 Slower,2. <10%,0,0,1,2,0,0,0,0,1,2,0,1,1,1,2,2,0
+114092,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+178463,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,2,0,0,1,0,0,2,1,2,1,2,0,1,0
+134531,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+121459,long,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,2,1,2,0,0,2,0,0,0,0
+172897,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,1,0,0,0,2,1,2,1,1,1,1,2,0
+104950,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,1
+149798,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,0,1,2,0,0,2,0,1,0,1,2,2,0
+155101,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,2,2,0,0,0,0,2,0,0
+196149,loyal,T1 Faster,T2 Faster,1. None,0,0,0,2,2,0,0,0,1,1,0,2,0,2,0,2,0
+192377,loyal,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,2,0,0,1
+180973,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,0,1
+166579,long,T1 Faster,T2 Neutral,2. <10%,2,0,2,1,2,2,0,0,1,2,0,1,1,2,1,0,0
+133633,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,1,0,0,0,1,1,2,1,1,1,1,2,0
+98826,loyal,T1 Faster,T2 Slower,1. None,2,0,0,1,1,0,0,2,2,1,0,0,1,1,2,1,0
+171178,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,0,2,0,2,0,0,0,1,2,2,0,2,2,2,0
+100089,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,1,0,0,0,0,2,1,2,1,2,0,0,0
+127631,medium,T1 Faster,T2 Faster,1. None,1,1,0,0,0,0,0,0,0,2,1,2,1,2,0,1,0
+155581,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,2,2,0,0,0,2,0,2,0
+163303,loyal,T1 Slower,T2 Slower,1. None,1,2,1,2,1,0,0,0,1,2,0,2,2,1,1,0,0
+143908,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+182500,long,T1 Faster,T2 Slower,1. None,2,1,1,0,1,0,0,0,0,0,2,2,0,2,0,0,0
+131426,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,0,2,0,0,2,0,0,0,2,2,0,2,0,2,0
+102661,loyal,T1 Faster,T2 Faster,1. None,2,0,0,2,2,0,0,0,2,1,0,1,0,2,0,0,0
+122996,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,1
+180329,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,0,0,0,0,0,2,0,2,0,0,0
+148195,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,0,2,0,0,0,2,1,2,1,1,1,1,1,0
+164338,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,2,0,2,1,1,0,2,2,2,1,0,0
+119556,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,0,0,1,2,0,2,2,0,2,0,0
+128577,long,T1 Faster,T2 Faster,1. None,1,0,2,0,0,2,2,0,0,2,0,2,0,2,1,0,0
+189185,loyal,T1 Neutral,T2 Slower,1. None,0,0,0,0,2,2,0,0,0,0,0,2,0,2,0,0,0
+131361,long,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,0,0,2,0,0,0,2,0
+132704,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,1,1,1,1,0,1,1,0,2,1,2,1,1,0
+108647,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,1,0,0,1,1,2,1,1,1,2,2,0
+114082,loyal,T1 Faster,T2 Slower,2. <10%,0,1,0,2,0,0,2,0,1,0,0,2,0,2,0,0,0
+131304,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1
+170000,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+117967,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,2,2,0,1
+155098,loyal,T1 Faster,T2 Neutral,2. <10%,0,0,1,2,0,1,2,0,0,2,1,2,1,2,1,0,0
+189045,long,T1 Faster,T2 Neutral,1. None,2,0,2,2,2,0,0,0,2,1,0,1,0,0,2,0,0
+118772,loyal,T1 Faster,T2 Slower,1. None,2,0,0,1,1,0,0,0,2,1,1,1,2,1,1,1,0
+132668,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+117514,medium,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+192809,long,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,0,2,0,0,2,0,2,0,0,0
+154153,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+108722,medium,T1 Faster,T2 Neutral,1. None,1,2,2,1,1,0,0,0,1,1,2,1,1,0,2,2,0
+119168,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,0,1,0,2,1,0,2,0,0
+115386,loyal,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,1
+132022,medium,T1 Faster,T2 Slower,2. <10%,2,1,1,0,0,0,0,0,1,1,1,1,2,1,2,0,0
+99595,loyal,T1 Faster,T2 Slower,1. None,1,0,2,1,0,0,2,2,2,1,2,1,0,1,0,0,0
+151147,loyal,T1 Faster,T2 Slower,2. <10%,1,1,1,2,1,2,2,2,1,2,1,2,1,2,2,1,0
+103097,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,0,0,2,1,0,1,0
+194826,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+156981,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1
+121286,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+182930,loyal,T1 Faster,T2 Slower,2. <10%,2,0,2,0,0,2,0,0,0,2,0,1,2,2,2,0,0
+159733,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0
+170973,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,2,0,0,0,2,0,0,0,2,0,0,1
+182366,loyal,T1 Neutral,T2 Slower,2. <10%,0,2,2,1,1,0,2,0,2,2,1,1,2,1,2,2,0
+155894,loyal,T1 Faster,T2 Faster,1. None,1,0,0,2,2,0,0,2,2,1,1,1,1,1,2,1,0
+104861,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+130177,long,T1 Faster,T2 Faster,2. <10%,2,0,2,0,0,2,0,0,1,1,1,2,1,2,2,1,0
+130786,loyal,T1 Faster,T2 Slower,1. None,1,1,0,1,1,0,0,1,2,1,0,2,2,1,2,2,0
+108887,loyal,T1 Faster,T2 Faster,1. None,2,1,1,0,2,0,0,2,2,1,1,2,1,2,2,1,0
+179695,medium,T1 Slower,T2 Slower,3. +10%,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+144565,medium,T1 Faster,T2 Faster,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0
+189286,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+140337,long,T1 Faster,T2 Neutral,1. None,2,0,0,2,1,0,0,0,2,1,1,1,1,0,0,2,0
+117585,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,0,0,1,0,0,2,1,0,0,2,1,2,1,0
+140646,long,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,0,0,0,2,0,2,0,0,1
+102089,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+150040,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,1,0,0,0,1,2,0,2,1,2,0,1,0
+114243,long,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,0,1,0,2,2,1,2,0,0
+183640,loyal,T1 Slower,T2 Slower,1. None,0,0,1,1,2,0,2,2,2,1,0,0,2,1,2,2,0
+98485,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+120553,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,2,2,1,0,1,1,2,0,2,1,2,2,1,0
+169541,loyal,T1 Faster,T2 Slower,1. None,0,2,0,0,2,0,0,0,1,0,0,0,2,0,2,2,1
+115622,loyal,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+182832,long,T1 Neutral,T2 Slower,2. <10%,2,1,1,0,0,0,2,0,1,2,0,0,1,1,2,2,0
+159268,loyal,T1 Faster,T2 Faster,1. None,1,2,1,0,1,1,0,0,2,1,0,0,2,2,2,0,0
+189235,loyal,T1 Faster,T2 Slower,1. None,1,2,1,2,2,1,2,2,2,2,0,2,1,2,2,0,0
+123831,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,0,0,2,0,0,0,0,2,2,0,2,0
+136170,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,1,2,1,1,0,2,1,2,1,1,2,2,2,0
+105179,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,2,0,0,0,1,0,0,1,2,1,1,1,0
+164294,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+126470,loyal,T1 Faster,T2 Neutral,1. None,1,1,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0
+195616,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,2,0
+131378,loyal,T1 Faster,T2 Neutral,3. +10%,2,1,1,2,2,0,0,1,1,2,2,1,2,2,2,1,0
+102951,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+155989,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,2,1,2,0,0,0,2,1,1,1,2,1,1,2,0
+124658,loyal,T1 Faster,T2 Slower,1. None,2,2,2,0,0,2,0,0,0,2,0,2,2,0,0,0,0
+172851,short,T1 Slower,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1
+104141,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+127580,medium,T1 Faster,T2 Faster,1. None,1,0,2,1,1,2,2,0,1,2,1,2,1,2,0,1,0
+136821,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+139826,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+109484,loyal,T1 Faster,T2 Slower,2. <10%,1,1,1,0,0,1,1,0,1,2,0,2,2,2,2,1,0
+169558,loyal,T1 Faster,T2 Neutral,1. None,2,1,2,0,2,2,2,0,2,2,0,2,1,1,0,2,0
+133941,loyal,T1 Faster,T2 Slower,1. None,0,2,1,0,2,0,0,0,2,0,0,0,1,0,1,1,0
+153462,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,2,0,0,2,0,1,2,2,1,2,2,1,0
+153093,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+155537,long,T1 Neutral,T2 Slower,3. +10%,0,0,0,2,0,0,0,0,2,0,0,2,2,0,0,2,0
+157745,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,1,1,0,0,1,1,1,1,0,2,2,1,0
+185771,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0
+173243,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,2,2,2,0,2,2,0,2,0,2,0,0,0
+176278,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+162495,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,0,2,0,0,2,1,0,2,1,1,2,0,0
+110528,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,2,0,2,0,0,0,2,2,0,0
+158902,long,T1 Faster,T2 Slower,1. None,2,1,1,0,0,0,0,0,2,1,0,1,1,1,1,1,0
+165490,loyal,T1 Faster,T2 Slower,1. None,2,1,2,2,2,0,1,0,1,1,0,1,2,1,1,1,0
+128905,medium,T1 Faster,T2 Slower,1. None,2,1,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0
+195028,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,2,2,2,0,2,0,0,0,0,0,0,0
+186125,medium,T1 Faster,T2 Slower,2. <10%,2,1,1,0,0,0,0,0,1,1,2,0,0,1,1,2,0
+182002,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,2,2,0,2,0,2,0,0,0
+182790,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1
+121436,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,0,0,2,0,0,1,2,2,2,1,1,1,0,0
+151693,medium,T1 Neutral,T2 Slower,1. None,0,0,0,2,0,2,2,0,0,0,2,2,0,2,0,0,0
+130827,long,T1 Faster,T2 Slower,1. None,2,0,1,2,2,0,0,2,1,2,1,2,1,2,1,1,0
+140560,medium,T1 Faster,T2 Slower,1. None,2,2,2,1,0,2,2,0,1,2,0,2,2,1,1,0,0
+134290,medium,T1 Faster,T2 Slower,1. None,1,1,1,2,1,0,2,2,1,2,0,1,2,2,1,1,0
+112200,long,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,0,2,1,1,1,1,2,0
+144162,medium,T1 Faster,T2 Neutral,1. None,2,0,2,2,0,2,0,0,2,2,0,0,0,2,0,0,0
+101766,long,T1 Neutral,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,1
+195433,loyal,T1 Faster,T2 Slower,2. <10%,1,1,2,1,1,0,2,2,1,2,1,2,1,1,1,2,0
+127043,medium,T1 Faster,T2 Faster,1. None,1,0,2,1,0,0,0,0,1,2,0,2,1,1,1,1,0
+157704,medium,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+139169,medium,T1 Neutral,T2 Slower,1. None,2,2,0,0,0,0,0,0,2,2,0,0,2,0,0,0,0
+164710,long,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,1,1,0,2,1,2,0,2,0
+117228,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+99766,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+188407,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0
+123605,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,2,0,0,2,0,2,0,2,1,2,0,0,0
+133347,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0
+172786,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,1,1,1,2,1,1,1,2,1,2,2,2,2,1,0
+133859,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+102986,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,2,0,0,0,2,0,0,2,2,0,0,0
+100517,long,T1 Faster,T2 Faster,3. +10%,2,0,2,2,0,2,0,0,2,2,2,0,0,1,0,2,0
+185466,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,1,2,1,2,2,2,2,0,0
+114238,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,2,0,0,0,0,1,2,0,0,2,2,0,0,0
+130308,long,T1 Faster,T2 Slower,3. +10%,2,1,2,0,2,0,0,0,0,0,2,1,0,2,0,2,0
+178506,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0
+138806,long,T1 Faster,T2 Neutral,1. None,0,0,1,2,0,2,0,0,0,2,0,2,1,2,0,0,0
+122026,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,0,2,0,0,0,2,0,2,0,0,0,2,0
+143248,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,2,2,0,0,2,0,2,0,2,1,2,0,0,0
+134009,long,T1 Faster,T2 Neutral,2. <10%,0,0,1,2,0,1,0,2,1,2,0,2,1,1,1,2,0
+192846,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+145219,short,T1 Faster,T2 Slower,1. None,2,0,2,0,2,0,2,0,0,2,0,2,1,0,0,0,0
+110597,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,2,2,0,0,0,2,2,2,0
+186027,short,T1 Faster,T2 Slower,1. None,1,2,2,2,0,0,2,0,0,2,0,0,2,0,2,0,0
+141716,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+188122,short,T1 Slower,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,2,2,0,2,0,0,0
+160980,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+172668,loyal,T1 Neutral,T2 Slower,1. None,2,2,1,2,1,0,1,0,1,2,1,2,1,1,2,0,0
+146245,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,2,0,0,0,0,2,0,2,0,0,0
+181626,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0
+170484,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+145508,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,1
+160902,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,1,2,0,0,1,2,1,2,1,2,1,2,0
+102982,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,1,2,0,0,0,2,0,2,1,2,0,0,0
+144500,loyal,T1 Faster,T2 Slower,2. <10%,1,0,2,0,1,2,2,2,1,2,0,1,1,2,2,1,0
+104998,medium,T1 Faster,T2 Faster,3. +10%,2,0,0,2,0,0,0,0,0,0,2,2,0,2,0,0,0
+125069,long,T1 Faster,T2 Slower,3. +10%,0,0,0,2,0,2,2,0,0,2,0,2,1,2,0,0,0
+175666,loyal,T1 Faster,T2 Slower,1. None,2,2,1,1,1,1,2,0,1,2,0,2,1,2,1,0,0
+152701,long,T1 Faster,T2 Faster,3. +10%,0,0,2,0,0,2,0,0,0,2,0,2,0,2,2,0,0
+176533,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,2,1,1,0,0,1,2,0,1,1,2,2,2,0
+143988,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,2,0,0,0,0,0,2,2,2,2,0,0
+188052,medium,T1 Faster,T2 Neutral,1. None,1,0,0,0,2,2,0,0,0,0,2,2,0,0,0,2,1
+102794,long,T1 Faster,T2 Neutral,1. None,1,0,0,0,2,2,0,0,1,2,0,1,2,2,1,0,0
+187880,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,0,0,0,0,0,2,2,1,0,1,1,0,2,0
+190666,long,T1 Faster,T2 Neutral,1. None,1,1,1,1,0,2,2,0,0,2,1,2,1,2,1,2,0
+126050,loyal,T1 Slower,T2 Slower,2. <10%,1,2,0,2,0,0,0,0,1,2,1,2,1,2,1,2,0
+120420,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,1,1,2,0,0,0,1,0,0,1,2,2,0,0
+158714,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,1,0,1,1,1,2,1,1,2,2,2,1,0
+118431,long,T1 Faster,T2 Faster,2. <10%,1,0,2,2,2,0,0,0,1,2,1,1,2,1,2,0,0
+147768,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,0
+102071,long,T1 Slower,T2 Slower,1. None,0,2,1,1,0,0,1,0,1,0,0,0,2,1,2,1,0
+149946,loyal,T1 Neutral,T2 Slower,2. <10%,2,1,1,1,0,2,2,2,1,2,1,1,2,2,1,0,0
+115903,loyal,T1 Faster,T2 Faster,1. None,2,0,1,2,2,2,0,0,1,2,0,2,2,2,0,0,0
+146030,loyal,T1 Faster,T2 Faster,1. None,2,1,1,1,2,1,1,2,1,2,0,1,2,2,1,0,0
+117306,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,2,0,1,2,0,2,2,1,2,2,0
+155651,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,0,1,0,0,1,2,0,2,1,2,1,0,0
+120918,medium,T1 Faster,T2 Slower,1. None,0,1,1,2,0,0,0,0,1,2,0,2,1,2,2,0,0
+138430,long,T1 Faster,T2 Faster,1. None,0,0,1,0,0,2,0,0,2,0,0,2,1,2,0,0,0
+190973,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,2,0,2,2,0,0,2,0,0,2,2,0,0,0
+141152,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+107003,medium,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+161728,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+169890,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,1,0,2,2,1,1,0,2,1,1,1,2,0
+109740,medium,T1 Faster,T2 Faster,2. <10%,1,0,2,2,0,2,2,0,0,0,1,2,1,2,1,0,0
+166067,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+172973,loyal,T1 Faster,T2 Neutral,1. None,1,2,1,1,0,2,0,0,1,2,1,1,2,2,1,1,0
+153540,medium,T1 Slower,T2 Slower,1. None,1,0,2,1,2,1,2,2,1,2,2,2,2,1,2,2,0
+140655,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,1
+173286,medium,T1 Faster,T2 Slower,1. None,0,0,2,2,0,2,0,0,2,2,0,2,0,0,0,0,0
+192384,long,T1 Faster,T2 Slower,3. +10%,0,0,2,2,2,0,0,2,1,1,0,2,2,2,2,0,0
+173432,medium,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,2,0,0,0,2,0,0,0,2,0,0,0,1
+191700,loyal,T1 Faster,T2 Faster,1. None,1,0,1,0,2,2,0,0,0,2,0,2,2,2,0,0,0
+101143,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,1,1,2,1,0,0
+181697,long,T1 Faster,T2 Faster,1. None,1,2,0,0,0,0,0,0,0,2,0,0,2,2,0,2,0
+134490,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,1,2,0,0,1,2,1,2,1,2,2,0,0
+133691,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,1,2,0,0,2,2,1,1,0
+118433,long,T1 Faster,T2 Slower,1. None,1,1,1,1,0,1,1,0,1,1,2,2,0,1,0,2,0
+118644,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,2,1,2,2,0,2,0,0,1,1,2,0
+189214,medium,T1 Faster,T2 Slower,1. None,0,2,1,0,2,0,1,2,0,2,0,1,1,2,1,0,0
+100011,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0,0
+111413,long,T1 Neutral,T2 Slower,1. None,1,2,1,1,0,2,2,0,0,1,0,2,1,2,2,0,0
+161501,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,2,1,2,1,2,1,1,1,2,2,0
+151428,loyal,T1 Faster,T2 Slower,1. None,1,0,1,2,1,2,2,2,1,2,1,2,2,2,1,1,0
+120249,medium,T1 Faster,T2 Neutral,2. <10%,2,0,1,2,2,2,0,2,1,2,0,1,2,1,2,2,0
+177574,loyal,T1 Faster,T2 Faster,1. None,0,2,0,0,2,2,0,0,0,0,0,2,2,0,0,0,0
+138994,long,T1 Faster,T2 Faster,1. None,1,0,0,2,2,0,0,0,1,1,0,1,2,1,1,1,0
+189139,medium,T1 Neutral,T2 Slower,1. None,0,0,0,2,0,0,2,0,1,2,2,1,2,1,1,2,0
+162962,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,1
+138689,loyal,T1 Faster,T2 Faster,1. None,2,0,0,1,2,0,0,0,1,1,2,1,2,0,1,2,0
+183420,long,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,1,0,2,0,1,0,2,2,0
+100875,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+126058,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,1,2,0,2,2,1,2,0,2,1,2,2,1,0
+136579,loyal,T1 Neutral,T2 Slower,2. <10%,2,1,1,0,1,1,1,1,1,1,2,2,1,1,2,2,0
+154892,loyal,T1 Faster,T2 Faster,1. None,1,1,2,1,2,2,1,0,1,2,1,2,2,1,1,1,0
+173588,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,0,2,2,1,1,1,2,1,2,1,2,0
+103555,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+183998,loyal,T1 Faster,T2 Neutral,2. <10%,2,2,1,1,1,0,0,0,1,2,1,1,2,1,2,1,0
+169839,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,0,2,0,0,0,2,1,0,2,1,2,2,1,0
+109214,loyal,T1 Faster,T2 Faster,1. None,1,0,1,1,2,2,1,2,1,1,2,1,1,1,2,2,0
+112208,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0
+182787,long,T1 Faster,T2 Faster,1. None,2,0,1,1,2,2,0,0,1,1,1,1,2,1,1,1,0
+157043,medium,T1 Faster,T2 Faster,2. <10%,0,0,1,0,2,2,0,0,1,2,0,0,2,1,2,0,0
+98702,loyal,T1 Faster,T2 Neutral,1. None,0,2,1,1,1,0,0,0,2,1,1,1,1,1,2,1,0
+192357,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+132458,loyal,T1 Faster,T2 Faster,1. None,2,1,0,2,2,0,0,0,1,1,2,1,1,2,1,2,0
+133688,long,T1 Faster,T2 Slower,1. None,1,1,2,2,2,1,2,2,1,2,2,1,1,0,0,1,0
+172922,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,0,2,1,2,1,2,0,2,1,2,1,2,1,0,0
+131447,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+174682,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,0,0,1,1,0,2,0,2,2,2,1,1,0
+111947,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1
+125637,long,T1 Neutral,T2 Slower,1. None,2,0,0,0,2,0,0,2,1,0,0,0,2,1,2,2,0
+137878,long,T1 Faster,T2 Faster,1. None,0,1,0,2,0,2,0,0,0,2,0,2,1,2,0,0,0
+134005,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,2,0,0,0,0,2,1,2,2,1,1,2,2,0
+117351,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+158544,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+117999,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+164587,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,2,1,0,0,1,2,1,2,1,0
+177999,medium,T1 Faster,T2 Slower,1. None,1,0,0,0,2,0,2,2,2,2,0,0,1,1,0,0,0
+182167,loyal,T1 Faster,T2 Slower,1. None,1,2,0,0,0,0,0,0,1,1,0,1,1,2,2,2,0
+193321,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,2,0,2,0,0,0,2,0,1,2,2,0,0,0
+176303,medium,T1 Faster,T2 Slower,2. <10%,2,0,0,2,2,2,0,0,1,2,0,2,1,1,0,0,0
+111412,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,2,0
+169922,loyal,T1 Faster,T2 Slower,1. None,1,2,2,0,2,0,0,0,2,1,0,1,1,0,1,2,0
+191515,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,2,1,1,0,0,1,2,1,2,2,2,1,1,0
+131778,loyal,T1 Faster,T2 Slower,1. None,1,2,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0
+124486,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,0,0,0,0,0,2,2,0
+195677,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,0,1,0,0,0,2,0,1,0,1,1,1,2,0
+187829,medium,T1 Faster,T2 Slower,1. None,1,0,1,0,0,2,2,2,0,0,0,2,0,0,0,0,0
+143229,long,T1 Faster,T2 Faster,1. None,1,0,2,2,2,0,0,0,0,2,0,2,0,0,0,2,0
+185689,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,2,2,0,0,0,2,0,2,2,0,2,0
+134293,loyal,T1 Faster,T2 Neutral,3. +10%,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+185015,medium,T1 Faster,T2 Slower,1. None,0,0,0,2,0,0,0,0,0,2,0,2,0,0,2,0,1
+167754,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,2,0,0,0,0,0,0,2,0,2,0,0,1
+183682,loyal,T1 Faster,T2 Faster,1. None,1,1,1,0,0,1,0,0,1,1,0,1,2,1,2,1,0
+183792,long,T1 Slower,T2 Slower,2. <10%,1,2,1,1,1,1,2,0,2,1,0,2,1,2,1,0,0
+118590,long,T1 Faster,T2 Faster,1. None,1,1,2,2,1,0,1,0,0,2,2,1,1,1,1,0,0
+161204,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,1,1,0,2,2,0,0,0,0
+181673,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,2,2,2,0,2,1,2,1,2,2,2,2,2,0
+164875,long,T1 Slower,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,0,0,2,0,0
+133730,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+147208,long,T1 Faster,T2 Slower,2. <10%,0,1,0,2,0,0,0,0,1,2,2,2,1,2,2,1,0
+178875,loyal,T1 Neutral,T2 Slower,1. None,2,2,0,0,1,2,0,0,2,2,0,1,2,0,0,0,0
+122452,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,2,1
+171271,long,T1 Faster,T2 Faster,1. None,1,0,0,2,2,0,0,0,0,1,2,1,2,2,2,0,0
+144732,medium,T1 Faster,T2 Faster,1. None,0,0,0,2,2,0,0,0,2,0,0,0,2,0,0,2,0
+179690,medium,T1 Faster,T2 Slower,1. None,2,1,0,2,0,2,0,2,0,2,0,2,1,2,1,0,0
+191863,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,0,0,2,0,0,2,0,2,2,0,2,0,0
+182436,loyal,T1 Neutral,T2 Slower,3. +10%,2,0,0,2,0,0,0,0,2,0,2,0,0,0,2,2,0
+158211,loyal,T1 Faster,T2 Faster,2. <10%,1,0,2,0,2,0,0,0,2,0,0,1,1,2,1,2,0
+188851,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,0,2,0,0,0,0,2,0
+191430,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+121971,medium,T1 Faster,T2 Faster,1. None,2,0,2,1,2,2,0,2,1,1,0,2,2,2,1,0,0
+146100,loyal,T1 Faster,T2 Slower,1. None,1,0,0,0,0,2,0,0,2,2,0,2,2,0,0,0,0
+179777,loyal,T1 Faster,T2 Slower,1. None,1,2,2,2,0,0,0,2,2,1,1,1,1,1,1,2,0
+195877,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,2,0,0,0,0,2,0,2,0
+190367,medium,T1 Faster,T2 Faster,1. None,2,0,1,2,0,2,0,0,1,2,2,2,1,2,0,0,0
+131977,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,0,0,2,0,2,0,1,0,1,0,0,0,0
+144268,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,0,1,0,2,1,1,0,0,0
+176401,loyal,T1 Faster,T2 Slower,3. +10%,2,2,0,0,0,0,0,0,1,2,0,0,0,2,0,2,0
+182611,long,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,0,2,0,0,2,2,0,1
+162707,long,T1 Slower,T2 Slower,2. <10%,1,2,1,1,1,2,2,2,1,1,1,2,2,2,2,1,0
+121394,short,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,1
+130294,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+145093,loyal,T1 Faster,T2 Slower,1. None,2,2,2,1,1,1,2,0,1,2,0,2,1,2,1,0,0
+151891,long,T1 Faster,T2 Slower,2. <10%,2,1,1,2,0,2,2,0,0,1,0,2,1,2,1,1,0
+180533,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,0,1,2,2,0,2,1,0,1,0,1,1,1,0
+160950,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,2,0,0,0,2,0,2,2,2,0,0,0
+98904,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+192017,long,T1 Faster,T2 Neutral,1. None,1,0,2,1,0,0,2,0,1,1,0,1,2,1,2,1,0
+114782,medium,T1 Faster,T2 Faster,2. <10%,1,0,2,0,2,1,2,2,0,1,1,1,2,0,1,0,0
+173019,loyal,T1 Faster,T2 Slower,2. <10%,1,1,1,2,0,0,0,0,1,1,1,2,1,2,1,1,0
+175263,loyal,T1 Slower,T2 Slower,3. +10%,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+113230,medium,T1 Faster,T2 Faster,1. None,2,1,2,0,0,0,0,0,1,2,0,1,0,1,2,2,0
+190716,medium,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+186989,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,1,2,2,1,2,1,1,0
+113697,loyal,T1 Faster,T2 Slower,3. +10%,1,2,1,1,0,2,0,2,0,0,1,2,0,2,0,0,0
+194908,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,0,0,0,1,2,0,1,2,2,1,0,0
+186687,long,T1 Faster,T2 Slower,1. None,1,1,0,2,1,0,0,0,2,1,2,1,1,2,0,0,0
+181011,loyal,T1 Faster,T2 Slower,2. <10%,2,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+144966,long,T1 Faster,T2 Neutral,1. None,2,0,2,2,0,0,0,0,1,2,2,1,1,2,0,0,0
+163895,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,1,1,0,2,0,1,0,1,1,2,1,1,0,0
+165685,loyal,T1 Neutral,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,2,0,2,1,2,1,1,0
+99442,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,2,2,2,0,2,0,1,0,2,0,1,2,2,0
+179919,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+138405,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+135422,medium,T1 Slower,T2 Slower,1. None,0,2,2,0,2,0,0,0,0,1,0,2,2,1,0,0,0
+168445,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,2,2,1,1,1,0,1,0
+108598,long,T1 Neutral,T2 Slower,1. None,2,2,2,0,0,1,0,0,0,2,0,2,2,1,0,0,0
+108165,loyal,T1 Faster,T2 Slower,1. None,1,1,2,2,2,0,2,0,1,0,2,1,1,0,0,0,0
+155374,long,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+139728,loyal,T1 Neutral,T2 Slower,2. <10%,0,2,1,1,1,0,2,2,2,2,0,1,2,1,2,2,0
+171568,medium,T1 Faster,T2 Faster,3. +10%,0,0,2,0,2,0,0,0,0,0,2,0,2,0,0,0,0
+125806,loyal,T1 Faster,T2 Slower,1. None,1,2,1,1,1,0,1,2,2,1,1,2,1,1,1,1,0
+180280,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,2,0,0,1,2,0,2,0,0,0,0,0
+116146,long,T1 Faster,T2 Faster,1. None,1,1,2,1,1,0,2,0,2,1,0,1,2,0,2,2,0
+105257,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0,0
+150470,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+144603,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,0,2,2,2,1,1,1,1,2,2,2,0,0
+157018,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,1,1,1,0,1,2,1,1,1,1,2,1,1,0
+148827,medium,T1 Faster,T2 Neutral,1. None,0,0,0,1,1,0,0,0,0,0,0,0,2,2,2,0,0
+167039,long,T1 Slower,T2 Slower,2. <10%,1,2,0,2,0,2,0,0,1,2,0,0,1,2,2,0,0
+125139,loyal,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1
+130857,long,T1 Faster,T2 Faster,2. <10%,2,0,2,0,2,0,2,2,1,1,0,2,2,1,2,0,0
+103780,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,2,1,0,0,1,0,0,0,0
+168063,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,1
+147576,long,T1 Faster,T2 Faster,1. None,2,1,2,1,1,2,1,0,1,2,1,2,2,2,1,1,0
+132842,loyal,T1 Faster,T2 Slower,1. None,0,0,1,2,2,0,2,2,0,0,2,2,0,2,2,2,0
+129407,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,2,0,2,0,0,0,0,0,0,0,1
+169126,loyal,T1 Slower,T2 Slower,1. None,2,1,0,0,0,0,0,0,2,2,2,0,2,1,0,2,0
+147021,long,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+119914,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+143969,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+150326,loyal,T1 Faster,T2 Slower,1. None,1,0,1,2,0,2,0,2,1,0,0,2,1,2,2,2,0
+118867,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,0,0,0,0,1,2,0,2,1,1,1,2,0
+172321,long,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+149442,medium,T1 Faster,T2 Faster,1. None,0,1,2,1,1,0,1,0,1,0,1,2,1,2,0,2,0
+139841,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+180716,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+149265,medium,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,2,2,0,0
+138906,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+140773,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+156349,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,1,0,1,2,0,0,2,0
+183367,loyal,T1 Faster,T2 Slower,3. +10%,1,1,2,2,1,0,0,0,1,1,0,2,1,2,2,2,0
+132075,loyal,T1 Faster,T2 Slower,1. None,2,0,1,2,0,2,0,0,1,2,0,2,1,2,2,0,0
+116367,loyal,T1 Neutral,T2 Slower,1. None,1,2,1,0,1,0,0,0,2,1,1,2,2,1,1,1,0
+180518,loyal,T1 Neutral,T2 Slower,1. None,2,0,2,2,0,0,2,0,1,2,0,1,2,1,2,2,0
+157283,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,2,2,2,0,0,0
+144333,medium,T1 Faster,T2 Faster,1. None,2,0,2,1,0,0,2,0,2,1,0,2,0,0,1,0,0
+99331,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,2,0,0,0,2,2,0,0,0,2,0,2,0
+190153,loyal,T1 Faster,T2 Faster,1. None,1,2,1,0,2,1,1,2,1,2,1,1,2,2,2,1,0
+114353,long,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,0,0,0,2,2,2,0,0,0,0,0
+161136,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,1,1,0,1,2,1,1,0,0
+154419,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+131579,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+130108,long,T1 Faster,T2 Neutral,1. None,1,0,2,0,0,2,2,0,0,1,0,2,2,2,0,0,0
+98471,loyal,T1 Neutral,T2 Slower,2. <10%,0,2,1,2,1,2,2,2,1,2,0,2,2,1,1,2,0
+134681,long,T1 Faster,T2 Slower,1. None,2,1,0,1,2,0,0,2,2,1,1,1,1,1,0,0,0
+179002,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+177450,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,2,0,0,1,0,0,1,2,2,2,0,0
+146972,loyal,T1 Faster,T2 Slower,2. <10%,1,2,2,1,1,1,2,1,2,1,0,1,2,1,1,2,0
+115862,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,2,0,2,0,2,2,0,0
+166811,medium,T1 Neutral,T2 Slower,2. <10%,0,2,1,0,2,0,0,0,1,1,2,0,1,1,2,2,0
+108664,loyal,T1 Faster,T2 Neutral,3. +10%,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+169231,loyal,T1 Faster,T2 Faster,2. <10%,2,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0
+117084,long,T1 Faster,T2 Faster,3. +10%,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0
+108088,loyal,T1 Faster,T2 Slower,1. None,1,1,0,1,1,2,0,0,0,1,0,2,1,2,1,2,0
+120574,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,2,0,0,0,2,0,2,0,2,0,0,1
+165474,loyal,T1 Slower,T2 Slower,1. None,1,2,0,1,0,1,0,0,2,1,0,0,1,0,1,0,0
+156900,long,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,2,1
+147703,loyal,T1 Faster,T2 Neutral,1. None,2,2,1,1,2,0,0,0,1,2,0,1,2,1,2,2,0
+157025,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+193291,long,T1 Faster,T2 Neutral,1. None,1,0,1,2,0,1,0,0,2,2,0,1,1,1,1,2,0
+177600,long,T1 Faster,T2 Neutral,1. None,2,2,2,0,0,0,0,0,1,0,0,2,2,0,0,0,1
+151373,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,0,2,2,2,1,1,1,1,1,1,2,0
+135784,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,1,0,0,0,0,2,0,2,1,1,2,1,0
+110506,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+110923,medium,T1 Faster,T2 Neutral,1. None,1,0,2,0,0,2,0,0,1,0,0,0,2,2,0,2,0
+148823,loyal,T1 Faster,T2 Slower,1. None,2,1,1,0,0,0,0,0,1,1,0,0,2,1,2,1,0
+130553,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,0,2,0,0,2,0,0,0,0
+127549,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+126097,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+151702,medium,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,1,2,0,1,1,2,0,0,0
+112523,loyal,T1 Faster,T2 Faster,1. None,2,1,1,1,1,1,0,0,1,1,0,2,1,2,2,1,0
+162606,long,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+175890,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+158936,long,T1 Faster,T2 Slower,1. None,0,0,2,2,1,0,2,0,1,1,0,0,2,2,2,2,0
+196446,loyal,T1 Slower,T2 Slower,2. <10%,1,2,1,1,0,0,0,0,1,2,0,2,1,2,2,0,0
+191034,long,T1 Faster,T2 Faster,1. None,0,1,2,0,2,0,0,0,2,2,0,1,1,2,0,0,0
+135478,loyal,T1 Faster,T2 Faster,1. None,2,0,0,2,2,0,0,0,2,0,0,2,0,2,0,0,0
+184510,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+167649,short,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,0,0,2,0,2,0,2,0,0
+195420,loyal,T1 Faster,T2 Slower,2. <10%,2,2,1,0,0,0,0,0,2,2,2,2,1,0,0,2,0
+150816,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,1
+169882,long,T1 Faster,T2 Neutral,1. None,2,0,2,1,0,1,2,0,2,1,0,2,1,2,0,1,0
+188885,loyal,T1 Faster,T2 Neutral,2. <10%,1,2,1,0,0,0,2,0,2,1,0,1,0,2,2,2,0
+149350,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0
+191751,loyal,T1 Faster,T2 Slower,1. None,0,1,2,0,0,0,0,0,1,0,2,0,1,0,0,0,0
+187745,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,2,1
+107868,medium,T1 Neutral,T2 Slower,1. None,0,2,2,2,0,0,2,0,0,2,0,2,2,2,0,0,0
+183513,short,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,2,1
+100966,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,0,0,1,0,0,0,2,0,2,1,2,0,1,0
+166570,loyal,T1 Faster,T2 Slower,1. None,2,1,0,2,1,2,2,2,1,2,1,2,1,2,1,0,0
+170765,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,2,0,0,1,2,0,2,1,2,1,0,0
+182710,loyal,T1 Faster,T2 Faster,1. None,0,0,0,2,0,2,0,0,0,2,0,2,2,0,0,0,0
+167249,loyal,T1 Faster,T2 Faster,1. None,1,2,1,2,1,0,0,2,1,2,1,1,2,1,2,2,0
+113101,long,T1 Faster,T2 Neutral,1. None,2,0,2,2,1,0,0,1,2,1,0,1,1,1,1,1,0
+125576,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,2,0,0,0,0,0,2,0,2,2,2,0
+126204,medium,T1 Faster,T2 Neutral,1. None,2,1,0,0,0,2,0,0,0,1,0,2,0,2,2,2,0
+148681,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+119859,long,T1 Faster,T2 Neutral,1. None,1,1,1,1,1,1,2,2,1,2,1,2,1,2,1,1,0
+187310,medium,T1 Faster,T2 Faster,1. None,0,0,0,2,0,0,0,0,2,2,0,0,2,0,0,0,0
+190269,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,0,2,0,2,1,1,2,0,0
+120172,long,T1 Neutral,T2 Slower,1. None,2,0,1,2,1,0,0,0,1,2,1,2,2,1,2,1,0
+171588,medium,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,0,2,2,2,0,0,1
+124965,medium,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,2,2,0,0,2,0,2,0
+109861,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+100454,short,T1 Faster,T2 Slower,1. None,0,2,0,1,2,0,0,2,2,1,2,0,1,0,2,2,0
+194115,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+112347,long,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,0,0,2,2,0,2,2,0,0
+168826,long,T1 Faster,T2 Neutral,1. None,1,1,2,0,0,2,0,0,1,0,0,2,1,2,2,1,0
+179485,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,0,0,0,1,1,0,1,2,2,2,0,0
+176871,short,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0
+118697,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,2,0,0,2,0,2,0,2,1,1,0,2,0
+189499,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1
+142267,loyal,T1 Faster,T2 Faster,2. <10%,2,1,0,1,2,0,0,0,1,2,1,1,2,2,1,1,0
+98286,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+129598,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+170965,loyal,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,1,2,1,1,1,2,1,1,1,2,2,0
+169222,loyal,T1 Faster,T2 Faster,1. None,1,1,1,1,1,1,1,1,1,2,1,2,1,2,1,1,0
+191692,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,1,0,1,2,1,1,1,0
+164703,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,1,0,2,2,0,0,0,2,2,1,1,0,0
+106158,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,2,2,1,2,2,1,1,1,2,1,1,0
+190286,loyal,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+150153,long,T1 Slower,T2 Slower,1. None,2,0,2,2,0,0,0,0,0,2,0,2,2,0,0,0,1
+187720,loyal,T1 Faster,T2 Slower,1. None,1,2,0,0,1,0,0,0,2,1,0,1,2,1,2,1,0
+110671,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+117479,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,2,1,1,0,0,1,2,0,2,1,2,0,0,0
+140814,medium,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0
+130969,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,0,2,2,2,2,0,2,1,1,1,1,0
+185393,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,1
+153354,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,2,2,0,2,2,0,0,0,1,2,2,0,0
+139478,medium,T1 Faster,T2 Neutral,1. None,2,0,1,0,2,0,0,2,1,2,1,2,1,0,2,2,0
+177053,medium,T1 Slower,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+116087,long,T1 Faster,T2 Slower,1. None,0,0,1,2,2,2,0,0,0,1,0,2,2,2,0,0,0
+187789,medium,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,0,0,0,0,2,0,2,0,2,0,0,0
+190928,short,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,0,2,0,2,0,2,2,0,1
+187524,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,2,0,0,1,1,0,2,2,2,1,1,0
+117341,long,T1 Faster,T2 Slower,1. None,0,2,1,0,0,0,0,2,2,0,2,0,1,1,1,2,0
+130212,long,T1 Faster,T2 Slower,1. None,0,2,0,2,0,0,0,0,2,0,2,0,2,2,0,2,0
+163379,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,2,0,2,2,0,2,0,2,1,2,1,0,0
+137320,medium,T1 Faster,T2 Neutral,1. None,1,0,0,2,0,2,0,0,0,0,2,2,2,0,0,0,0
+179353,loyal,T1 Faster,T2 Neutral,3. +10%,2,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0
+143753,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+185266,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+130152,loyal,T1 Faster,T2 Faster,1. None,2,1,2,0,0,1,0,0,0,2,1,2,1,2,0,1,0
+168819,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+119281,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+148488,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,0,0,2,1,1,2,1,1,1,2,2,0
+154068,medium,T1 Faster,T2 Slower,1. None,0,2,0,2,2,0,0,0,2,0,1,1,1,0,0,2,0
+142215,loyal,T1 Faster,T2 Faster,1. None,0,1,0,1,0,0,0,0,2,0,2,0,1,0,2,1,0
+160483,medium,N/A - No AOG,N/A - No AOG,1. None,2,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1
+163083,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1
+123964,long,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,2,0,0,1,2,2,0,0
+147937,loyal,T1 Faster,T2 Faster,2. <10%,0,2,0,0,2,0,0,2,2,0,2,1,1,1,2,2,0
+129481,loyal,T1 Faster,T2 Faster,1. None,2,1,2,2,1,1,1,0,1,1,2,1,1,1,2,2,0
+195452,medium,T1 Faster,T2 Faster,2. <10%,0,0,2,0,0,0,0,0,2,2,0,2,0,0,0,0,0
+189502,loyal,T1 Faster,T2 Slower,1. None,1,1,1,2,1,1,2,2,1,2,1,2,1,2,1,1,0
+175853,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,2,0,0,1,2,2,0,2,0
+137108,loyal,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+128657,short,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,2,0,0,0,0,0,2,0,0,0,0,0,1
+166181,loyal,T1 Faster,T2 Faster,1. None,1,1,2,0,0,0,0,0,2,0,2,1,1,2,2,0,0
+135283,loyal,T1 Faster,T2 Faster,1. None,1,1,0,1,2,0,0,0,1,1,0,1,2,2,2,1,0
+163307,long,T1 Faster,T2 Slower,2. <10%,0,2,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+170548,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,2,0,0,0,1,2,0,1,2,2,2,2,0
+119739,loyal,T1 Faster,T2 Slower,1. None,2,1,2,1,0,0,2,0,1,2,0,2,2,2,0,0,0
+155456,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+132561,loyal,T1 Faster,T2 Faster,1. None,1,2,0,2,2,0,0,2,0,1,2,1,2,2,0,0,0
+114505,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1
+117205,loyal,T1 Faster,T2 Slower,1. None,1,0,0,2,0,2,2,2,0,1,1,2,1,2,1,1,0
+142524,long,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,1,0,0,0
+172182,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+119348,loyal,T1 Neutral,T2 Slower,1. None,0,2,0,2,0,2,0,0,0,2,0,2,2,0,2,0,0
+141943,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,2,0,0,2,0,0,1,0,0,0,2,0
+98770,loyal,T1 Neutral,T2 Slower,1. None,1,2,2,1,1,0,2,2,1,2,0,2,2,1,2,1,0
+105246,loyal,T1 Faster,T2 Neutral,1. None,2,0,1,0,0,0,2,0,1,2,0,2,1,2,0,0,0
+153887,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,1,2,2,2,0,2,1,2,0,0,1,2,0,0
+114761,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,1,1,0,1,1,1,0,2,1,0,0,0,1,0
+110329,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+147014,loyal,T1 Faster,T2 Slower,1. None,2,2,2,0,0,2,0,2,0,1,0,2,1,2,2,0,0
+164144,loyal,T1 Faster,T2 Faster,2. <10%,2,0,1,0,2,1,0,0,2,1,2,1,1,1,0,2,0
+177100,loyal,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+135469,long,T1 Neutral,T2 Slower,1. None,1,2,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0
+108054,medium,T1 Slower,T2 Slower,1. None,0,2,1,1,1,1,0,1,2,2,1,0,1,0,1,0,0
+111912,loyal,T1 Faster,T2 Neutral,1. None,0,0,2,2,0,2,0,0,0,1,0,2,1,2,0,0,0
+143940,medium,T1 Faster,T2 Slower,2. <10%,1,1,2,1,2,1,2,2,1,2,1,2,2,2,1,0,0
+189669,long,T1 Faster,T2 Slower,1. None,1,2,2,0,1,2,1,0,1,2,0,1,2,1,2,1,0
+170232,medium,T1 Faster,T2 Neutral,1. None,2,0,0,2,2,2,0,0,2,2,0,1,2,2,1,0,0
+156030,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+167835,loyal,T1 Faster,T2 Neutral,3. +10%,1,0,1,2,1,2,0,0,0,1,0,2,1,2,0,1,0
+138910,long,T1 Faster,T2 Neutral,1. None,1,0,2,1,1,2,0,0,0,1,0,2,1,2,2,0,0
+99694,long,T1 Faster,T2 Slower,1. None,0,2,0,0,0,2,0,0,0,2,0,0,2,0,0,0,0
+140438,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,2,0,0,2,0,2,0,0
+158299,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,1,0,2,0,2,2,0,0
+146649,loyal,T1 Faster,T2 Slower,1. None,2,1,0,0,0,0,0,0,0,2,0,2,1,2,2,1,0
+137779,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+127008,short,T1 Faster,T2 Neutral,1. None,2,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0
+184551,loyal,T1 Faster,T2 Faster,2. <10%,2,0,2,1,2,2,0,0,2,1,1,1,2,1,2,2,0
+106936,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,2,0
+154053,medium,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+102577,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,2,2,1,0,0,0,0,2,0,2,2,1,2,1,0
+145227,long,T1 Faster,T2 Slower,2. <10%,2,0,2,1,1,2,0,2,1,2,2,1,1,2,0,2,0
+117930,long,T1 Faster,T2 Neutral,3. +10%,2,0,2,2,0,0,0,0,0,0,0,2,0,2,2,0,0
+166546,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,2,0,1,1,1,2,2,1,1,2,2,1,0
+166419,medium,T1 Faster,T2 Faster,1. None,0,0,1,1,0,2,0,0,0,2,2,2,2,1,2,0,0
+163187,medium,T1 Faster,T2 Slower,1. None,0,2,1,1,1,0,0,0,1,1,0,2,2,2,1,2,0
+137466,loyal,T1 Neutral,T2 Slower,1. None,1,0,1,2,0,2,2,2,2,2,1,1,1,1,1,1,0
+99503,loyal,T1 Faster,T2 Slower,2. <10%,2,0,1,1,1,0,0,1,2,1,1,1,1,1,2,1,0
+138538,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,0,0,0,2,2,0,2,0,0
+106199,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,2,0,2,0,0,2,0,0,2,2,1,2,2,0
+190915,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+104218,loyal,T1 Faster,T2 Slower,2. <10%,1,0,0,2,0,2,0,0,0,1,0,2,1,1,1,0,0
+166766,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+172201,loyal,T1 Faster,T2 Faster,1. None,1,2,1,2,0,1,0,0,0,2,2,2,0,2,1,2,0
+107136,loyal,T1 Faster,T2 Slower,1. None,1,1,1,0,2,0,0,0,2,1,0,1,1,1,1,0,0
+129128,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+171524,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,0,2,0,0,1,1,0,2,1,1,1,1,0
+117150,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,2,0
+180576,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+133318,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,2,0,0,0,0,2,0,0,0,2,2,0,0
+117224,loyal,T1 Faster,T2 Faster,2. <10%,2,0,2,1,2,0,1,1,1,1,0,2,1,2,1,0,0
+148594,medium,T1 Faster,T2 Faster,3. +10%,1,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0
+152452,medium,T1 Faster,T2 Neutral,1. None,2,0,0,2,0,0,0,0,0,0,0,2,2,2,2,0,0
+186850,short,T1 Faster,T2 Faster,1. None,2,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+128229,long,T1 Slower,T2 Slower,1. None,2,2,1,1,0,0,0,0,2,1,1,1,2,1,2,2,0
+164610,long,T1 Neutral,T2 Slower,1. None,1,0,2,1,2,1,2,2,2,1,0,1,2,1,1,1,0
+102135,medium,T1 Faster,T2 Faster,1. None,1,0,1,1,2,2,0,0,2,1,0,0,2,1,2,0,0
+112535,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+140584,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,0,0,2,2,2,0,2,0,0
+182222,medium,T1 Faster,T2 Faster,3. +10%,2,2,0,0,0,0,2,0,1,2,0,2,2,1,1,2,0
+154083,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,2,0,1,1,2,1,2,2,0
+192286,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+102194,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,0,0,2,0,0,2,0,0
+127807,loyal,T1 Slower,T2 Slower,1. None,0,1,2,1,1,1,2,1,2,1,0,1,2,1,2,1,0
+117408,long,T1 Faster,T2 Faster,2. <10%,1,0,2,1,1,2,2,2,1,1,0,2,1,2,1,1,0
+180808,medium,T1 Faster,T2 Faster,1. None,0,0,1,0,0,0,0,2,0,2,2,2,2,2,1,0,0
+187564,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,2,1,2,0,0,1,1,1,1,2,1,2,2,0
+167617,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,1,1,1,1,1,1,1,2,1,2,2,1,0
+168917,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,0,0,0,2,0,2,2,2,0,0,0
+125510,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,0,2,0,0,2,0,0,0,2,0,0,2,0
+142344,long,N/A - No AOG,N/A - No AOG,3. +10%,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+112837,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,2,2,0,0,2,1,0,0,0,0,2,2,0
+119550,loyal,T1 Faster,T2 Slower,1. None,2,1,2,0,1,0,2,2,2,2,0,0,2,1,2,2,0
+116837,loyal,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+132670,loyal,T1 Faster,T2 Faster,1. None,0,2,0,0,2,0,0,0,1,1,0,0,1,0,2,2,0
+168328,loyal,T1 Neutral,T2 Slower,2. <10%,2,2,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0
+152892,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+189366,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,2,0,0,0,2,1,1,0,2,0,1,0,0
+180655,medium,T1 Faster,T2 Neutral,1. None,2,1,1,0,0,0,0,0,1,1,0,2,0,1,2,0,0
+176250,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,0,1,0,1,1,2,1,1,0,1,2,0
+171510,loyal,T1 Faster,T2 Slower,1. None,1,0,0,0,0,2,0,0,0,2,0,1,1,2,1,0,0
+100665,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,2,0,1,2,0,2,1,2,1,0,0
+187250,medium,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+128050,loyal,T1 Neutral,T2 Slower,3. +10%,2,1,0,2,0,0,0,0,0,1,0,2,1,2,0,0,0
+188008,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,2,2,1,0,2,0,0,0,0,0,0
+157560,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,2,0,0,0,0,0,0,0,0,2,0,0,0
+116643,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,2,1,1,2,2,2,1,1,1,1,1,2,1,0
+101483,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,0,0,2,0,0,2,2,0,1,1,1,0,0,0
+169785,long,T1 Faster,T2 Slower,1. None,0,2,0,2,0,0,0,0,0,0,2,2,2,0,0,0,0
+104336,long,T1 Faster,T2 Faster,2. <10%,1,0,2,2,0,1,0,0,2,1,1,2,1,2,1,1,0
+147688,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,2,0,0,0,1,0,2,2,0
+111817,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+193185,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+186807,loyal,T1 Faster,T2 Slower,2. <10%,2,2,1,0,1,0,2,0,1,2,0,2,2,1,1,0,0
+167694,medium,T1 Faster,T2 Neutral,1. None,0,1,2,0,0,0,0,0,2,1,0,0,0,0,0,2,0
+151877,loyal,T1 Faster,T2 Slower,1. None,1,0,1,2,1,1,1,0,2,2,2,1,1,1,2,2,0
+143346,loyal,T1 Faster,T2 Neutral,1. None,1,1,2,1,2,1,2,2,1,2,0,1,2,1,0,1,0
+153283,loyal,T1 Neutral,T2 Slower,2. <10%,0,2,0,0,2,0,0,0,1,0,2,1,2,0,0,2,0
+184651,loyal,T1 Faster,T2 Neutral,2. <10%,1,0,1,2,2,2,0,2,1,1,0,1,2,1,1,0,0
+106826,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,2,0,0,2,0,0,0,0,0
+185343,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,0,1,1,0,0,1,2,0,1,2,2,2,2,0
+104442,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+135031,loyal,T1 Neutral,T2 Slower,1. None,2,2,0,2,0,0,0,0,1,2,1,2,2,2,1,1,0
+123680,medium,T1 Faster,T2 Slower,1. None,2,0,2,0,2,0,0,2,0,2,0,2,0,2,0,2,0
+107630,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,0,2,0,2,2,2,0,0,0
+101864,long,T1 Faster,T2 Faster,1. None,2,0,2,1,1,0,0,0,1,1,2,2,2,1,2,1,0
+182444,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,0,0,2,2,1,2,2,0,0
+146083,long,T1 Faster,T2 Faster,2. <10%,0,1,2,0,1,0,1,0,1,1,2,1,1,2,1,2,0
+169189,loyal,T1 Slower,T2 Slower,1. None,1,2,0,1,1,0,0,0,2,2,1,1,1,1,2,1,0
+132767,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,2,0,1,2,0,0,1,0,2,0,0
+136863,loyal,T1 Faster,T2 Faster,1. None,2,0,1,2,2,0,0,0,1,1,0,2,1,2,1,2,0
+126547,loyal,T1 Faster,T2 Slower,2. <10%,0,0,1,2,1,0,0,0,1,2,0,1,2,2,2,0,0
+187259,loyal,T1 Faster,T2 Faster,1. None,2,1,1,0,2,1,2,0,1,2,1,1,2,1,2,1,0
+139032,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1
+157642,loyal,T1 Slower,T2 Slower,1. None,0,2,0,2,0,0,0,0,1,0,2,1,1,2,2,1,0
+109300,loyal,T1 Faster,T2 Faster,1. None,2,0,2,2,2,0,0,0,2,2,0,0,1,0,1,0,0
+177223,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0
+157237,loyal,T1 Faster,T2 Faster,1. None,2,0,2,0,0,0,0,0,1,2,0,0,2,0,0,0,0
+138587,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+118611,loyal,T1 Faster,T2 Faster,1. None,2,1,2,1,1,0,1,0,1,2,0,2,1,1,1,1,0
+166481,loyal,T1 Faster,T2 Slower,2. <10%,2,1,0,2,0,2,2,0,0,2,2,2,2,2,2,0,0
+170226,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,1
+161978,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,0,0,2,0,0,0,0,2,2,0,2,0,0
+150076,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,0,0,2,0,0,0,2,0,0,0
+159929,medium,T1 Slower,T2 Slower,1. None,0,2,2,0,0,0,0,0,1,2,0,0,2,2,2,0,1
+185575,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+188707,loyal,T1 Faster,T2 Slower,1. None,0,0,2,0,0,2,0,0,2,0,2,0,2,0,2,0,0
+156315,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,0,0,0,2,0,2,0,0
+175208,long,T1 Faster,T2 Neutral,2. <10%,1,0,1,1,1,2,1,1,1,1,0,2,1,2,0,0,0
+114562,long,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+100015,loyal,T1 Faster,T2 Faster,1. None,2,0,0,2,0,2,0,0,1,2,2,1,0,2,0,0,0
+164857,long,T1 Faster,T2 Neutral,1. None,1,0,2,1,0,0,0,0,2,2,0,1,1,1,1,0,0
+129903,long,T1 Faster,T2 Neutral,1. None,2,0,0,2,2,0,0,2,2,1,2,0,1,2,0,2,0
+176173,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,0,2,2,0,0,2,1,0,1,2,1,2,1,0
+121732,loyal,T1 Faster,T2 Slower,1. None,2,0,1,0,1,0,0,0,2,1,0,0,1,0,1,0,0
+100434,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,2,0,0,0,0,2,0,0,0,0,0
+136510,long,T1 Neutral,T2 Slower,1. None,0,2,0,0,0,0,0,0,1,2,0,2,0,2,0,2,0
+177349,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+121864,short,T1 Faster,T2 Faster,1. None,1,0,0,1,2,0,0,2,0,2,1,1,0,1,0,0,0
+113512,loyal,T1 Faster,T2 Faster,2. <10%,2,0,0,2,2,0,0,0,1,2,0,1,2,0,0,0,0
+156304,loyal,T1 Faster,T2 Neutral,1. None,2,0,2,2,0,2,0,0,0,2,0,2,0,2,2,0,0
+180383,loyal,T1 Neutral,T2 Slower,2. <10%,2,2,0,2,1,1,1,2,1,2,0,2,1,2,2,0,0
+169165,loyal,T1 Faster,T2 Faster,3. +10%,2,0,1,0,1,0,0,0,2,1,2,1,1,1,1,2,0
+135115,long,T1 Faster,T2 Faster,1. None,1,0,2,2,1,0,0,0,1,1,1,2,1,2,1,2,0
+185384,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1
+191245,long,T1 Faster,T2 Neutral,1. None,1,0,2,0,1,2,2,0,0,1,1,2,0,1,0,1,0
+102885,medium,T1 Faster,T2 Faster,2. <10%,2,0,1,0,2,2,0,0,1,2,1,2,1,1,2,2,0
+195945,medium,T1 Faster,T2 Slower,1. None,2,2,1,1,1,0,0,0,2,1,2,1,2,1,0,1,0
+157752,medium,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,1
+105698,medium,N/A - No AOG,N/A - No AOG,3. +10%,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+178456,long,T1 Faster,T2 Slower,2. <10%,1,1,2,2,1,2,1,2,1,2,0,2,2,1,1,0,0
+147502,loyal,T1 Faster,T2 Neutral,1. None,1,0,1,2,2,2,2,2,1,1,0,2,2,2,1,2,0
+121279,medium,T1 Neutral,T2 Slower,1. None,2,2,0,2,1,0,0,0,1,2,1,1,2,1,2,0,0
+106899,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,1,0,1,1,1,0,1,1,1,2,2,2,1,1,0
+195635,loyal,T1 Faster,T2 Neutral,1. None,2,1,1,1,1,2,0,0,1,2,0,1,2,2,1,0,0
+121912,loyal,T1 Faster,T2 Neutral,2. <10%,2,1,0,2,0,2,0,2,1,1,0,2,1,2,1,2,0
+99328,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,0,2,0,0,1,1,1,1
+147776,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0,1
+144474,long,T1 Slower,T2 Slower,1. None,1,2,0,0,1,0,0,0,2,1,2,1,1,1,1,2,0
+130324,long,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,2,0,0,2,2,0,0,0,0,0,0,0
+192804,loyal,T1 Slower,T2 Slower,1. None,1,2,0,0,0,0,0,0,1,2,2,1,0,1,1,0,0
+139902,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,2,0,0,0,1,2,0,2,2,0,1,1,0
+140815,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,2,1,1,1,1,1,0,1,2,0
+131645,long,T1 Slower,T2 Slower,1. None,1,2,0,0,2,0,0,0,2,2,0,0,1,1,0,0,0
+159820,loyal,T1 Faster,T2 Slower,1. None,1,0,1,1,0,2,0,2,0,1,0,1,2,2,0,1,0
+178831,long,T1 Faster,T2 Neutral,1. None,2,0,0,2,2,2,0,0,0,0,2,1,0,2,0,0,0
+167540,long,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,0,2,0,2,0,0,0,0,0
+179691,loyal,T1 Faster,T2 Faster,1. None,2,0,1,0,0,2,0,2,2,2,0,0,0,1,0,0,0
+185273,loyal,T1 Neutral,T2 Slower,1. None,0,1,1,2,0,0,2,0,2,1,0,0,2,0,2,0,0
+129029,loyal,T1 Faster,T2 Neutral,1. None,1,0,2,0,1,2,2,2,0,2,0,2,1,2,0,0,0
+106541,loyal,T1 Faster,T2 Faster,2. <10%,0,1,0,2,1,0,0,2,1,1,0,1,1,2,2,2,0
+160414,long,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,1,0,2,0,1,2,0,2,0
+182302,loyal,T1 Faster,T2 Faster,2. <10%,1,1,2,1,1,2,1,0,1,2,1,2,1,1,2,2,0
+114403,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,2,0,0,0,1,0,2,2,0,2,0,2,0
+183894,medium,T1 Faster,T2 Faster,1. None,2,0,0,2,0,0,0,0,0,2,0,2,1,2,0,0,0
+116914,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,1,0,0,0,2,2,0,1,1,2,1,2,0
+187929,loyal,T1 Faster,T2 Slower,3. +10%,1,1,1,2,0,1,2,2,0,2,0,2,0,2,0,0,0
+113475,medium,T1 Faster,T2 Neutral,3. +10%,0,2,2,0,0,0,0,0,1,2,0,2,1,2,0,2,0
+165034,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+173555,short,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+131850,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+192448,loyal,T1 Neutral,T2 Slower,1. None,1,1,2,1,1,1,2,2,2,1,1,1,1,1,1,2,0
+195314,long,T1 Faster,T2 Slower,1. None,2,0,0,2,0,1,0,0,1,1,1,1,1,2,2,0,0
+121146,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+163442,medium,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,0,0,2,1,0,1,0,0,0,0,0
+175954,long,T1 Faster,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,1
+105368,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+191435,long,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+108670,short,T1 Neutral,T2 Slower,1. None,1,2,2,0,0,0,0,0,2,1,0,0,2,2,2,0,0
+182982,loyal,T1 Faster,T2 Slower,1. None,2,0,2,0,0,0,0,0,0,2,0,2,0,2,0,0,1
+120979,long,T1 Faster,T2 Neutral,1. None,1,0,2,2,2,0,0,0,1,2,0,2,2,0,0,0,0
+130700,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,2,2,0,0,0,0,0,0,0,0
+125161,medium,T1 Faster,T2 Slower,1. None,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+117734,loyal,T1 Faster,T2 Faster,3. +10%,1,0,1,0,2,2,0,0,1,2,0,1,2,1,2,2,0
+173690,medium,T1 Faster,T2 Faster,1. None,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+129989,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,2,0,0
+146607,loyal,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,0,2,0,0,2,2,2,0,0
+105184,loyal,T1 Faster,T2 Faster,1. None,2,0,2,1,0,0,0,0,2,2,0,1,1,1,2,2,0
+168828,loyal,T1 Faster,T2 Faster,1. None,2,1,2,1,0,1,2,0,2,1,0,0,2,1,2,2,0
+134766,short,T1 Slower,T2 Slower,1. None,0,2,1,1,0,0,0,0,1,1,2,1,2,1,1,2,0
+163078,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+162106,loyal,T1 Faster,T2 Faster,1. None,1,1,2,0,2,2,2,0,1,0,0,1,2,2,2,2,0
+114349,long,T1 Faster,T2 Faster,1. None,2,0,2,0,0,2,0,0,0,1,2,2,0,2,0,0,0
+173733,loyal,T1 Faster,T2 Neutral,1. None,1,0,0,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+189151,loyal,T1 Faster,T2 Neutral,2. <10%,1,1,1,1,2,2,0,1,1,2,0,2,1,2,2,1,0
+106629,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,2,0,0,0
+133335,loyal,T1 Slower,T2 Slower,2. <10%,1,2,0,1,1,1,0,0,2,1,2,1,1,1,1,2,0
+118801,long,T1 Faster,T2 Neutral,1. None,1,1,2,2,0,1,2,1,1,2,1,2,1,1,2,1,0
+135925,medium,T1 Faster,T2 Neutral,3. +10%,0,0,2,0,0,2,0,0,0,2,0,0,0,2,2,0,0
+99961,long,T1 Faster,T2 Faster,1. None,2,0,1,0,0,1,1,0,1,0,2,0,1,0,2,2,0
+147386,short,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+114535,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+182511,medium,T1 Faster,T2 Slower,1. None,0,2,2,0,2,0,0,2,1,1,1,2,1,2,0,0,0
+147865,medium,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,0,0,0,0,2,0,2,1,2,2,0,0
+171930,short,T1 Faster,T2 Neutral,1. None,2,0,0,1,2,0,0,2,2,1,1,1,2,1,2,0,0
+173363,loyal,T1 Faster,T2 Neutral,1. None,1,1,2,0,2,0,2,2,0,2,1,1,2,2,0,0,0
+102534,long,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,1
+137417,loyal,T1 Faster,T2 Slower,3. +10%,1,0,1,2,0,0,0,0,1,2,0,2,1,2,2,0,0
+180217,long,T1 Faster,T2 Slower,1. None,2,2,1,1,2,0,1,2,2,1,1,1,1,1,1,1,0
+147493,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,1,2,1,0,1,1,1,0,2,2,1,1,2,0
+176419,long,T1 Neutral,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+194928,loyal,T1 Faster,T2 Slower,1. None,1,1,1,1,1,2,2,2,2,2,0,1,1,1,1,0,0
+125168,long,T1 Faster,T2 Faster,2. <10%,0,0,2,0,2,0,2,0,0,2,2,0,2,0,0,0,0
+139747,long,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1
+162949,loyal,T1 Faster,T2 Slower,1. None,2,0,2,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+128464,long,T1 Faster,T2 Faster,1. None,2,0,2,1,2,1,0,0,2,1,0,2,2,2,2,1,0
+119249,long,T1 Faster,T2 Slower,2. <10%,2,1,2,0,0,0,0,0,0,2,1,2,1,0,0,0,0
+107974,loyal,T1 Faster,T2 Faster,1. None,1,0,0,0,2,2,0,0,1,2,0,2,1,2,0,0,0
+104413,loyal,T1 Slower,T2 Slower,1. None,1,2,2,0,0,0,0,0,2,1,0,0,1,0,0,0,0
+149252,medium,T1 Faster,T2 Neutral,3. +10%,2,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1
+138619,short,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+168357,long,T1 Faster,T2 Neutral,1. None,2,0,2,1,1,1,0,2,1,1,1,1,1,1,2,2,0
+142080,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+126080,long,T1 Faster,T2 Slower,1. None,2,0,0,2,0,0,0,0,0,2,0,2,1,0,0,2,0
+101789,loyal,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+107482,medium,T1 Neutral,T2 Slower,1. None,1,2,1,1,0,0,0,0,2,2,0,1,1,0,1,0,0
+170848,loyal,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,2,0,0,0,1,0,2,0,0
+193034,long,T1 Faster,T2 Slower,1. None,2,1,2,0,0,0,1,0,1,2,2,1,1,2,2,1,0
+160214,loyal,T1 Faster,T2 Neutral,1. None,2,1,0,0,2,2,0,0,1,1,0,2,2,1,2,0,0
+163389,loyal,T1 Faster,T2 Slower,1. None,0,0,2,0,0,2,0,0,0,2,0,2,0,2,0,0,1
+165167,loyal,T1 Slower,T2 Slower,1. None,2,2,0,1,2,0,0,2,0,2,0,2,1,2,1,0,0
+101141,loyal,T1 Faster,T2 Faster,1. None,1,1,2,0,0,0,0,0,2,0,0,1,2,0,0,2,0
+157110,loyal,T1 Faster,T2 Faster,2. <10%,0,0,0,0,2,0,0,0,0,0,0,0,2,2,0,0,0
+134326,loyal,T1 Faster,T2 Neutral,1. None,0,0,0,0,0,2,0,0,0,2,0,2,0,2,2,0,0
+133979,medium,T1 Faster,T2 Neutral,1. None,1,2,0,0,0,0,0,0,2,2,0,1,2,2,2,2,0
+108661,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,2,0,0,0,0,2,0,2,0,2,0,0,0
+99006,medium,T1 Faster,T2 Faster,1. None,1,0,0,0,2,0,0,0,1,0,0,0,2,1,2,2,0
+171134,medium,T1 Faster,T2 Faster,1. None,2,0,2,0,1,0,2,0,1,1,0,1,2,0,2,0,0
+181965,loyal,T1 Faster,T2 Faster,1. None,1,0,1,2,2,0,0,0,0,2,0,0,2,2,2,0,1
+154124,long,T1 Faster,T2 Neutral,2. <10%,0,1,2,0,2,0,2,0,1,1,2,2,0,2,0,1,0
+178446,loyal,T1 Faster,T2 Faster,2. <10%,2,2,0,0,0,0,0,0,1,2,0,2,1,2,1,1,0
+162254,loyal,T1 Faster,T2 Neutral,3. +10%,2,0,0,0,0,2,0,0,2,1,2,0,1,2,2,2,0
+132888,loyal,T1 Faster,T2 Faster,1. None,0,0,0,0,2,2,0,2,2,0,0,0,0,2,0,2,0
+139160,loyal,T1 Slower,T2 Slower,1. None,1,2,1,1,1,0,0,0,1,1,1,1,2,1,2,1,0
+140011,long,T1 Faster,T2 Faster,1. None,1,1,0,2,0,2,0,0,1,1,1,2,1,2,2,2,0
+193348,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,1
+195117,short,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0
+187412,long,T1 Faster,T2 Slower,2. <10%,2,0,2,0,0,0,0,0,1,2,0,1,2,2,1,0,0
+140830,long,T1 Neutral,T2 Slower,1. None,1,2,2,0,2,1,0,0,2,0,0,0,1,1,1,2,0
+123010,long,T1 Faster,T2 Faster,3. +10%,2,1,0,0,0,0,0,0,1,2,1,1,1,2,2,0,0
+186932,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+128844,loyal,T1 Faster,T2 Neutral,1. None,1,2,0,1,0,0,2,0,1,1,2,2,1,1,0,0,0
+144952,medium,T1 Slower,T2 Slower,1. None,0,0,0,0,0,2,0,0,0,2,2,2,0,0,0,0,0
+156953,long,T1 Faster,T2 Neutral,1. None,2,0,0,0,0,2,0,0,2,0,0,2,2,0,0,0,1
+128161,long,T1 Faster,T2 Faster,2. <10%,2,0,2,0,0,0,0,0,0,2,0,2,2,2,0,0,0
+116431,loyal,T1 Faster,T2 Faster,1. None,2,1,2,0,0,0,0,0,0,0,0,1,0,2,2,0,0
+193732,long,T1 Faster,T2 Slower,2. <10%,2,2,1,1,0,2,0,0,0,2,0,1,1,2,0,0,0
+180142,loyal,T1 Neutral,T2 Slower,1. None,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0
+183001,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1
+154537,loyal,T1 Faster,T2 Slower,1. None,1,0,1,1,1,2,0,0,1,1,0,2,2,2,1,0,0
+192826,loyal,T1 Faster,T2 Faster,1. None,0,0,1,0,0,2,0,0,0,1,0,2,1,2,2,0,0
+108327,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0
+131442,loyal,T1 Faster,T2 Slower,1. None,2,0,0,2,2,0,0,0,1,2,0,1,2,0,0,0,0
+179863,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+172737,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,2,0,0,1,0,0,2,0,2,0,0
+195303,medium,T1 Neutral,T2 Slower,1. None,1,0,2,1,2,1,2,2,1,2,1,2,2,2,1,0,0
+131409,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+184802,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+160773,long,T1 Faster,T2 Faster,1. None,1,0,2,0,0,2,2,2,2,1,0,1,2,2,1,2,0
+114147,loyal,T1 Faster,T2 Faster,1. None,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+160264,loyal,T1 Faster,T2 Neutral,2. <10%,2,0,0,1,0,1,0,0,1,2,1,1,2,2,2,1,0
+194454,long,T1 Faster,T2 Neutral,2. <10%,2,0,0,0,0,0,0,0,1,2,0,2,2,1,2,1,0
+153127,medium,T1 Faster,T2 Faster,1. None,1,0,1,2,0,0,0,0,1,2,0,2,1,2,0,2,0
+114771,medium,T1 Slower,T2 Slower,1. None,0,2,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0
+149722,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,2,0,2,0,2,0,0,0,2,1,2,2,0
+112387,medium,T1 Slower,T2 Slower,3. +10%,0,2,0,0,0,0,0,0,0,1,0,0,2,2,2,0,0
+184006,long,T1 Faster,T2 Neutral,1. None,1,0,2,1,0,2,0,0,2,2,0,2,1,2,1,1,0
+166042,long,T1 Faster,T2 Faster,1. None,0,0,0,2,2,0,0,0,0,2,0,2,0,0,0,0,0
+130329,medium,T1 Faster,T2 Slower,1. None,2,0,0,2,2,0,0,0,2,2,0,2,1,0,0,0,0
+120600,loyal,T1 Faster,T2 Slower,1. None,2,2,0,0,0,1,0,0,1,1,2,0,1,0,0,2,0
+116591,long,T1 Faster,T2 Faster,1. None,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0
+133576,loyal,T1 Faster,T2 Slower,1. None,1,2,2,1,2,1,2,2,1,1,2,1,1,1,1,2,0
+145114,loyal,T1 Neutral,T2 Slower,2. <10%,1,2,1,2,0,1,0,0,1,2,0,2,1,2,2,0,0
+178625,long,T1 Faster,T2 Faster,2. <10%,2,0,1,0,1,0,0,0,2,0,0,0,0,0,0,2,0
+104435,long,N/A - No AOG,N/A - No AOG,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+148451,medium,T1 Faster,T2 Neutral,1. None,0,2,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0
+172141,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0
+110633,long,T1 Faster,T2 Slower,1. None,2,2,1,2,0,1,0,0,1,2,2,1,1,1,1,2,0
+187530,medium,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+160295,loyal,T1 Faster,T2 Faster,1. None,1,0,2,1,2,0,0,0,2,1,0,1,2,1,2,0,0
+171261,long,T1 Faster,T2 Slower,1. None,2,1,1,1,2,0,0,1,1,1,1,1,2,1,1,1,0
+130199,loyal,T1 Faster,T2 Faster,2. <10%,1,0,1,2,2,1,0,0,2,2,0,1,1,2,2,2,0
+162634,long,T1 Faster,T2 Faster,1. None,2,0,0,0,2,2,0,0,2,1,0,2,1,1,2,2,0
+138252,long,T1 Faster,T2 Slower,1. None,2,1,0,2,0,1,1,0,1,2,0,1,2,1,0,0,0
+187655,long,T1 Faster,T2 Slower,1. None,1,1,2,2,0,2,2,0,1,1,1,2,2,1,2,0,0
+152151,medium,T1 Slower,T2 Slower,1. None,0,2,0,0,0,0,0,0,1,2,0,2,2,1,1,1,0
+108255,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+159027,loyal,T1 Faster,T2 Faster,1. None,1,1,1,2,2,0,2,0,0,2,0,1,2,2,2,0,0
+193640,loyal,T1 Faster,T2 Faster,3. +10%,0,0,0,0,2,0,0,0,0,0,2,2,0,2,0,0,0
+186425,medium,T1 Faster,T2 Faster,1. None,0,0,2,2,0,0,0,0,0,2,0,2,0,2,0,0,0
+103771,medium,T1 Faster,T2 Slower,3. +10%,2,1,0,2,0,0,0,0,1,2,0,2,0,2,0,2,0
+192381,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,2,0,0,0,0,2,0,0,0,2,2,0,0
+130101,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+134699,loyal,T1 Faster,T2 Slower,2. <10%,2,1,1,1,0,2,2,0,2,2,0,1,1,1,2,0,0
+130879,short,T1 Faster,T2 Neutral,1. None,0,1,0,0,0,0,0,0,1,2,0,0,0,2,0,0,0
+162600,medium,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0
+150746,long,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+104183,loyal,T1 Faster,T2 Faster,1. None,1,0,2,0,0,0,2,0,2,0,0,0,1,0,2,1,0
+105996,loyal,T1 Faster,T2 Faster,1. None,2,0,1,1,2,0,0,0,1,1,0,2,1,2,2,0,0
+134387,medium,T1 Faster,T2 Slower,1. None,2,1,0,1,0,0,0,0,0,2,0,2,2,2,2,1,0
+111656,long,T1 Faster,T2 Neutral,1. None,1,1,0,0,2,2,0,2,0,2,0,0,1,2,2,0,0
+181503,short,T1 Faster,T2 Faster,1. None,2,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0
+150549,medium,T1 Neutral,T2 Slower,3. +10%,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+99643,medium,T1 Faster,T2 Neutral,1. None,2,0,2,0,1,0,0,0,2,2,1,0,2,0,1,0,0
+156737,long,T1 Faster,T2 Neutral,1. None,2,1,2,0,1,0,0,0,2,1,1,2,1,1,1,1,0
+153958,short,T1 Faster,T2 Faster,1. None,1,0,0,0,2,2,0,0,2,2,0,2,0,2,0,0,0
+141134,loyal,T1 Faster,T2 Slower,2. <10%,1,2,1,0,2,1,0,0,1,1,1,1,1,2,2,2,0
+194576,long,T1 Faster,T2 Neutral,1. None,0,0,0,2,0,2,0,0,0,2,2,2,0,0,0,0,0
+99723,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+160062,long,T1 Slower,T2 Slower,1. None,1,2,1,1,1,1,1,1,1,1,1,2,2,2,2,1,0
+105941,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,2,0,1,1,2,2,0,0
+148070,long,T1 Faster,T2 Slower,1. None,0,2,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+133297,loyal,T1 Faster,T2 Slower,1. None,1,0,2,1,2,0,0,0,0,2,0,2,2,0,0,0,0
+185123,loyal,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+99673,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+168253,loyal,T1 Faster,T2 Slower,1. None,2,1,1,1,1,1,2,2,2,1,0,1,1,1,1,1,0
+175901,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0
+164946,loyal,T1 Faster,T2 Slower,1. None,2,1,1,0,2,0,0,0,1,2,0,0,2,2,2,1,0
+117248,medium,T1 Faster,T2 Neutral,1. None,1,1,1,1,2,0,0,0,2,1,0,2,1,1,2,0,0
+116134,loyal,T1 Faster,T2 Faster,1. None,1,1,2,2,0,0,0,0,2,1,2,0,1,1,1,2,0
+149336,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,1
+187007,medium,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+178518,loyal,T1 Neutral,T2 Slower,1. None,1,2,0,1,0,0,0,0,1,0,2,1,1,1,2,1,0
+181282,medium,T1 Faster,T2 Slower,1. None,2,2,0,0,0,0,0,0,2,0,0,2,0,2,2,0,0
+161461,medium,T1 Slower,T2 Slower,1. None,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0
+170553,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,1,0,0,0,0,0,1,1,2,1,0,0,0
+117031,medium,T1 Faster,T2 Slower,3. +10%,2,1,0,2,0,2,2,0,0,2,0,2,0,1,0,2,0
+149501,long,T1 Faster,T2 Faster,1. None,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,0,0
+153717,long,N/A - No AOG,N/A - No AOG,1. None,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+123063,medium,N/A - No AOG,N/A - No AOG,1. None,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,1
+175014,medium,T1 Faster,T2 Faster,1. None,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+121624,loyal,T1 Faster,T2 Neutral,1. None,2,0,0,0,2,0,0,0,2,0,2,2,0,0,0,0,1
+111430,loyal,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,1,2,0,0,2,1,0,2,0
+172047,long,T1 Faster,T2 Slower,2. <10%,1,1,1,2,1,1,0,1,1,2,0,1,2,1,1,2,0
+195441,long,T1 Faster,T2 Slower,1. None,0,0,2,2,2,0,0,0,2,2,0,2,1,1,0,0,0
+183903,medium,T1 Faster,T2 Slower,1. None,2,0,0,0,0,2,0,0,0,0,0,0,0,2,2,0,0
