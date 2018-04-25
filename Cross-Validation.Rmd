@@ -1,0 +1,102 @@
+---
+title: "Cross Validation"
+author: "Veerasak Kritsanapraphan"
+date: "4/25/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Data
+
+```{r}
+# load the libraries
+library(caret)
+library(klaR)
+# load the iris dataset
+data(iris)
+```
+
+## Split Data
+
+Using Split Data
+
+```{r}
+# define an 80%/20% train/test split of the dataset
+split=0.70
+trainIndex <- createDataPartition(iris$Species, p=split, list=FALSE)
+data_train <- iris[ trainIndex,]
+data_test <- iris[-trainIndex,]
+# train a naive bayes model
+model <- NaiveBayes(Species~., data=data_train)
+# make predictions
+x_test <- data_test[,1:4]
+y_test <- data_test[,5]
+predictions <- predict(model, x_test)
+# summarize results
+confusionMatrix(predictions$class, y_test)
+```
+
+## Bootstraping
+
+Using Bootstrap
+
+```{r}
+# define training control
+train_control <- trainControl(method="boot", number=10)
+# train the model
+model <- train(Species~., data=data_train,    trControl=train_control, method="nb")
+# summarize results
+print(model)
+predictions <- predict(model, x_test)
+# summarize results
+confusionMatrix(predictions, y_test)
+```
+
+## K-Fold Cross Validation
+
+Using K-Fold Cross Validation
+```{r}
+# k-fold Cross Validation
+
+# define training control
+train_control <- trainControl(method="cv", number=10)
+model <- train(Species~., data=data_train, trControl=train_control, method="nb")
+# summarize results
+print(model)
+predictions <- predict(model, x_test)
+# summarize results
+confusionMatrix(predictions, y_test)
+```
+
+## Repeated K-Fold Cross Validation
+
+Using Repeated K-Fold Cross Validation
+```{r}
+# define training control
+train_control <- trainControl(method="repeatedcv", number=10, repeats=3)
+# train the model
+model <- train(Species~., data=data_train, trControl=train_control, method="nb")
+# summarize results
+print(model)
+predictions <- predict(model, x_test)
+# summarize results
+confusionMatrix(predictions, y_test)
+```
+
+## Leave one out Cross Validation
+
+Using Leave one out Cross Validation
+```{r}
+# define training control
+train_control <- trainControl(method="LOOCV")
+# train the model
+model <- train(Species~., data=data_train, trControl=train_control, method="nb")
+# summarize results
+print(model)
+predictions <- predict(model, x_test)
+# summarize results
+confusionMatrix(predictions, y_test)
+```
