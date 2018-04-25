@@ -2,7 +2,7 @@ install.packages('klaR')
 library(ROCR)
 library(klaR)
 
-lvls = levels(titanic$Survived)
+lvls = levels(iris$Survived)
 
 aucs = c()
 plot(x=NA, y=NA, xlim=c(0,1), ylim=c(0,1),
@@ -32,3 +32,4 @@ for (type.id in 1:2) {
 }
 
 lines(x=c(0,1), c(0,1))
+
