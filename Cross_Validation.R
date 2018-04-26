@@ -42,8 +42,6 @@ library(caret)
 data(iris)
 # define training control
 train_control <- trainControl(method="cv", number=10)
-# fix the parameters of the algorithm
-#grid <- expand.grid(.fL=c(0), .usekernel=c(FALSE))
 # train the model
 #model <- train(Species~., data=data_train, trControl=train_control, method="nb", tuneGrid=grid)
 model <- train(Species~., data=data_train, trControl=train_control, method="nb")
