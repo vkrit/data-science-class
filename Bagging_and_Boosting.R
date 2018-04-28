@@ -1,10 +1,9 @@
 library(randomForest)
-library(reprtree)
-model <- randomForest(Species~.,
-                      data=trainData,
-                      keep.forest=FALSE,
-                      nTree=500)
+
+model <- randomForest(iris[,-5], iris[,5], ntree=10)
 prediction <- predict(model, newdata = testData, type='class')
 table(prediction, testData$Species)
 plot(model)
 model
+getTree(model, 1, labelVar=TRUE)
+getTree(model, 3, labelVar=TRUE)

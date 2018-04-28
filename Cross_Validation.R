@@ -1,7 +1,7 @@
 
 # load the libraries
 library(caret)
-library(klaR)
+#library(klaR)
 # load the iris dataset
 data(iris)
 # define an 80%/20% train/test split of the dataset

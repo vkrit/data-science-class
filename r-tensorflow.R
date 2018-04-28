@@ -1,3 +1,19 @@
+# installation
+install.packages("devtools")
+devtools::install_github("rstudio/keras")
+library(keras)
+install_tensorflow()
+install_tensorflow(gpu=TRUE)
+
+#Below is the list of models that can be built in R using Keras.
+
+#Multi-Layer Perceptrons
+#Convoluted Neural Networks
+#Recurrent Neural Networks
+#Skip-Gram Models
+#Use pre-trained models like VGG16, RESNET etc.
+#Fine-tune the pre-trained models.
+
 # TensorFlow
 #
 reticulate::use_condaenv(condaenv="r-tensorflow", conda="/Users/kris/anaconda3/anaconda/bin/conda", required=TRUE)
@@ -24,63 +40,38 @@ x_test <- x_test / 255
 y_train <- to_categorical(y_train, 10)
 y_test <- to_categorical(y_test, 10)
 model <- keras_model_sequential()
+
+#defining the model with 1 input layer[784 neurons], 
+#    1 hidden layer[784 neurons] with dropout rate 0.4 
+#     and 1 output layer[10 neurons]
+#i.e number of digits from 0 to 9
+
 model %>%
-  layer_dense(units = 256, activation = 'relu', input_shape = c(784)) %>%
+  layer_dense(units = 784, activation = 'relu', input_shape = c(784)) %>%
   layer_dropout(rate = 0.4) %>%
   layer_dense(units = 128, activation = 'relu') %>%
   layer_dropout(rate = 0.3) %>%
   layer_dense(units = 10, activation = 'softmax')
 summary(model)
+
+#compiling the defined model with metric = accuracy 
+# and optimiser as adam
 model %>% compile(
   loss = 'categorical_crossentropy',
-  optimizer = optimizer_rmsprop(),
+  optimizer = 'adam',
   metrics = c('accuracy')
 )
+#fitting the model on the training dataset
 history <- model %>% fit(
   x_train, y_train,
   epochs = 30, batch_size = 128,
   validation_split = 0.2
 )
+#plot model running
 plot(history)
-model %>% evaluate(x_test, y_test)
-model %>% predict_classes(x_test)
-library(keras)
-max_features = 20000
-maxlen = 100
-embedding_size = 128
-kernel_size = 5
-filters = 64
-pool_size = 4
-lstm_output_size = 70
-batch_size = 30
-epochs = 2
-imdb <- dataset_imdb(num_words = max_features)
-x_train <- imdb$train$x %>%
-  pad_sequences(maxlen = maxlen)
-x_test <- imdb$test$x %>%
-  pad_sequences(maxlen = maxlen)
-model <- keras_model_sequential()
-model %>%
-  layer_embedding(max_features, embedding_size, input_length = maxlen) %>%
-  layer_dropout(0.25) %>%
-  layer_conv_1d(
-    filters,
-    kernel_size,
-    padding = "valid",
-    activation = "relu",
-    strides = 1
-  ) %>%
-  layer_max_pooling_1d(pool_size) %>%
-  layer_lstm(lstm_output_size) %>%
-  layer_dense(1) %>%
-  layer_activation("sigmoid")
-model %>% compile(
-  loss = "binary_crossentropy",
-  optimizer = "adam",
-  metrics = "accuracy"
-)
-model %>% fit(
-  x_train, imdb$train$y,
-  batch_size = batch_size,
-  epochs = epochs,
-  validation_data = list(x_test, imdb$test$y)
+
+#Evaluating model on the cross validation dataset
+loss_and_metrics <- model %>% evaluate(x_test, y_test, batch_size = 128)
+testprd <- model %>% predict_classes(x_test)
+
+

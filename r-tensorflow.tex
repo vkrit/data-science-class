@@ -1,0 +1,951 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Churn Analysis},
+            pdfauthor={Veerasak Kritsanapraphan},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{Churn Analysis}
+  \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \author{Veerasak Kritsanapraphan}
+  \preauthor{\centering\large\emph}
+  \postauthor{\par}
+  \predate{\centering\large\emph}
+  \postdate{\par}
+  \date{4/26/2018}
+
+
+\begin{document}
+\maketitle
+
+\subsection{Churn Analysis using Telco
+Data}\label{churn-analysis-using-telco-data}
+
+\subsection{Load Library}\label{load-library}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Load libraries}
+\KeywordTok{library}\NormalTok{(keras)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'keras' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(lime)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'lime' was built under R version 3.4.4
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(tidyquant)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'tidyquant' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: lubridate
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'lubridate' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'lubridate'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:base':
+## 
+##     date
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: PerformanceAnalytics
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'PerformanceAnalytics' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: xts
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'xts' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: zoo
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'zoo'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     as.Date, as.Date.numeric
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'PerformanceAnalytics'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:graphics':
+## 
+##     legend
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: quantmod
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'quantmod' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: TTR
+\end{verbatim}
+
+\begin{verbatim}
+## Version 0.4-0 included new data defaults. See ?getSymbols.
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: tidyverse
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'tidyverse' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## -- Attaching packages ----------------------- tidyverse 1.2.1 --
+\end{verbatim}
+
+\begin{verbatim}
+## √ ggplot2 2.2.1     √ purrr   0.2.4
+## √ tibble  1.4.2     √ dplyr   0.7.4
+## √ tidyr   0.8.0     √ stringr 1.3.0
+## √ readr   1.1.1     √ forcats 0.2.0
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'tibble' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'tidyr' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'purrr' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'dplyr' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: package 'stringr' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## -- Conflicts -------------------------- tidyverse_conflicts() --
+## x lubridate::as.difftime() masks base::as.difftime()
+## x lubridate::date()        masks base::date()
+## x dplyr::explain()         masks lime::explain()
+## x dplyr::filter()          masks stats::filter()
+## x dplyr::first()           masks xts::first()
+## x lubridate::intersect()   masks base::intersect()
+## x dplyr::lag()             masks stats::lag()
+## x dplyr::last()            masks xts::last()
+## x lubridate::setdiff()     masks base::setdiff()
+## x lubridate::union()       masks base::union()
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(rsample)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'rsample' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: broom
+\end{verbatim}
+
+\begin{verbatim}
+## Warning in as.POSIXlt.POSIXct(Sys.time()): unknown timezone 'zone/tz/2018c.
+## 1.0/zoneinfo/Asia/Bangkok'
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'rsample'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:tidyr':
+## 
+##     fill
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(recipes)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'recipes' was built under R version 3.4.3
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'recipes'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:stringr':
+## 
+##     fixed
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:stats':
+## 
+##     step
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(yardstick)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: package 'yardstick' was built under R version 3.4.2
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'yardstick'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:readr':
+## 
+##     spec
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(corrr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{churn_data_raw <-}\StringTok{ }\KeywordTok{read_csv}\NormalTok{(}\StringTok{"WA_Fn-UseC_-Telco-Customer-Churn.csv"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Parsed with column specification:
+## cols(
+##   .default = col_character(),
+##   SeniorCitizen = col_integer(),
+##   tenure = col_integer(),
+##   MonthlyCharges = col_double(),
+##   TotalCharges = col_double()
+## )
+\end{verbatim}
+
+\begin{verbatim}
+## See spec(...) for full column specifications.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{glimpse}\NormalTok{(churn_data_raw)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Observations: 7,043
+## Variables: 21
+## $ customerID       <chr> "7590-VHVEG", "5575-GNVDE", "3668-QPYBK", "77...
+## $ gender           <chr> "Female", "Male", "Male", "Male", "Female", "...
+## $ SeniorCitizen    <int> 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ...
+## $ Partner          <chr> "Yes", "No", "No", "No", "No", "No", "No", "N...
+## $ Dependents       <chr> "No", "No", "No", "No", "No", "No", "Yes", "N...
+## $ tenure           <int> 1, 34, 2, 45, 2, 8, 22, 10, 28, 62, 13, 16, 5...
+## $ PhoneService     <chr> "No", "Yes", "Yes", "No", "Yes", "Yes", "Yes"...
+## $ MultipleLines    <chr> "No phone service", "No", "No", "No phone ser...
+## $ InternetService  <chr> "DSL", "DSL", "DSL", "DSL", "Fiber optic", "F...
+## $ OnlineSecurity   <chr> "No", "Yes", "Yes", "Yes", "No", "No", "No", ...
+## $ OnlineBackup     <chr> "Yes", "No", "Yes", "No", "No", "No", "Yes", ...
+## $ DeviceProtection <chr> "No", "Yes", "No", "Yes", "No", "Yes", "No", ...
+## $ TechSupport      <chr> "No", "No", "No", "Yes", "No", "No", "No", "N...
+## $ StreamingTV      <chr> "No", "No", "No", "No", "No", "Yes", "Yes", "...
+## $ StreamingMovies  <chr> "No", "No", "No", "No", "No", "Yes", "No", "N...
+## $ Contract         <chr> "Month-to-month", "One year", "Month-to-month...
+## $ PaperlessBilling <chr> "Yes", "No", "Yes", "No", "Yes", "Yes", "Yes"...
+## $ PaymentMethod    <chr> "Electronic check", "Mailed check", "Mailed c...
+## $ MonthlyCharges   <dbl> 29.85, 56.95, 53.85, 42.30, 70.70, 99.65, 89....
+## $ TotalCharges     <dbl> 29.85, 1889.50, 108.15, 1840.75, 151.65, 820....
+## $ Churn            <chr> "No", "No", "Yes", "No", "Yes", "Yes", "No", ...
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Remove unnecessary data}
+\NormalTok{churn_data_tbl <-}\StringTok{ }\NormalTok{churn_data_raw }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{select}\NormalTok{(}\OperatorTok{-}\NormalTok{customerID) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{drop_na}\NormalTok{() }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{select}\NormalTok{(Churn, }\KeywordTok{everything}\NormalTok{())}
+
+\KeywordTok{glimpse}\NormalTok{(churn_data_tbl)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Observations: 7,032
+## Variables: 20
+## $ Churn            <chr> "No", "No", "Yes", "No", "Yes", "Yes", "No", ...
+## $ gender           <chr> "Female", "Male", "Male", "Male", "Female", "...
+## $ SeniorCitizen    <int> 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ...
+## $ Partner          <chr> "Yes", "No", "No", "No", "No", "No", "No", "N...
+## $ Dependents       <chr> "No", "No", "No", "No", "No", "No", "Yes", "N...
+## $ tenure           <int> 1, 34, 2, 45, 2, 8, 22, 10, 28, 62, 13, 16, 5...
+## $ PhoneService     <chr> "No", "Yes", "Yes", "No", "Yes", "Yes", "Yes"...
+## $ MultipleLines    <chr> "No phone service", "No", "No", "No phone ser...
+## $ InternetService  <chr> "DSL", "DSL", "DSL", "DSL", "Fiber optic", "F...
+## $ OnlineSecurity   <chr> "No", "Yes", "Yes", "Yes", "No", "No", "No", ...
+## $ OnlineBackup     <chr> "Yes", "No", "Yes", "No", "No", "No", "Yes", ...
+## $ DeviceProtection <chr> "No", "Yes", "No", "Yes", "No", "Yes", "No", ...
+## $ TechSupport      <chr> "No", "No", "No", "Yes", "No", "No", "No", "N...
+## $ StreamingTV      <chr> "No", "No", "No", "No", "No", "Yes", "Yes", "...
+## $ StreamingMovies  <chr> "No", "No", "No", "No", "No", "Yes", "No", "N...
+## $ Contract         <chr> "Month-to-month", "One year", "Month-to-month...
+## $ PaperlessBilling <chr> "Yes", "No", "Yes", "No", "Yes", "Yes", "Yes"...
+## $ PaymentMethod    <chr> "Electronic check", "Mailed check", "Mailed c...
+## $ MonthlyCharges   <dbl> 29.85, 56.95, 53.85, 42.30, 70.70, 99.65, 89....
+## $ TotalCharges     <dbl> 29.85, 1889.50, 108.15, 1840.75, 151.65, 820....
+\end{verbatim}
+
+\subsection{Split test/training sets}\label{split-testtraining-sets}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{set.seed}\NormalTok{(}\DecValTok{100}\NormalTok{)}
+\NormalTok{train_test_split <-}\StringTok{ }\KeywordTok{initial_split}\NormalTok{(churn_data_tbl, }\DataTypeTok{prop =} \FloatTok{0.8}\NormalTok{)}
+\NormalTok{train_test_split}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## <5626/1406/7032>
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Retrieve train and test sets}
+\NormalTok{train_tbl <-}\StringTok{ }\KeywordTok{training}\NormalTok{(train_test_split)}
+\NormalTok{test_tbl  <-}\StringTok{ }\KeywordTok{testing}\NormalTok{(train_test_split)}
+
+\CommentTok{# Determine if log transformation improves correlation }
+\CommentTok{# between TotalCharges and Churn}
+\NormalTok{train_tbl }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{select}\NormalTok{(Churn, TotalCharges) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}
+    \DataTypeTok{Churn =}\NormalTok{ Churn }\OperatorTok{%>%}\StringTok{ }\KeywordTok{as.factor}\NormalTok{() }\OperatorTok{%>%}\StringTok{ }\KeywordTok{as.numeric}\NormalTok{(),}
+    \DataTypeTok{LogTotalCharges =} \KeywordTok{log}\NormalTok{(TotalCharges)}
+\NormalTok{  ) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{correlate}\NormalTok{() }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{focus}\NormalTok{(Churn) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{fashion}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##           rowname Churn
+## 1    TotalCharges  -.20
+## 2 LogTotalCharges  -.25
+\end{verbatim}
+
+\subsection{Create Tensorflow Recipe}\label{create-tensorflow-recipe}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Create recipe}
+\NormalTok{rec_obj <-}\StringTok{ }\KeywordTok{recipe}\NormalTok{(Churn }\OperatorTok{~}\StringTok{ }\NormalTok{., }\DataTypeTok{data =}\NormalTok{ train_tbl) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{step_discretize}\NormalTok{(tenure, }\DataTypeTok{options =} \KeywordTok{list}\NormalTok{(}\DataTypeTok{cuts =} \DecValTok{6}\NormalTok{)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{step_log}\NormalTok{(TotalCharges) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{step_dummy}\NormalTok{(}\KeywordTok{all_nominal}\NormalTok{(), }\OperatorTok{-}\KeywordTok{all_outcomes}\NormalTok{()) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{step_center}\NormalTok{(}\KeywordTok{all_predictors}\NormalTok{(), }\OperatorTok{-}\KeywordTok{all_outcomes}\NormalTok{()) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{step_scale}\NormalTok{(}\KeywordTok{all_predictors}\NormalTok{(), }\OperatorTok{-}\KeywordTok{all_outcomes}\NormalTok{()) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{prep}\NormalTok{(}\DataTypeTok{data =}\NormalTok{ train_tbl)}
+
+\NormalTok{rec_obj}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Data Recipe
+## 
+## Inputs:
+## 
+##       role #variables
+##    outcome          1
+##  predictor         19
+## 
+## Training data contained 5626 data points and no missing data.
+## 
+## Operations:
+## 
+## Dummy variables from tenure [trained]
+## Log transformation on TotalCharges [trained]
+## Dummy variables from gender, Partner, Dependents, tenure, ... [trained]
+## Centering for SeniorCitizen, ... [trained]
+## Scaling for SeniorCitizen, ... [trained]
+\end{verbatim}
+
+\subsection{Extract Variables X and Y}\label{extract-variables-x-and-y}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Predictors}
+\NormalTok{x_train_tbl <-}\StringTok{ }\KeywordTok{bake}\NormalTok{(rec_obj, }\DataTypeTok{newdata =}\NormalTok{ train_tbl) }\OperatorTok{%>%}\StringTok{ }\KeywordTok{select}\NormalTok{(}\OperatorTok{-}\NormalTok{Churn)}
+\NormalTok{x_test_tbl  <-}\StringTok{ }\KeywordTok{bake}\NormalTok{(rec_obj, }\DataTypeTok{newdata =}\NormalTok{ test_tbl) }\OperatorTok{%>%}\StringTok{ }\KeywordTok{select}\NormalTok{(}\OperatorTok{-}\NormalTok{Churn)}
+
+\KeywordTok{glimpse}\NormalTok{(x_train_tbl)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Observations: 5,626
+## Variables: 35
+## $ SeniorCitizen                         <dbl> -0.4351959, -0.4351959, ...
+## $ MonthlyCharges                        <dbl> -1.157597168, -0.2601333...
+## $ TotalCharges                          <dbl> -2.275819130, 0.38925909...
+## $ gender_Male                           <dbl> -1.0016900, 0.9981354, 0...
+## $ Partner_Yes                           <dbl> 1.0262054, -0.9742906, -...
+## $ Dependents_Yes                        <dbl> -0.6507747, -0.6507747, ...
+## $ tenure_bin1                           <dbl> 2.1677790, -0.4612196, -...
+## $ tenure_bin2                           <dbl> -0.4389453, -0.4389453, ...
+## $ tenure_bin3                           <dbl> -0.4481273, -0.4481273, ...
+## $ tenure_bin4                           <dbl> -0.4509837, 2.2169809, 2...
+## $ tenure_bin5                           <dbl> -0.4498419, -0.4498419, ...
+## $ tenure_bin6                           <dbl> -0.4337508, -0.4337508, ...
+## $ PhoneService_Yes                      <dbl> -3.0407367, 0.3288092, -...
+## $ MultipleLines_No.phone.service        <dbl> 3.0407367, -0.3288092, 3...
+## $ MultipleLines_Yes                     <dbl> -0.8571364, -0.8571364, ...
+## $ InternetService_Fiber.optic           <dbl> -0.8884255, -0.8884255, ...
+## $ InternetService_No                    <dbl> -0.5272627, -0.5272627, ...
+## $ OnlineSecurity_No.internet.service    <dbl> -0.5272627, -0.5272627, ...
+## $ OnlineSecurity_Yes                    <dbl> -0.6369654, 1.5696648, 1...
+## $ OnlineBackup_No.internet.service      <dbl> -0.5272627, -0.5272627, ...
+## $ OnlineBackup_Yes                      <dbl> 1.3771987, -0.7259826, -...
+## $ DeviceProtection_No.internet.service  <dbl> -0.5272627, -0.5272627, ...
+## $ DeviceProtection_Yes                  <dbl> -0.7259826, 1.3771987, 1...
+## $ TechSupport_No.internet.service       <dbl> -0.5272627, -0.5272627, ...
+## $ TechSupport_Yes                       <dbl> -0.6358628, -0.6358628, ...
+## $ StreamingTV_No.internet.service       <dbl> -0.5272627, -0.5272627, ...
+## $ StreamingTV_Yes                       <dbl> -0.7917326, -0.7917326, ...
+## $ StreamingMovies_No.internet.service   <dbl> -0.5272627, -0.5272627, ...
+## $ StreamingMovies_Yes                   <dbl> -0.797388, -0.797388, -0...
+## $ Contract_One.year                     <dbl> -0.5156834, 1.9388298, 1...
+## $ Contract_Two.year                     <dbl> -0.5618358, -0.5618358, ...
+## $ PaperlessBilling_Yes                  <dbl> 0.8330334, -1.2002187, -...
+## $ PaymentMethod_Credit.card..automatic. <dbl> -0.5231315, -0.5231315, ...
+## $ PaymentMethod_Electronic.check        <dbl> 1.4154085, -0.7063842, -...
+## $ PaymentMethod_Mailed.check            <dbl> -0.5517013, 1.8122527, -...
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Response variables for training and testing sets}
+\NormalTok{y_train_vec <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(}\KeywordTok{pull}\NormalTok{(train_tbl, Churn) }\OperatorTok{==}\StringTok{ "Yes"}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{y_test_vec  <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(}\KeywordTok{pull}\NormalTok{(test_tbl, Churn) }\OperatorTok{==}\StringTok{ "Yes"}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\subsection{Building our Artificial Neural
+Network}\label{building-our-artificial-neural-network}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{model_keras <-}\StringTok{ }\KeywordTok{keras_model_sequential}\NormalTok{()}
+
+\NormalTok{model_keras }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }
+\StringTok{  }\CommentTok{# First hidden layer}
+\StringTok{  }\KeywordTok{layer_dense}\NormalTok{(}
+    \DataTypeTok{units              =} \DecValTok{16}\NormalTok{, }
+    \DataTypeTok{kernel_initializer =} \StringTok{"uniform"}\NormalTok{, }
+    \DataTypeTok{activation         =} \StringTok{"relu"}\NormalTok{, }
+    \DataTypeTok{input_shape        =} \KeywordTok{ncol}\NormalTok{(x_train_tbl)) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }
+\StringTok{  }\CommentTok{# Dropout to prevent overfitting}
+\StringTok{  }\KeywordTok{layer_dropout}\NormalTok{(}\DataTypeTok{rate =} \FloatTok{0.1}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }
+\StringTok{  }\CommentTok{# Second hidden layer}
+\StringTok{  }\KeywordTok{layer_dense}\NormalTok{(}
+    \DataTypeTok{units              =} \DecValTok{16}\NormalTok{, }
+    \DataTypeTok{kernel_initializer =} \StringTok{"uniform"}\NormalTok{, }
+    \DataTypeTok{activation         =} \StringTok{"relu"}\NormalTok{) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }
+\StringTok{  }\CommentTok{# Dropout to prevent overfitting}
+\StringTok{  }\KeywordTok{layer_dropout}\NormalTok{(}\DataTypeTok{rate =} \FloatTok{0.1}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }
+\StringTok{  }\CommentTok{# Output layer}
+\StringTok{  }\KeywordTok{layer_dense}\NormalTok{(}
+    \DataTypeTok{units              =} \DecValTok{1}\NormalTok{, }
+    \DataTypeTok{kernel_initializer =} \StringTok{"uniform"}\NormalTok{, }
+    \DataTypeTok{activation         =} \StringTok{"sigmoid"}\NormalTok{) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }
+\StringTok{  }\CommentTok{# Compile ANN}
+\StringTok{  }\KeywordTok{compile}\NormalTok{(}
+    \DataTypeTok{optimizer =} \StringTok{'adam'}\NormalTok{,}
+    \DataTypeTok{loss      =} \StringTok{'binary_crossentropy'}\NormalTok{,}
+    \DataTypeTok{metrics   =} \KeywordTok{c}\NormalTok{(}\StringTok{'accuracy'}\NormalTok{)}
+\NormalTok{  )}
+\end{Highlighting}
+\end{Shaded}
+
+\subsection{View Model}\label{view-model}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{keras_model}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## function (inputs, outputs = NULL) 
+## {
+##     keras$models$Model(inputs = unname(inputs), outputs = unname(outputs))
+## }
+## <environment: namespace:keras>
+\end{verbatim}
+
+\subsection{Train Model}\label{train-model}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Fit the keras model to the training data}
+\NormalTok{history <-}\StringTok{ }\KeywordTok{fit}\NormalTok{(}
+  \DataTypeTok{object           =}\NormalTok{ model_keras, }
+  \DataTypeTok{x                =} \KeywordTok{as.matrix}\NormalTok{(x_train_tbl), }
+  \DataTypeTok{y                =}\NormalTok{ y_train_vec,}
+  \DataTypeTok{batch_size       =} \DecValTok{50}\NormalTok{, }
+  \DataTypeTok{epochs           =} \DecValTok{35}\NormalTok{,}
+  \DataTypeTok{validation_split =} \FloatTok{0.30}
+\NormalTok{)}
+\KeywordTok{plot}\NormalTok{(history)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{r-tensorflow_files/figure-latex/unnamed-chunk-8-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Print a summary of the training history}
+\KeywordTok{print}\NormalTok{(history)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Trained on 3,938 samples, validated on 1,688 samples (batch_size=50, epochs=35)
+## Final epoch (plot to see history):
+## val_loss: 0.434
+##  val_acc: 0.7956
+##     loss: 0.4028
+##      acc: 0.8123
+\end{verbatim}
+
+\subsection{Predicted Class}\label{predicted-class}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{yhat_keras_class_vec <-}\StringTok{ }\KeywordTok{predict_classes}\NormalTok{(}\DataTypeTok{object =}\NormalTok{ model_keras, }\DataTypeTok{x =} \KeywordTok{as.matrix}\NormalTok{(x_test_tbl)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{as.vector}\NormalTok{()}
+
+\CommentTok{# Predicted Class Probability}
+\NormalTok{yhat_keras_prob_vec  <-}\StringTok{ }\KeywordTok{predict_proba}\NormalTok{(}\DataTypeTok{object =}\NormalTok{ model_keras, }\DataTypeTok{x =} \KeywordTok{as.matrix}\NormalTok{(x_test_tbl)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{as.vector}\NormalTok{()}
+\CommentTok{# Format test data and predictions for yardstick metrics}
+\NormalTok{estimates_keras_tbl <-}\StringTok{ }\KeywordTok{tibble}\NormalTok{(}
+  \DataTypeTok{truth      =} \KeywordTok{as.factor}\NormalTok{(y_test_vec) }\OperatorTok{%>%}\StringTok{ }\KeywordTok{fct_recode}\NormalTok{(}\DataTypeTok{yes =} \StringTok{"1"}\NormalTok{, }\DataTypeTok{no =} \StringTok{"0"}\NormalTok{),}
+  \DataTypeTok{estimate   =} \KeywordTok{as.factor}\NormalTok{(yhat_keras_class_vec) }\OperatorTok{%>%}\StringTok{ }\KeywordTok{fct_recode}\NormalTok{(}\DataTypeTok{yes =} \StringTok{"1"}\NormalTok{, }\DataTypeTok{no =} \StringTok{"0"}\NormalTok{),}
+  \DataTypeTok{class_prob =}\NormalTok{ yhat_keras_prob_vec}
+\NormalTok{)}
+
+\NormalTok{estimates_keras_tbl}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 1,406 x 3
+##    truth estimate class_prob
+##    <fct> <fct>         <dbl>
+##  1 yes   no          0.302  
+##  2 yes   yes         0.528  
+##  3 no    no          0.00399
+##  4 no    no          0.00382
+##  5 no    no          0.0140 
+##  6 no    no          0.0723 
+##  7 no    yes         0.657  
+##  8 no    yes         0.580  
+##  9 no    no          0.0102 
+## 10 no    no          0.00211
+## # ... with 1,396 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{options}\NormalTok{(}\DataTypeTok{yardstick.event_first =} \OtherTok{FALSE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\subsection{Confusion Table}\label{confusion-table}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{estimates_keras_tbl }\OperatorTok{%>%}\StringTok{ }\KeywordTok{conf_mat}\NormalTok{(truth, estimate)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##           Truth
+## Prediction  no yes
+##        no  946 164
+##        yes 103 193
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Accuracy}
+\NormalTok{estimates_keras_tbl }\OperatorTok{%>%}\StringTok{ }\KeywordTok{metrics}\NormalTok{(truth, estimate)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 1 x 1
+##   accuracy
+##      <dbl>
+## 1    0.810
+\end{verbatim}
+
+\subsection{AUC and Precision}\label{auc-and-precision}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{estimates_keras_tbl }\OperatorTok{%>%}\StringTok{ }\KeywordTok{roc_auc}\NormalTok{(truth, class_prob)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.8509545
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Precision}
+\KeywordTok{tibble}\NormalTok{(}
+  \DataTypeTok{precision =}\NormalTok{ estimates_keras_tbl }\OperatorTok{%>%}\StringTok{ }\KeywordTok{precision}\NormalTok{(truth, estimate),}
+  \DataTypeTok{recall    =}\NormalTok{ estimates_keras_tbl }\OperatorTok{%>%}\StringTok{ }\KeywordTok{recall}\NormalTok{(truth, estimate)}
+\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 1 x 2
+##   precision recall
+##       <dbl>  <dbl>
+## 1     0.652  0.541
+\end{verbatim}
+
+\subsection{Using LIME}\label{using-lime}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{class}\NormalTok{(model_keras)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "keras.models.Sequential"         "keras.engine.training.Model"    
+## [3] "keras.engine.topology.Container" "keras.engine.topology.Layer"    
+## [5] "python.builtin.object"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Setup lime::model_type() function for keras}
+\NormalTok{model_type.keras.models.Sequential <-}\StringTok{ }\ControlFlowTok{function}\NormalTok{(x, ...) \{}
+  \StringTok{"classification"}
+\NormalTok{\}}
+\CommentTok{# Setup lime::predict_model() function for keras}
+\NormalTok{predict_model.keras.models.Sequential <-}\StringTok{ }\ControlFlowTok{function}\NormalTok{(x, newdata, type, ...) \{}
+\NormalTok{  pred <-}\StringTok{ }\KeywordTok{predict_proba}\NormalTok{(}\DataTypeTok{object =}\NormalTok{ x, }\DataTypeTok{x =} \KeywordTok{as.matrix}\NormalTok{(newdata))}
+  \KeywordTok{data.frame}\NormalTok{(}\DataTypeTok{Yes =}\NormalTok{ pred, }\DataTypeTok{No =} \DecValTok{1} \OperatorTok{-}\StringTok{ }\NormalTok{pred)}
+\NormalTok{\}}
+\CommentTok{# Test our predict_model() function}
+\KeywordTok{predict_model}\NormalTok{(}\DataTypeTok{x =}\NormalTok{ model_keras, }\DataTypeTok{newdata =}\NormalTok{ x_test_tbl, }\DataTypeTok{type =} \StringTok{'raw'}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }\NormalTok{tibble}\OperatorTok{::}\KeywordTok{as_tibble}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 1,406 x 2
+##        Yes    No
+##      <dbl> <dbl>
+##  1 0.302   0.698
+##  2 0.528   0.472
+##  3 0.00399 0.996
+##  4 0.00382 0.996
+##  5 0.0140  0.986
+##  6 0.0723  0.928
+##  7 0.657   0.343
+##  8 0.580   0.420
+##  9 0.0102  0.990
+## 10 0.00211 0.998
+## # ... with 1,396 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Run lime() on training set}
+\NormalTok{explainer <-}\StringTok{ }\NormalTok{lime}\OperatorTok{::}\KeywordTok{lime}\NormalTok{(}
+  \DataTypeTok{x              =}\NormalTok{ x_train_tbl, }
+  \DataTypeTok{model          =}\NormalTok{ model_keras, }
+  \DataTypeTok{bin_continuous =} \OtherTok{FALSE}
+\NormalTok{)}
+
+\CommentTok{# Run explain() on explainer}
+\NormalTok{explanation <-}\StringTok{ }\NormalTok{lime}\OperatorTok{::}\KeywordTok{explain}\NormalTok{(}
+\NormalTok{  x_test_tbl[}\DecValTok{1}\OperatorTok{:}\DecValTok{10}\NormalTok{, ], }
+  \DataTypeTok{explainer    =}\NormalTok{ explainer, }
+  \DataTypeTok{n_labels     =} \DecValTok{1}\NormalTok{, }
+  \DataTypeTok{n_features   =} \DecValTok{4}\NormalTok{,}
+  \DataTypeTok{kernel_width =} \FloatTok{0.5}
+\NormalTok{)}
+
+\KeywordTok{plot_features}\NormalTok{(explanation) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{labs}\NormalTok{(}\DataTypeTok{title =} \StringTok{"LIME Feature Importance Visualization"}\NormalTok{,}
+       \DataTypeTok{subtitle =} \StringTok{"Hold Out (Test) Set, First 10 Cases Shown"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{r-tensorflow_files/figure-latex/unnamed-chunk-12-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{plot_explanations}\NormalTok{(explanation) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{labs}\NormalTok{(}\DataTypeTok{title =} \StringTok{"LIME Feature Importance Heatmap"}\NormalTok{,}
+       \DataTypeTok{subtitle =} \StringTok{"Hold Out (Test) Set, First 10 Cases Shown"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{r-tensorflow_files/figure-latex/unnamed-chunk-12-2.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Feature correlations to Churn}
+\NormalTok{corrr_analysis <-}\StringTok{ }\NormalTok{x_train_tbl }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{Churn =}\NormalTok{ y_train_vec) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{correlate}\NormalTok{() }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{focus}\NormalTok{(Churn) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{rename}\NormalTok{(}\DataTypeTok{feature =}\NormalTok{ rowname) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{arrange}\NormalTok{(}\KeywordTok{abs}\NormalTok{(Churn)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{feature =} \KeywordTok{as_factor}\NormalTok{(feature)) }
+\NormalTok{corrr_analysis}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 35 x 2
+##    feature                           Churn
+##    <fct>                             <dbl>
+##  1 gender_Male                    -0.00669
+##  2 tenure_bin3                    -0.00956
+##  3 MultipleLines_No.phone.service -0.0170 
+##  4 PhoneService_Yes                0.0170 
+##  5 MultipleLines_Yes               0.0321 
+##  6 StreamingTV_Yes                 0.0662 
+##  7 StreamingMovies_Yes             0.0676 
+##  8 DeviceProtection_Yes           -0.0733 
+##  9 tenure_bin4                    -0.0734 
+## 10 PaymentMethod_Mailed.check     -0.0805 
+## # ... with 25 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# Correlation visualization}
+\NormalTok{corrr_analysis }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{ggplot}\NormalTok{(}\KeywordTok{aes}\NormalTok{(}\DataTypeTok{x =}\NormalTok{ Churn, }\DataTypeTok{y =} \KeywordTok{fct_reorder}\NormalTok{(feature, }\KeywordTok{desc}\NormalTok{(Churn)))) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_point}\NormalTok{() }\OperatorTok{+}
+\StringTok{  }\CommentTok{# Positive Correlations - Contribute to churn}
+\StringTok{  }\KeywordTok{geom_segment}\NormalTok{(}\KeywordTok{aes}\NormalTok{(}\DataTypeTok{xend =} \DecValTok{0}\NormalTok{, }\DataTypeTok{yend =}\NormalTok{ feature), }
+               \DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{2}\NormalTok{]], }
+               \DataTypeTok{data =}\NormalTok{ corrr_analysis }\OperatorTok{%>%}\StringTok{ }\KeywordTok{filter}\NormalTok{(Churn }\OperatorTok{>}\StringTok{ }\DecValTok{0}\NormalTok{)) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_point}\NormalTok{(}\DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{2}\NormalTok{]], }
+             \DataTypeTok{data =}\NormalTok{ corrr_analysis }\OperatorTok{%>%}\StringTok{ }\KeywordTok{filter}\NormalTok{(Churn }\OperatorTok{>}\StringTok{ }\DecValTok{0}\NormalTok{)) }\OperatorTok{+}
+\StringTok{  }\CommentTok{# Negative Correlations - Prevent churn}
+\StringTok{  }\KeywordTok{geom_segment}\NormalTok{(}\KeywordTok{aes}\NormalTok{(}\DataTypeTok{xend =} \DecValTok{0}\NormalTok{, }\DataTypeTok{yend =}\NormalTok{ feature), }
+               \DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{1}\NormalTok{]], }
+               \DataTypeTok{data =}\NormalTok{ corrr_analysis }\OperatorTok{%>%}\StringTok{ }\KeywordTok{filter}\NormalTok{(Churn }\OperatorTok{<}\StringTok{ }\DecValTok{0}\NormalTok{)) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_point}\NormalTok{(}\DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{1}\NormalTok{]], }
+             \DataTypeTok{data =}\NormalTok{ corrr_analysis }\OperatorTok{%>%}\StringTok{ }\KeywordTok{filter}\NormalTok{(Churn }\OperatorTok{<}\StringTok{ }\DecValTok{0}\NormalTok{)) }\OperatorTok{+}
+\StringTok{  }\CommentTok{# Vertical lines}
+\StringTok{  }\KeywordTok{geom_vline}\NormalTok{(}\DataTypeTok{xintercept =} \DecValTok{0}\NormalTok{, }\DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{5}\NormalTok{]], }\DataTypeTok{size =} \DecValTok{1}\NormalTok{, }\DataTypeTok{linetype =} \DecValTok{2}\NormalTok{) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_vline}\NormalTok{(}\DataTypeTok{xintercept =} \OperatorTok{-}\FloatTok{0.25}\NormalTok{, }\DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{5}\NormalTok{]], }\DataTypeTok{size =} \DecValTok{1}\NormalTok{, }\DataTypeTok{linetype =} \DecValTok{2}\NormalTok{) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_vline}\NormalTok{(}\DataTypeTok{xintercept =} \FloatTok{0.25}\NormalTok{, }\DataTypeTok{color =} \KeywordTok{palette_light}\NormalTok{()[[}\DecValTok{5}\NormalTok{]], }\DataTypeTok{size =} \DecValTok{1}\NormalTok{, }\DataTypeTok{linetype =} \DecValTok{2}\NormalTok{) }\OperatorTok{+}
+\StringTok{  }\CommentTok{# Aesthetics}
+\StringTok{  }\KeywordTok{theme_tq}\NormalTok{() }\OperatorTok{+}
+\StringTok{  }\KeywordTok{labs}\NormalTok{(}\DataTypeTok{title =} \StringTok{"Churn Correlation Analysis"}\NormalTok{,}
+       \DataTypeTok{subtitle =} \StringTok{"Positive Correlations (contribute to churn), Negative Correlations (prevent churn)"}\NormalTok{,}
+       \DataTypeTok{y =} \StringTok{"Feature Importance"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{r-tensorflow_files/figure-latex/unnamed-chunk-12-3.pdf}
+
+
+\end{document}
